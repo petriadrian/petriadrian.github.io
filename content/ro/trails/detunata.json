@@ -1,0 +1,192 @@
+{
+  "presentation": {
+    "title": "Detunata",
+    "headline": "Coloanele de bazalt - traseul Detunata",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~21km</b>",
+    "description": "Un masiv înalt, ca un zid, format din coloane dreptunghiulare de bazalt. Vizităm și Tăul Mare și câteva sate de munte.",
+    "fullWidthImg": "img/trails/detunata/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/detunata/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/trails/detunata",
+    "textOnMouseOver": "vezi traseul...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Detunata. Trasee drumeție, bicicletă Roșia Montană",
+    "description": "Un masiv înalt, ca un zid, format din coloane dreptunghiulare de bazalt. Vizităm și Tăul Mare și câteva sate de munte. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare. Munții Apuseni, Transilvania, Romania",
+    "displayOnShareImg": "img/trails/detunata/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Începem traseul din Centrul Istoric, de la Casa Petri și o luăm spre Tăul Mare unde ne înviorăm puțin cu apa rece de munte că lung traseu ne mai așteaptă... Pornim apoi spre satele Muntari și Poiana printr-un peisaj tipic din Țara Moților, presărat ici și colo cu căpițe și pașuni pe unde o să întâlniți turme de oi sau vaci. Continuăm drumul până ce dăm de o culme montană formată din coloane înalte de bazalt ca cele din imaginea de mai sus. Pare puțin înfricoșător ... nu e așa? O potecă vă va urca până pe vârful acestei culmi și orice temere va dispărea odată ce o să vedeți priveliștea de aici. La întoarcere, chiar înainte de a intra în Roșia Montana faceți o oprire și pe masivul Șulei, un loc ideal de admirt apusul asupra localității. Traseul este complet marcat de către Salvamont, se face pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte. Ultimii 500 de metri (urcușul pe vârful Detunata) se face pe o potecă îngustă care nu e accesibilă pentru biciclete. <b>Indicațiile de mai jos reprezintă durata și timpul pentru drumul dus-intors.</b>",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-download'></i> descarcă <b>datele GPS</b>",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> vezi <b>diferența de nivel</b>",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJv_3GPwvLTkcRDy5ru-eVXWI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJ6e_SmJXMTkcRoxSvt__dGSs|place_id:ChIJ2dfWrJnMTkcR1o8Ofr5fmo4|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~21km"
+              },
+              {
+                "textOnMouseOver": "durata pe jos",
+                "text": "<i class='fa fa-blind'></i> ~6h"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Atracții",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "bigLake"
+            },
+            {
+              "id": "muntariPoiana"
+            },
+            {
+              "id": "detunata"
+            },
+            {
+              "id": "letySulei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Spre Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/8.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/8.jpg"
+            },
+            {
+              "text": "Spre Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/5.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/5.jpg"
+            },
+            {
+              "text": "Pe drum....",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/4.jpg"
+            },
+            {
+              "text": "Drumul spre satul Poiana",
+              "thumbnailUrl": "img/trails/attractions/muntariPoiana/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/muntariPoiana/fullSize/3.jpg"
+            },
+            {
+              "text": "Indicatorul traseului întâlnit pe drum.",
+              "thumbnailUrl": "img/trails/attractions/muntariPoiana/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/muntariPoiana/fullSize/4.jpg"
+            },
+            {
+              "text": "Priveliște spre Valea Cornei.",
+              "thumbnailUrl": "img/trails/attractions/muntariPoiana/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/muntariPoiana/fullSize/6.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/trails/corna"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

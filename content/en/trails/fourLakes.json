@@ -1,0 +1,214 @@
+{
+  "presentation": {
+    "title": "The lakes",
+    "headline": "The lakes of Rosia Montana",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <b>~15km</b><br>",
+    "description": "A trail around the village, on an unpaved road along four lakes: Țarina, Tăul Mare, Corna, Brazi.",
+    "fullWidthImg": "img/trails/fourLakes/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/fourLakes/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/trails/fourLakes",
+    "textOnMouseOver": "see the trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "The lakes of Rosia Montana. Bike trail",
+    "description": "A trail around the village, on an unpaved road along four lakes (Țarina, Tăul Mare, Corna, Brazi) and 2 peaks (Rotundu și Șulei). See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "displayOnShareImg": "img/trails/fourLakes/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Start from Casa Petri and head through the 'Țarina' land, along the 'Țarini' lake until you reach the the Weather Station from the 'Rotundu' Peak (the highest point from this trail). From here, on the left, you can see 'Tăul Mare' lake, which is our next destination. Head towards it and then climb on Șulei Peak. Have a break, enjoy the view and then continue to the 'Corna' Lake. Return in the village by the 'Piatra Corbului' (Raven Stone) and 'Brazi' Lake. The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-download'></i> descarcă <b>datele GPS</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.bikemap.net/en/route/3045395-4-tauri/#/z14/46.30072,23.14141/terrain",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> vezi <b>diferența de nivel</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.bikemap.net/en/route/3045395-4-tauri/#/z14/46.30072,23.14141/terrain",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.bikemap.net/en/route/3045395-4-tauri/widget/?width=640&amp;extended=1&amp;distance_markers=1&amp;height=480&amp;unit=metric' border='0' frameborder='0' marginheight='0' marginwidth='0' scrolling='no'",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA",
+            "list": [
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~15km"
+              },
+              {
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-blind'></i> ~6h"
+              },
+              {
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "tariniLake"
+            },
+            {
+              "id": "rotunduPeak"
+            },
+            {
+              "id": "bigLake"
+            },
+            {
+              "id": "letySulei"
+            },
+            {
+              "id": "cornaLake"
+            },
+            {
+              "id": "braziLake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.",
+          "images": [
+            {
+              "text": "To Țarina",
+              "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/5.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/5.jpg"
+            },
+            {
+              "text": "Tăul Țarinii.",
+              "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/3.jpg"
+            },
+            {
+              "text": "At the the pine forest entrance - raspberry area.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/4.jpg"
+            },
+            {
+              "text": "Rotundu Peak",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/6.jpg"
+            },
+            {
+              "text": "Between the Sulei Peak and Tăul Mare",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/3.jpg"
+            },
+            {
+              "text": "Monday morning view.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/6.jpg"
+            },
+            {
+              "text": "Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/5.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/5.jpg"
+            },
+            {
+              "text": "Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/10.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/10.jpg"
+            },
+            {
+              "text": "Lety și Șulei.",
+              "thumbnailUrl": "img/trails/attractions/letySulei/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/letySulei/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/vartop"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

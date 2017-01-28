@@ -1,0 +1,67 @@
+{
+  "presentation": {
+    "title": "Excursii la Roșia Montană",
+    "headline": "Pachete și vouchere",
+    "description": "<b>Pachete și vouchere!</b><br>Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și diverse activități ...",
+    "fullWidthImg": "img/packages/summary/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/packages/summary/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/packages/summary",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Descoperă Roșia Montană. Pachete  și vouchere",
+    "description": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și participarea la diverse activități sau trasee ghidate. Prin rezervarea unui pachet vei primi un voucher care poate fi folosit în anumite perioade sau oferit cadou.",
+    "displayOnShareImg": "img/packages/summary/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "",
+      "sectionId": "details",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete care includ cazarea și participarea la diverse activități sau trasee ghidate. Prin rezervarea unui pachet o să primești un voucher cu care te așteptăm la Roșia Montană în perioada specificată. Voucherele pot fi de asemenea oferite ca și cadou altor persoane."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-gift'></i> Vouchere",
+      "sectionId": "trailsOnAreas",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/packages/weekend"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        }
+      ]
+    }
+  ]
+}

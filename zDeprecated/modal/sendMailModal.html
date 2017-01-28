@@ -1,0 +1,30 @@
+<!-- MODALS -->
+<div class="modal fade" id="sendMail" tabindex="-1" role="dialog" aria-labelledby="sendMail" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
+                <h4 class="modal-title" id="myModalLabel">Multumim ca ne scrii!</h4>
+            </div>
+            <form role="form" data-toggle="validator">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="inputName">Nume</label>
+                        <input type="text" class="form-control" id="inputName" placeholder="Nume" required>
+                        <label for="inputEmail">Email</label>
+                        <input type="email" class="form-control" id="inputEmail" placeholder="Email" required>
+
+                    </div>
+                    <div class="form-group">
+                        <label for="inputMessage">Mesaj</label>
+                            <textarea id="inputMessage" pattern=".{5,10}" class="form-control" rows="3"
+                                      placeholder="Mesaj" required></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary" value="Check">Trimite</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

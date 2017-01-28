@@ -1,0 +1,187 @@
+{
+  "presentation": {
+    "title": "Attractions and trails",
+    "headline": "Attractions and hiking or biking trails",
+    "description": "<b>Biking or walking?</b><br>Discover our area through the trails presented here. They have online maps from our house to the main touristic attractions...",
+    "fullWidthImg": "img/trails/summary/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/summary/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/trails/summary",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Attractions and hiking or biking trails in Rosia Montana",
+    "description": "Trails on areas (from historic center and roman galleries up to the top of the mountains). Thematic trails (mining evolution, the protests, rural life). You can also book guided tours, rooms, bikes, camping in Rosia Montana, Alba, Apuseni Mountains, Transylvania, Romania.",
+    "displayOnShareImg": "img/trails/summary/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "",
+      "sectionId": "details",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with fantastic landscapes due to the mountains, valleys and the lakes around us, but also with a rich heritage because of the buildings, galleries and mining areas built by the various civilizations who came here to extract gold. To discover our attractions see the hiking or biking trails bellow. Each trail has images, description and <b>online maps</b> with <b>GPS</b> data, so they can be access from any device during your journey. <br> The icons from each trail means: <i class='fa fa-lg fa-blind'></i> - <b>hiking</b> trail | <i class='fa fa-lg fa-bicycle'></i> - <b>biking</b> trail | <i class='fa fa-lg fa-car'></i> - the destination can be also reach by <b>car</b>"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Local trails",
+      "sectionId": "trailsOnAreas",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "These trails contains the main attractions from Roșia Montană."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/trails/historicCenter"
+        },
+        {
+          "page": "en/trails/romanGalleries"
+        },
+        {
+          "page": "en/trails/carnic"
+        },
+        {
+          "page": "en/trails/letySulei"
+        },
+        {
+          "page": "en/trails/tarina"
+        },
+        {
+          "page": "en/trails/fourLakes"
+        },
+        {
+          "page": "en/trails/vartop"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Surroundings",
+      "sectionId": "surroundings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "These trails contains the attractions around the Roșia Montană."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/trails/detunata"
+        },
+        {
+          "page": "en/trails/geamana"
+        },
+        {
+          "page": "en/trails/corna"
+        },
+        {
+          "page": "en/trails/vulcan"
+        },
+        {
+          "page": "en/trails/daffodilMeadow"
+        },
+        {
+          "page": "en/trails/scarisoara"
+        },
+        {
+          "page": "en/trails/zlatnaPool"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Guided trails",
+      "sectionId": "thematicTrails",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "The above trails can be also made with a guide, but we also recommend the following thematic, guided trails:"
+        },
+        {
+          "textContent": "<b>The mining evolution trail</b> - starts with the old mining story of Rosia Montana by visiting the Antic galleries made with fire and water, then the rectangular galleries made by romans with the chisel and hammers and the installations for processing the golden ore (stamps mills and artificial lakes). At the end will be visited the mining plants, the wasting ponds and the open pits made recently by the the communist, which shaved the mountains and covered the Geamana village with a wasting lake."
+        },
+        {
+          "textContent": "<b>The mining protests trail</b> - contains the areas where protests were held for or against the gold mining project proposed by the Canadian company in 2007. Find out what happened abd see how it looks the village which should have been transformed in an open pit mine with one of the biggest cyanide wasting lake from Europe. At the end we will watch at Casa Petri some movies with the streets protests from 2014, organized in the country and abroad, against this project."
+        },
+        {
+          "textContent": "<b>Are you interested in guided tours?</b> Inform us while booking a room.",
+          "seeAlso": [
+            {
+              "text": "Click here for bookings...",
+              "textOnMouseOver": "Click here...",
+              "link": "en/accommodation#bookings",
+              "openInNewTab": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "",
+      "sectionId": "justToDisplayALine",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/topAttractions"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/packages/summary"
+        },
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/events/steamTrain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "presentation": {
+    "title": "Impresii",
+    "headline": "Crestem împreună cu cei ce ne trec pragul",
+    "description": "<b>Ce spun oaspeții noștri?</b><br>Vezi aici experiențele și impresiile lor despre noi și traseele de drumeție sau ciclism făcute...",
+    "fullWidthImg": "img/reviews/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/reviews/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/review",
+    "textOnMouseOver": "Vezi mai multe imagini și review-uri de la cei care ne-au vizitat",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Review-uri Casa Petri Rosia Montana",
+    "description": "Oameni faini, de la care am avut multe de învățat, ne-au trecut pragul. Vezi aici experiențele și impresiile lor. Unii pot fi chiar contactați. Descoperă și tu Roșia Montană prin traseele de drumeție sau bicicletă de pe site. Rezervă camere, biciclete, trasee ghidate, campare.",
+    "displayOnShareImg": "img/reviews/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-commenting'></i> Impresii",
+      "sectionId": "reviews",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Oameni faini, de la care am avut multe de învățat, ne-au trecut pragul. Impresiile sunt luate din caietul pentru review-uri al Casei Petri pe care îl găsiți prin camere. Vă așteptă să îl răsfoiți și să îl completați și voi."
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "reviews",
+          "ids": [
+            {
+              "id": "15"
+            },
+            {
+              "id": "16"
+            },
+            {
+              "id": "1"
+            },
+            {
+              "id": "2"
+            },
+            {
+              "id": "6"
+            },
+            {
+              "id": "11"
+            },
+            {
+              "id": "12"
+            },
+            {
+              "id": "13"
+            },
+            {
+              "id": "3"
+            },
+            {
+              "id": "4"
+            },
+            {
+              "id": "5"
+            },
+            {
+              "id": "7"
+            },
+            {
+              "id": "8"
+            },
+            {
+              "id": "9"
+            },
+            {
+              "id": "10"
+            },
+            {
+              "id": "14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-pencil-square-o'></i> Adaugă o impresie",
+      "sectionId": "addReview",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "form",
+      "sendEmailTitle": "newReview",
+      "successMessage": "Vă mulțumim! Părerea dumneavoastră îi va ajuta pe alți turiști în a alege Roșia ca destinație de vacanță.",
+      "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
+      "submitButtonText": "Trimite",
+      "fields": [
+        {
+          "type": "textarea",
+          "name": "feedback",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Cum te-ai simțit la Casa Petri? ...",
+          "rows": 3,
+          "maxChars": 350,
+          "required": true
+        },
+        {
+          "type": "textRow",
+          "name": "name",
+          "iconFortAwesomeClass": "fa fa-user fa-fw",
+          "placeholder": "Nume",
+          "maxChars": 30,
+          "required": true
+        },
+        {
+          "type": "textRow",
+          "name": "locality",
+          "iconFortAwesomeClass": "fa fa-map-marker fa-fw",
+          "placeholder": "Localitate",
+          "maxChars": 30,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

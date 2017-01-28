@@ -1,0 +1,17 @@
+<div class="pageIntro">
+    <div class="gradientFromWhiteToTransparent">
+        <img ng-src="{{pageContent.presentation.fullWidthImg}}"/>
+    </div>
+    <div class="introContent">
+        <h1 ng-bind-html="pageContent.presentation.headline | trustHtml"></h1>
+
+        <div id="stickPageIntroMenuOnTheTop">
+        <span ng-repeat="section in pageContent.sections">
+            <a ng-if="section.type == 'title' && section.addLinkInPageHeadline"
+               ng-click="scrollTo(section.sectionId)"
+               class="btn btn-large btn-primary">{{section.text | removeHtmlFromText}}</a>
+        </span>
+        </div>
+    </div>
+</div>
+<div style="clear:both"></div>

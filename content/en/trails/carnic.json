@@ -1,0 +1,210 @@
+{
+  "presentation": {
+    "title": "Cârnic",
+    "headline": "The golden mountain - Cârnic trail",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <b>~8km</b>",
+    "description": "Climb by the Brazi and Anghel lakes to the top of the Cârnic Mountain at Piatra Corbului and Sfinx, then return by the Cetate Open Pit.",
+    "fullWidthImg": "img/trails/carnic/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/carnic/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/trails/carnic",
+    "textOnMouseOver": "see the trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "The golden mountain - Cârnic trail",
+    "description": "Climb by the Brazi and Anghel lakes to the top of the Cârnic Mountain at Piatra Corbului and Sfinx, then return by the Cetate Open Pit. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "displayOnShareImg": "img/trails/carnic/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "From Casa Petri yard you will notice the view to the 'Cârnic' mountain. It’s a mountain of gold, from all points of views, as it hides many tons of gold, but also the unique Roman galleries (some Antiques). On the top of the mountain you will notice a horse-shaped rock, with a cross on top of it. This is the Sphinx or 'Căluțul', our main objective for this trail. Head towards 'Brazi' Lake and 'Platoul Cârnic' (Cârnic Plateau) and then climb through the pine forest to the top of the mountain at the Raven Stone and Sphinx. Return back to the historic center by the Piatra Despicată and Cetate open pit. The Raven Stone and Sphinx can be visited only by foot. The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk|place_id:ChIJLeeOVuXMTkcRu5naWkNpv9k|place_id:ChIJAavGOvvMTkcRq189TY8w7Us|place_id:ChIJQ-Yfu_zMTkcRytPpBV-ZsFM|place_id:ChIJIZFsev3MTkcRgPGXF8Plk4Y",
+            "list": [
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~8km"
+              },
+              {
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-blind'></i> ~3h"
+              },
+              {
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~2h"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "sicilianStreet"
+            },
+            {
+              "id": "braziLake"
+            },
+            {
+              "id": "carnicPlateau"
+            },
+            {
+              "id": "carnicSfinx"
+            },
+            {
+              "id": "ravenStone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.,",
+          "images": [
+            {
+              "text": "Along the Cetate Open Pit",
+              "thumbnailUrl": "img/trails/attractions/carnic/cetatePit/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/cetatePit/fullSize/1.jpg"
+            },
+            {
+              "text": "Piatra Despicată (Isolated Stone) - is an protected natural area, unique from geological point of view because its type of rock cannot be found elsewhere in our area. The local legend says that an ogre has dropped it from his claws while flying over the Apuseni Mountains.",
+              "thumbnailUrl": "img/trails/attractions/carnic/piatraDespicata/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/piatraDespicata/fullSize/1.jpg"
+            },
+            {
+              "text": "The Roman Galleries from Cârnic (Galeriile Romane Cârnic)",
+              "thumbnailUrl": "img/trails/attractions/carnic/galleries/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/galleries/fullSize/1.jpg"
+            },
+            {
+              "text": "The galleries made with fire and water - Cârnic (Galeriile apă și foc)",
+              "thumbnailUrl": "img/trails/attractions/carnic/galleries/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/galleries/fullSize/2.jpg"
+            },
+            {
+              "text": "Climbing at the Sphinx.",
+              "thumbnailUrl": "img/trails/attractions/carnic/sphinx/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/sphinx/fullSize/3.jpg"
+            },
+            {
+              "text": "Piatra Corbului",
+              "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/piatraCorbului.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/piatraCorbului.jpg"
+            },
+            {
+              "text": "View from Piatra Corbului - winter sunset.",
+              "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/winter.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/winter.jpg"
+            },
+            {
+              "text": "Platoul Cârnic",
+              "thumbnailUrl": "img/trails/attractions/carnic/carnicPlateau/thumbnail/5.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/carnicPlateau/fullSize/5.jpg"
+            },
+            {
+              "text": "The best spot to see the sunset - Platoul Cârnic.",
+              "thumbnailUrl": "img/trails/attractions/carnic/carnicPlateau/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/carnicPlateau/fullSize/4.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/romanGalleries"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

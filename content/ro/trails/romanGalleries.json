@@ -1,0 +1,167 @@
+{
+  "presentation": {
+    "title": "Galeriile Romane - Orlea",
+    "headline": "Galeriile Romane - traseul Orlea",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~5km</b>",
+    "description": "Vizităm Galeriile Romane de la Muzeul Mineritului prin care se extrăgea aurul și alte atracții din zona Orlea (biserici și sculpturile de calcar).",
+    "fullWidthImg": "img/trails/romanGalleries/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/romanGalleries/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/trails/romanGalleries",
+    "textOnMouseOver": "vezi traseul...",
+    "openInNewTab": false
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "metaData": {
+    "title": "Galeriile Romane Roșia Montană - traseul Orlea",
+    "description": "Vizităm Galeriile Romane de la Muzeul Mineritului prin care se extrăgea aurul și alte atracții din zona Orlea (biserici și sculpturile de calcar). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "displayOnShareImg": "img/trails/romanGalleries/presentation/displayOnShareImg.jpg"
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Traseul ne va purta spre celebrele galerii romane de la Muzeul Mineritului 'ROSIAMIN'. Drumul de la Casa Petri până la Muzeu este asfaltat, iar partea a doua traseului (de la Muzeu la biserici și sculpturi) este pe un drum de țară așa că se poate face pe jos sau pe bicicletă de munte. Timpul afișat mai jos include și vizita la muzeu.",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJLRYf_xrNTkcRVs2TeQDpAj4|place_id:ChIJ-0OGVhDNTkcRThLcLvAEoLQ|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~5km"
+              },
+              {
+                "textOnMouseOver": "durata pe jos",
+                "text": "<i class='fa fa-blind'></i> ~3h"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~2h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "<i class='fa fa-line-chart'></i> ușor"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Atracții",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "romanGalleries"
+            },
+            {
+              "id": "orthodoxChurch"
+            },
+            {
+              "id": "grecoCatholicChurch"
+            },
+            {
+              "id": "limestoneSculptures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Biserica Greco Catolică.",
+              "thumbnailUrl": "img/trails/attractions/orlea/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/orlea/fullSize/2.jpg"
+            },
+            {
+              "text": "Muzeul Mineritului - șteampuri de prelucrare a aurului.",
+              "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/steampuri.jpg",
+              "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/steampuri.jpg"
+            },
+            {
+              "text": "Muzeul Mineritului. Aflați cum se prelucra aurul și vedeți instalațiile folosite.",
+              "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/trails/tarina"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

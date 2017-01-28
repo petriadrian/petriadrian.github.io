@@ -1,0 +1,109 @@
+{
+  "presentation": {
+    "title": "Mocănița",
+    "headline": "Cu Mocănița prin Țara Moților - Apuseni",
+    "description": "<b>| Iun-Sept |</b> La 8km de noi, pe o cale ferată îngustă, circulă Mocănița cu Aburi. Muncitorii veneau cu ea la stația minieră Gura Roșia. Acum e folosită pentru turiști.",
+    "fullWidthImg": "img/events/steamTrain/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/events/steamTrain/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/events/steamTrain",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Cu mocănița prin Munții Apuseni",
+    "description": "La 8km de Roșia Montană, pe o cale ferată îngustă, circulă Mocănița cu Aburi. Muncitorii veneau cu ea la stația minieră Gura Roșia, iar acum e folosită pentru turiști. Vezi mai multe atracții din Roșia Montană. Rezervă camere, biciclete, cazare, campare.",
+    "displayOnShareImg": "img/events/steamTrain/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-info-circle'></i> Detalii",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Dacă ajungeți în zonă merită să încercați Mocănița cu abur. Aceasta circulă între Abrud și Câmpeni iar durata unei călătorii este cam de 3 ore. Gara Mocăniței este în Abrud Sat (la ~15 minute de mers cu mașina de Casa Petri pe drum asfaltat - vedeți harta de mai jos). Calea ferată îngustă și Mocănița au fost restaurate recent și puse la dispoziția turistilor.",
+          "seeAlso": [
+            {
+              "text": "Mai multe detalii despre orar și traseu aici...",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://www.cfi.ro/index.php?p=1_15",
+              "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "<b>Mocănița prin satul Cristea</b>",
+              "thumbnailUrl": "img/events/steamTrain/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/events/steamTrain/article/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>Mocănița</b>",
+              "thumbnailUrl": "img/events/steamTrain/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/events/steamTrain/article/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Cum ajung la gară?",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJXbvdmu3NTkcRy1frt92KFy0&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
+            "list": [
+              {
+                "textOnMouseOver": "durată",
+                "text": "<i class='fa fa-car'></i> ~10min"
+              },
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~10km"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

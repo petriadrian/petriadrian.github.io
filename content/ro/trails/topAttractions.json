@@ -1,0 +1,171 @@
+{
+  "presentation": {
+    "title": "Top 10 atracții",
+    "headline": "Top 10 atracții de vizitat în Roșia Montană",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <b>~15km</b>",
+    "description": "Traseul principalelor atracții (Centrul Istoric, lacurile, galeriile romane, monumentele de patrimoniu).",
+    "fullWidthImg": "img/trails/topAttractions/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/topAttractions/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/trails/topAttractions",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Top 10 atracții de vizitat în Roșia Montană",
+    "description": "Traseul principalelor atracții din Roșia Montană (Centrul Istoric, lacurile, galeriile romane, monumentele de patrimoniu). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "displayOnShareImg": "img/trails/topAttractions/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Ați ajuns în Rosia Montana sau plănuiți o vizită și nu prea aveți mult timp la dispoziție? Vă propunem acest traseu care cuprinde <b>principalele</b> obiective turistice de aici. Sub hartă găsiți câteva imagini și sfaturi despre aceste obiective. Porniți de la Casa Petri care se află chiar în Centrul Istoric și vizitați pas cu pas fiecare obiectiv.",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJH-Ab5-DMTkcRbU8_Bz1R63o|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJeb9NLN7MTkcRNg6SoGpHwIw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~15km"
+              },
+              {
+                "textOnMouseOver": "durata pe jos",
+                "text": "<i class='fa fa-blind'></i> ~6h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "<i class='fa fa-line-chart'></i> ușor"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Atracții",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "romanGalleries"
+            },
+            {
+              "id": "romanCatholicChurch"
+            },
+            {
+              "id": "unitarianChurch"
+            },
+            {
+              "id": "braziLake"
+            },
+            {
+              "id": "carnicSfinx"
+            },
+            {
+              "id": "ravenStone"
+            },
+            {
+              "id": "szekeyHouse"
+            },
+            {
+              "id": "vaidoaiaGalleries"
+            },
+            {
+              "id": "berg"
+            },
+            {
+              "id": "limestoneSculptures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Turnul Bisericii Romano Catolice",
+              "thumbnailUrl": "img/trails/attractions/churches/romanCatholicChurch/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/churches/romanCatholicChurch/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/trails/tarina"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

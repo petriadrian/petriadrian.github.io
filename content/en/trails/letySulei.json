@@ -1,0 +1,201 @@
+{
+  "presentation": {
+    "title": "Lety and Sulei",
+    "headline": "The trail to the Lety and Sulei peaks",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <b>~10km</b>",
+    "description": "Climb along the Vaidoaia Gallery and 'Tăul Mare' Lake to the Lety and Sulei peaks and return by the Corna and Brazi lakes.",
+    "fullWidthImg": "img/trails/letySulei/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/letySulei/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/trails/letySulei",
+    "textOnMouseOver": "see the trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Lety and Sulei. Hiking trails Rosia Montana",
+    "description": "Climb along the Vaidoaia Gallery and 'Tăul Mare' Lake to the Lety and Sulei peaks and return by the Corna and Brazi lakes. See the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "displayOnShareImg": "img/trails/letySulei/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "The trail will take you to 'Văldoaia' Gallery, 'Tăul Mare' lake and then up to the Lety and Șulei peaks, to enjoy the view from here. To return back in the historic center you will have to go along the 'Corna' Lake and 'Brazi' Lake. The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.bikemap.net/en/route/3784079-lety-si-sulei/#/z14/46.30146,23.13712/terrain",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.bikemap.net/en/route/3784079-lety-si-sulei/#/z14/46.30146,23.13712/terrain",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJeb9NLN7MTkcRNg6SoGpHwIw|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJx0kJ88LMTkcRlbYRRD21As0|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q",
+            "list": [
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~10km"
+              },
+              {
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-blind'></i> ~4h"
+              },
+              {
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~3h"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "vaidoaiaGalleries"
+            },
+            {
+              "id": "szekeyHouse"
+            },
+            {
+              "id": "bigLake"
+            },
+            {
+              "id": "letySulei"
+            },
+            {
+              "id": "cornaLake"
+            },
+            {
+              "id": "braziLake"
+            },
+            {
+              "id": "sicilianStreet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.,",
+          "images": [
+            {
+              "text": "To Văidoaia Galleries. On the left are the walls of the house where 'Nunta de piatră' movie was filmed).",
+              "thumbnailUrl": "img/trails/attractions/vaidoaiaGalleries/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/vaidoaiaGalleries/fullSize/4.jpg"
+            },
+            {
+              "text": "Văidoaia Galleries.",
+              "thumbnailUrl": "img/trails/attractions/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/vaidoaiaGalleries/fullSize/3.jpg"
+            },
+            {
+              "text": "Towards Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/7.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/7.jpg"
+            },
+            {
+              "text": "Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/10.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/10.jpg"
+            },
+            {
+              "text": "Lety și Șulei.",
+              "thumbnailUrl": "img/trails/attractions/letySulei/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/letySulei/fullSize/3.jpg"
+            },
+            {
+              "text": "Lety și Șulei.",
+              "thumbnailUrl": "img/trails/attractions/letySulei/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/letySulei/fullSize/4.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/historicCenter"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

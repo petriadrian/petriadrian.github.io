@@ -1,0 +1,226 @@
+{
+  "presentation": {
+    "title": "Campare",
+    "headline": "Cazare la mii de stele. Locuri de campare",
+    "description": "Campează în siguranță, în curtea casei cu priveliște spre munte. Ai acces la baie, bucătărie, loc de luat masa, foișor și hamace. <br><b>Rezervă campare</b>",
+    "fullWidthImg": "img/accommodation/camping/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/accommodation/camping/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/accommodation/camping",
+    "textOnMouseOver": "Vezi locurile de campare",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Campare la Casa Petri Roșia Montană",
+    "description": "Campează în siguranță, în curtea casei cu priveliște spre munte. Ai acces la baie, bucătărie, loc de luat masa, foișor și hamace. Descoperă zona prin traseele de drumeție și bicicletă de pe site. Poți rezerva biciclete sau traasee ghidate pentru a afla mai multe despre industria minieră sau galeriile romane. Locuri de mers cu cortul în Rosia Montana, Alba, Munții Apuseni, Transilvania, Romania.",
+    "displayOnShareImg": "img/accommodation/camping/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-chevron-circle-up'></i> Zonă campare",
+      "sectionId": "campingArea",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Și noi, așa ca tine, atunci când mergem la munte căutăm un loc potrivit pentru cort. De aceea am pregătit aici la Roșia Montană, în curtea casei un mic spațiu de campare, pentru maxim 4 corturi, cu acces la baie, bucătărie, loc de luat masa, wifi, foișor și hamace."
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "",
+          "images": [
+            {
+              "text": "<b>Zona de campare</b> - curte",
+              "thumbnailUrl": "img/accommodation/article/camping/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/article/camping/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>Zona de campare - baie</b> - Încălzire prin boiler pe lemne",
+              "thumbnailUrl": "img/accommodation/article/camping/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/article/camping/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar-check-o'></i> Rezervări",
+      "sectionId": "reservations",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Rezervă loc de campare, biciclete sau trasee ghidate. Pentru a ne organiza cât mai bine și a ne asigura că totul e pregătit când sosești te rugăm să faci o rezervare cât mai din timp. Știm că nu vi în zonă doar pentru noi, ci pentru a vizita împrejurimile, de aceea donăm o parte din venit celor care au grijă de clădirile de patrimoniu din Roșia Montană sau unor inițiative locale. Pentru grupuri mai mari sau perioade mai lungi oferim reduceri. <b>Rezervarea va fi confirmată prin email!</b>"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "sendEmailTitle": "campingReservation",
+      "submitButtonText": "Trimite rezervarea",
+      "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
+      "errorMessage": "EROARE! Contactați-ne prin email sau telefon (vedeți partea de jos a paginii)",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "Email",
+          "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "placeholder": "Alege perioada",
+          "required": true
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "name": "tentType",
+          "required": true,
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Selectați loc campare și preț",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ adaugă loc campare",
+            "removeButtonText": "- șterge loc campare",
+            "minOccurs": 1,
+            "maxOccurs": 4
+          },
+          "inputs": [
+            {
+              "selectOptions": [
+                {
+                  "text": "loc cort de 2 persoane - 45lei/noapte"
+                },
+                {
+                  "text": "loc cort de 3 persoane - 59lei/noapte"
+                },
+                {
+                  "text": "loc cort de 4 persoane - 79lei/noapte"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "selectBox",
+          "name": "bikes",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-bicycle fa-fw",
+          "placeholder": "Rezervă biciclete",
+          "selectOptions": [
+            {
+              "text": "1 bicicletă - 49lei/zi"
+            },
+            {
+              "text": "2 biciclete - 95lei/zi"
+            },
+            {
+              "text": "3 biciclete - 129lei/zi"
+            }
+          ]
+        },
+        {
+          "type": "checkBoxes",
+          "title": "<b>Doresc:</b>",
+          "checkBoxes": [
+            {
+              "name": "guidedTours",
+              "text": "<b>trasee ghidate</b> - la sosire veți stabili cu ghidul nostru traseele dorite și tariful."
+            },
+            {
+              "name": "chatWithLocals",
+              "text": "o întâlnire cu localnici pentru a povesti la un pahar de țuică despre trecutul și prezentul Roșiei Montane"
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Scrie-ne aici ce trasee ghidate ai vrea să faci sau dacă dorești să iei masa la fermă, sau alte detalii...",
+          "rows": 3,
+          "maxChars": 350,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Facilități",
+      "sectionId": "facilities",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "facilities",
+          "ids": [
+            {
+              "id": "freeWifi"
+            },
+            {
+              "id": "food"
+            },
+            {
+              "id": "boardGames"
+            },
+            {
+              "id": "emergencies"
+            },
+            {
+              "id": "parking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/relaxing"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "seeAlso",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/review"
+        },
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/activities/hiking"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

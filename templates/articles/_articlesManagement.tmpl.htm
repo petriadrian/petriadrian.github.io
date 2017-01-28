@@ -1,0 +1,14 @@
+<span ng-if="!!section.specificArticles"
+      ng-repeat="article in section.specificArticles">
+    <span ng-include="'templates/articles/_article.tmpl.htm'"></span>
+</span>
+
+<span ng-if="!!section.commonArticles"
+      ng-repeat="categoryArticles in section.commonArticles"
+      ng-controller="GetCategoryArticlesCtrl">
+    <span ng-repeat="article in categoryArticles track by $index">
+        <span ng-include="'templates/articles/_article.tmpl.htm'"></span>
+    </span>
+</span>
+
+<div style="clear:both"></div>

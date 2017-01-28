@@ -1,0 +1,8 @@
+<ul class="nav navbar-nav navbar-right">
+    <li data-ng-repeat="button in headerContent.languageButtons">
+        <a title="{{button.url.textOnMouseOver}}"
+           ng-click="localizationService.changeLanguage(button.languageCode)"
+           data-toggle="collapse" data-target=".navbar-collapse.in"
+           ng-bind-html="button.text | trustHtml"></a>
+    </li>
+</ul>

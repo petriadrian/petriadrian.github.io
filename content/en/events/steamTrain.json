@@ -1,0 +1,109 @@
+{
+  "presentation": {
+    "title": "Steam train",
+    "headline": "Discover our area by Steam Train",
+    "description": "<b>| June-Sept |</b> Near Rosia Montana, on a narrow railway, runs the Steam Train. It was used by workers to come at the mining plant 'Gura Rosia' and now for tourism.",
+    "fullWidthImg": "img/events/steamTrain/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/events/steamTrain/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/events/steamTrain",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "The Steam Train from Apuseni Mountains",
+    "description": "Near Rosia Montana (8km away), on a narrow railway, runs the Steam Train (from Abrud to Câmpeni). It was used by workers to come at the mining plant 'Gura Rosia' and now for tourism. See more attractions in Rosia Montana. Book rooms, bikes, guided tours, camping.",
+    "displayOnShareImg": "img/events/steamTrain/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-info-circle'></i> Details",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "If you arrive in the area is really worth trying the Steam Train. One trip takes ~3h and it goes from 'Abrud' to 'Câmpeni'. The Steam Train station is in 'Abrud Sat' (~15min away by car from Casa Petri on asphalted road - see the map below). The narrow railway and the Steam Train were recently open for tourists.",
+          "seeAlso": [
+            {
+              "text": "More about the trail and the schedule here...",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.cfi.ro/index.php?p=1_15",
+              "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "<b>The steam train</b> - in the summer",
+              "thumbnailUrl": "img/events/steamTrain/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/events/steamTrain/article/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>The steam train</b>",
+              "thumbnailUrl": "img/events/steamTrain/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/events/steamTrain/article/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> How to get there?",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJXbvdmu3NTkcRy1frt92KFy0&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
+            "list": [
+              {
+                "textOnMouseOver": "durată",
+                "text": "<i class='fa fa-car'></i> ~10min"
+              },
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~10km"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

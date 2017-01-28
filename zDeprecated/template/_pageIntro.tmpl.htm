@@ -1,0 +1,22 @@
+<script id="pageIntroTemplateId" type="text/x-jQuery-tmpl">
+    <div class="pageIntro">
+        <div class="gradientFromWhiteToTransparent">
+            <img src="${backgrounddisplayOnShareImg}"/>
+        </div>
+        <div class="introContent">
+            <h1>
+                {{html title}}
+            </h1>
+            <a href="#firstSectionTitle" class="btn btn-large btn-primary">${firstSectionTitleText}</a>
+            {{if secondSectionTitleText}}
+                <a href="#secondSectionTitle" class="btn btn-large btn-primary">${secondSectionTitleText}</a>
+            {{/if}}
+            {{if thirdSectionTitleText}}
+                <a href="#thirdSectionTitle" class="btn btn-large btn-primary">${thirdSectionTitleText}</a>
+            {{/if}}
+        </div>
+    </div>
+
+
+
+</script>

@@ -1,0 +1,10 @@
+<ul class="nav navbar-nav pull-right">
+    <li data-ng-repeat="button in headerContent.iconButtons">
+        <a title="{{button.url.textOnMouseOver}}"
+           href="{{button.url.link}}"
+           data-toggle="collapse"
+           target="_blank"
+           data-target=".navbar-collapse.in"
+           ng-bind-html="button.text | trustHtml"></a>
+    </li>
+</ul>

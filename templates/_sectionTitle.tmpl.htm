@@ -1,0 +1,6 @@
+<div class="row titleLayout anchorParent">
+    <span id="{{section.sectionId}}" class="anchor"></span>
+
+    <h1 ng-if="!!section.text" ng-bind-html="section.text | trustHtml"></h1>
+</div>
+<div style="clear:both"></div>

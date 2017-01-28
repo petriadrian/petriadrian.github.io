@@ -1,0 +1,143 @@
+{
+  "presentation": {
+    "title": "Vulcan",
+    "headline": "Traseul spre muntele Vulcan",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <i class='fa fa-car'></i> <b>~21km</b>",
+    "description": "Probabil datorită erupției acestui vulcan avem o zonă atât de bogata în resurse minerale. Vezi traseul.",
+    "fullWidthImg": "img/trails/vulcan/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/vulcan/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/trails/vulcan",
+    "textOnMouseOver": "vezi traseul...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Muntele Vulcan. Trasee de bicicletă Roșia Montană",
+    "description": "Probabil datorită erupției acestui vulcan avem o zonă atât de bogata în resurse minerale. Vezi traseul prin Munții Apuseni și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "displayOnShareImg": "img/trails/vulcan/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "În poza de mai sus este masivul Vulcan văzut de pe muntele Cârnic din Roșia Montană. Probabil datorită erupției acestuia avem acum o zonă atât de bogata în resurse minerale. Traseul este unul deosebit deoarece veți parcurge Munții Abrudului, trecând printr-o pădure de conifere pe un drum asfaltat până în satul Vulcan la poalele muntelui. Pentru a ajunge de aici în vârf va trebui să urcați pe o poteca de munte. <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b>",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJzU_RaFLQTkcRJzSmd-Hq-ek&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~21km"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~2h"
+              },
+              {
+                "textOnMouseOver": "durata cu mașina",
+                "text": "<i class='fa fa-car'></i> ~1h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "<i class='fa fa-line-chart'></i> mediu"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Atracții",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Vulcan",
+          "textContent": "'Vulcanul este un masiv ce domină net împrejurimile, cu deschidere vastă asupra tuturor munților învecinați ce constă dintr-un platou carstic împadurit, înconjurat aproape în întregime de pereți ce depașesc pe alocuri 150m înălțime. Este declarat rezervație naturală. Din punct de vedere al escaladei și alpinismului, pereții sunt un adevarat paradis, cu rocă aderentă, iar traseele au in general asigurări solide.'",
+          "seeAlso": [
+            {
+              "text": "Sursa și mai multe despre traseele de escaladă găsiți aici...",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://www.amunteanu.go.ro/buces_vulcan.htm",
+              "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "<b>Drumul spre Muntele Vulcan</b>",
+              "thumbnailUrl": "img/trails/attractions/vulcan/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/vulcan/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>Muntele Vulcan</b> - Peretele Corbilor",
+              "thumbnailUrl": "img/trails/attractions/vulcan/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/vulcan/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/trails/scarisoara"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

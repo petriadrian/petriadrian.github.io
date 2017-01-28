@@ -1,0 +1,19 @@
+<span ng-init="otherPagePath=section.banner.page"></span>
+<a class="col-xs-12 col-sm-12 col-md-12 col-lg-12 banner defaultClickStyle displayOnCenter"
+   ng-controller="GetOtherPageContentCtrl"
+   title="{{otherPageContent.url.textOnMouseOver}}"
+   href="{{otherPageContent.url.link}}"
+   target="{{otherPageContent.url.openInNewTab ? '_blank' : '_self'}}">
+    <h1 ng-bind-html="otherPageContent.presentation.headline | trustHtml"></h1>
+
+    <p class="hidden-xs"
+       ng-bind-html="otherPageContent.presentation.description | trustHtml"></p>
+
+    <p ng-if="otherPageContent.presentation.descriptionTitle" class="hidden-xs"
+       ng-bind-html="otherPageContent.presentation.descriptionTitle | trustHtml"></p>
+
+    <img alt="{{otherPageContent.presentation.title}}"
+         ng-src="{{otherPageContent.presentation.fullWidthImg}}">
+
+</a>
+<div style="clear:both"></div>

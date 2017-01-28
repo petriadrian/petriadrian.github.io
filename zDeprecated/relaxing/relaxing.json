@@ -1,0 +1,126 @@
+{
+  "presentation": {
+    "title": "Read & Relax",
+    "headline": "Books and cozy spots to read and relax",
+    "description": "After hiking or biking, relax in the hammock by reading a book from our library. See here our books and cozy places around the house and garden.",
+    "fullWidthImg": "img/relaxing/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/relaxing/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/relaxing",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Books and cosy spots from Casa Petri",
+    "description": "After hiking or biking, relax in the hammock by reading a book from our library. See here our books and the cozy places around the house or garden. You can also book rooms, camping, bikes or guided tours",
+    "displayOnShareImg": "img/relaxing/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-book'></i> Books",
+      "sectionId": "books",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "All around the house you'll find books, newspapers and magazines, most of them inherited from our grandparents. We have drama, action, romance, children's, history, poetry and many others books. We also have newspapers and books about Rosia Montana. Unfortunately most of them are in romanian language.",
+          "images": [
+            {
+              "text": "<b>Suitcases with books</b> - These suitcases were used to carry clothes in the army or jars with food when going to college, and now they are used for holding books, vinyls and Cinema magazines.",
+              "thumbnailUrl": "img/relaxing/article/books/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "img/relaxing/article/books/fullSize/booksPlaces.jpg"
+            },
+            {
+              "text": "<b>The door with books</b> - If you like the smell of old books when you read, then this is your spot.",
+              "thumbnailUrl": "img/relaxing/article/books/thumbnail/doorBook.jpg",
+              "fullSizeUrl": "img/relaxing/article/books/fullSize/doorBook.jpg"
+            },
+            {
+              "text": "<b>The cupboard with books</b> - We decided to recycle this old, unused cupboard and transform it into a library. Here you can find a section with books for children.",
+              "thumbnailUrl": "img/relaxing/article/books/thumbnail/booksCloset.jpg",
+              "fullSizeUrl": "img/relaxing/article/books/fullSize/booksCloset.jpg"
+            },
+            {
+              "text": "<b>The Ladder with books</b> - .",
+              "thumbnailUrl": "img/relaxing/article/books/thumbnail/booksLadder.jpg",
+              "fullSizeUrl": "img/relaxing/article/books/fullSize/booksLadder.jpg"
+            },
+            {
+              "text": "<b>The lost suitcase</b> - a way to travel",
+              "thumbnailUrl": "img/relaxing/article/books/thumbnail/lostSuitcase.jpg",
+              "fullSizeUrl": "img/relaxing/article/books/fullSize/lostSuitcase.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-heart'></i> Cozy spots",
+      "sectionId": "cozySpots",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "After hiking or biking we invite you to relax in a cosy spot from our house or garden",
+          "images": [
+            {
+              "text": "<b>Hammocks</b> - In the yard we have some trees where we hang out hammocks. Here you can rest after a long hike and surf on the internet (there is wifi too).",
+              "thumbnailUrl": "img/relaxing/article/cozySpots/thumbnail/hammock.jpg",
+              "fullSizeUrl": "img/relaxing/article/cozySpots/fullSize/hammock.jpg"
+            },
+            {
+              "text": "<b>The coffee table from 'târnaț'</b> - 'Târnaț' is a hallway with small wooden windows specific to the houses from our area. Here is a where our grandparents used to have their morning coffee.",
+              "thumbnailUrl": "img/relaxing/article/cozySpots/thumbnail/coffeeTable.jpg",
+              "fullSizeUrl": "img/relaxing/article/cozySpots/fullSize/coffeeTable.jpg"
+            },
+            {
+              "text": "<b>The terrace table</b> - With a nice view to the 'Cârnic' mountain, it's the perfect spot for chatting, drinking 'țuica' or eat before going out for a hike",
+              "thumbnailUrl": "img/relaxing/article/cozySpots/thumbnail/pavilion.jpg",
+              "fullSizeUrl": "img/relaxing/article/cozySpots/fullSize/pavilion.jpg"
+            },
+            {
+              "text": "<b>Living room</b> - Here you can dine, hang out with your friends or play a board games. Have you ever played 'Saboteour' in a place with over 150 km of underground galleries? It may not be mountain climbing, but it is something to be tried..",
+              "thumbnailUrl": "img/relaxing/article/cozySpots/thumbnail/livingroom.jpg",
+              "fullSizeUrl": "img/relaxing/article/cozySpots/fullSize/livingroom.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/review"
+        },
+        {
+          "page": "en/trails/summary"
+        }
+      ]
+    }
+  ]
+}

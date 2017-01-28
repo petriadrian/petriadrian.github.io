@@ -1,0 +1,14 @@
+{
+  "presentation": {
+    "title": "Festival",
+    "headline": "",
+    "description": "<b>| August |</b> Teatru, forumuri, muzica, film. Participa la cel mai activ festival: FânFest",
+    "fullWidthImg": "img/events/festival/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/events/festival/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "http://www.fanfest.ro",
+    "textOnMouseOver": "Vezi pagina oficială Fân Fest",
+    "openInNewTab": true
+  }
+}

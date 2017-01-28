@@ -1,0 +1,133 @@
+<script id="photoAlbumBoxTemplateId" type="text/x-jQuery-tmpl">
+    <figure class="photoAlbum defaultClickStyle">
+        <a rel="fancybox" title="${imgTitle} - ${imgDetail}" class="fancybox" href="${imgFullSizeUrl}">
+            <img src="${imgThumbnailUrl}" alt="${title}">
+            <figcaption><b> ${imgTitle} </b> - ${imgDetail}</figcaption>
+        </a>
+    </figure>
+
+
+
+</script>
+
+<!-- all the bellow templates are depended of the first template-->
+
+<script id="articleWithTextImgIframeTemplateId" type="text/x-jQuery-tmpl">
+    <article class="defaultArticle anchorParent">
+        {{if title}}
+            <header class="articleTitle">
+                <h3><span>${title}</span></h3>
+            </header>
+        {{/if}}
+        {{if details}}
+            <section class="defaultArticleText">
+                <span>
+                    {{html details}}
+                </span>
+                {{if moreDetailsUrl}}
+                    <a href="${moreDetailsUrl}" class="btn-link" target="_blank">${moreDetailsText}</i></a>
+                {{/if}}
+            </section>
+        {{/if}}
+        {{if images}}
+            <section>
+                {{each images}}
+                    {{tmpl($value) '#photoAlbumBoxTemplateId'}}
+                {{/each}}
+            </section>
+        {{/if}}
+        {{if iframeSrc}}
+            <section>
+                <iframe class="trailMap" frameborder="0" src="${iframeSrc}" allowfullscreen></iframe>
+                <div class="trailIndicators">
+                    {{each(i, indicationBox) indicationsBoxes}}
+                        <p title="${indicationBox.indicationHoverText}"><i class="${indicationBox.indicationIconFontAwesomeClass} fa-fw"></i> ${indicationBox.indicationText}</p>
+                    {{/each}}
+                </div>
+            </section>
+        {{/if}}
+    </article>
+
+
+
+</script>
+
+<script id="reservationFormTemplateId" type="text/x-jQuery-tmpl">
+    <article class="defaultArticle">
+        <header class="articleTitle">
+            <h3><span>${title}</span></h3>
+        </header>
+        <section class="reservationImages">
+            {{if images}}
+                {{each images}}
+                    {{tmpl($value) '#photoAlbumBoxTemplateId'}}
+                {{/each}}
+            {{/if}}
+        </section>
+        <section>
+            <button class="btn btn-large btn-primary" onclick="toggleReservationForm(this)">${bookingText} ${title} &nbsp&nbsp<i class="fa fa-caret-down"></i> </button>
+            <div class="reservationForm">
+            <form method="post">
+                <input type="hidden" name="reservation" value="${title}">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-user fa-fw"></i></span>
+                    <input id="nameReservation" type="text" class="form-control" name="${nameBox}" placeholder="${nameBox}" required="required">
+                </div>
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-envelope fa-fw"></i></span>
+                    <input type="email" id="emailReservation" class="form-control" name="Email" placeholder="Email" required="required">
+                </div>
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-phone fa-fw"></i></span>
+                    <input type="tel" id="phoneReservation" class="form-control" name="${phoneBox}" placeholder="${phoneBox}" required="required">
+                </div>
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-calendar fa-fw"></i></span>
+                    <input type="text" name="dataRange"
+                           class="form-control" required="required"/>
+                </div>
+                {{each(i, roomSeatsAndPrice) roomSeatsAndPriceBox}}
+                    <div class="input_fields_wrap">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-bed fa-fw"></i></span>
+                            <select class="form-control" id="roomsTypeReservation" required="required" name="${roomSeatsAndPrice.title}">
+                                <option disabled selected style='display:none;'>${roomSeatsAndPrice.title}</option>
+                                {{each(j, roomSeatsOption) roomSeatsOptions}}
+                                    <option value="${roomSeatsOption.option}">${roomSeatsOption.option}</option>
+                                {{/each}}
+                            </select>
+                        </div>
+                    </div>
+                {{/each}}
+                {{each(i, campingSeatsBox) campingSeatsBoxes}}
+                    <div class="input_fields_wrap">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="${campingSeatsBox.boxFontAwesomeIconClass}  fa-fw"></i></span>
+                            <input type="number" class="form-control" required="required"
+                                    name="${campingSeatsBox.boxTitle}" placeholder="${campingSeatsBox.boxTitle}" max="${campingSeatsBox.boxMaxLimit}" min="1"/>
+                        </div>
+                    </div>
+                {{/each}}
+                {{each(i, requirementSection) requirementsSection}}
+                    <p>${requirementSection.title}</p>
+                    {{each(j, requirementCheckbox) requirementsCheckboxes}}
+                         <label class="checkbox-inline"><input type="checkbox" name="${requirementSection.title}" value="${requirementCheckbox.requirement}">${requirementCheckbox.requirement}</label>
+                    {{/each}}
+                {{/each}}
+                {{if othersBox}}
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fa fa-info  fa-fw"></i></span>
+                        <textarea form="roomReservation" id="othersReservation" class="form-control" name="${othersBox}" placeholder="${othersBox}"></textarea>
+                    </div>
+                {{/if}}
+                <input type="submit" value="${bookingText}" class="btn btn-primary submitButton">
+            </form>
+            <button class="btn btn-large btn-primary hideReservationForm" onclick="hideReservationForm(this)"><i class="fa fa-caret-up"></i> </button>
+            </div>
+        </section>
+    </article>
+
+
+
+</script>
+

@@ -1,0 +1,126 @@
+{
+  "presentation": {
+    "title": "Cărți și relaxare",
+    "headline": "Cărți și locșoare de citit sau de relaxare",
+    "description": "După un traseu de drumeție sau bicicletă, relaxează-te în hamac citind o carte din biblioteca noastră. Vezi aici cărțile și zonele de relaxare de la noi.",
+    "fullWidthImg": "img/relaxing/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/relaxing/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/relaxing",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Cărți și locșoare de relaxare de la Casa Petri",
+    "description": "După un traseu de drumeție sau bicicletă, relaxează-te în hamac citind o carte din biblioteca noastră. Vedeți aici cărțile și locșoarele de relaxare de prin casă sau grădină. Poți face rezervări de camere, campare, biciclete, ghizi.",
+    "displayOnShareImg": "img/relaxing/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-book'></i> Cărți",
+      "sectionId": "books",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Prin toată căsuța sunt cărți, ziare și reviste vechi moștenite în mare parte de la bunicii noștri. O să găsiți cărți de acțiune, drama, polițiste, de dragoste, istorie, de poezie precum și o colecție cu cărți și ziare despre Roșia Montană.",
+          "images": [
+            {
+              "text": "<b>Geamantanele cu cărți</b> - Cu aceste geamantane s-a mers în armată, s-au cărat borcane cu mâncare în studenție, iar acum găzduiesc cărți, viniluri și reviste Cinema.",
+              "thumbnailUrl": "img/relaxing/article/books/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "img/relaxing/article/books/fullSize/booksPlaces.jpg"
+            },
+            {
+              "text": "<b>Ușa cu cărți</b> - Dacă îți place mirosul cărților când citești, atunci acest locșor improvizat, plin cu carți va fi pe placul tău.",
+              "thumbnailUrl": "img/relaxing/article/books/thumbnail/doorBook.jpg",
+              "fullSizeUrl": "img/relaxing/article/books/fullSize/doorBook.jpg"
+            },
+            {
+              "text": "<b>Dulapul cu cărți</b> - Nemaifolosind acest bufet, am decis să nu îl aruncăm, ci să îi găsim o altă întrebuințare. Având multe cărți, l-am transformat într-o bibliotecă unde găsișți chiar și cărți pentru copii.",
+              "thumbnailUrl": "img/relaxing/article/books/thumbnail/booksCloset.jpg",
+              "fullSizeUrl": "img/relaxing/article/books/fullSize/booksCloset.jpg"
+            },
+            {
+              "text": "<b>Scara cu cărți</b> - .",
+              "thumbnailUrl": "img/relaxing/article/books/thumbnail/booksLadder.jpg",
+              "fullSizeUrl": "img/relaxing/article/books/fullSize/booksLadder.jpg"
+            },
+            {
+              "text": "<b>Geamantanul rătăcit</b> - un mod de a călători.",
+              "thumbnailUrl": "img/relaxing/article/books/thumbnail/lostSuitcase.jpg",
+              "fullSizeUrl": "img/relaxing/article/books/fullSize/lostSuitcase.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-heart'></i> Zone de relaxare",
+      "sectionId": "cozySpots",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "După un traseu pe munte vă invităm să citiți sau să vă relaxați într-un locșor liniștit prin casă sau gradină.",
+          "images": [
+            {
+              "text": "<b>Hamace cu priveliște</b> - În curte sunt câțiva pomi de care agățăm hamce numai bune de lenevit. Este semnal wifi și aici.",
+              "thumbnailUrl": "img/relaxing/article/cozySpots/thumbnail/hammock.jpg",
+              "fullSizeUrl": "img/relaxing/article/cozySpots/fullSize/hammock.jpg"
+            },
+            {
+              "text": "<b>Măsuța de cafea din târnaț</b> - Târnațul, specific caselor din zonă, este un hol cu gemulețe mici de lemn unde bunicii noștri obișnuiau să își bea cafeaua în fiecare dimineață.",
+              "thumbnailUrl": "img/relaxing/article/cozySpots/thumbnail/coffeeTable.jpg",
+              "fullSizeUrl": "img/relaxing/article/cozySpots/fullSize/coffeeTable.jpg"
+            },
+            {
+              "text": "<b>Măsuța din foișor</b> - Cu priveliște spre masivul Cârnic, e locul ideal de stat la povești, de închinat pahare cu țuică sau de luat masa înainte de a pleca pe traseu.",
+              "thumbnailUrl": "img/relaxing/article/cozySpots/thumbnail/pavilion.jpg",
+              "fullSizeUrl": "img/relaxing/article/cozySpots/fullSize/pavilion.jpg"
+            },
+            {
+              "text": "<b>Căsuța de vară</b> - Aici puteți lua masa, povesti sau juca un board game. Să joci Saboteour într-o zonă cu peste 150km de galerii subterane... e o experiență :)",
+              "thumbnailUrl": "img/relaxing/article/cozySpots/thumbnail/livingroom.jpg",
+              "fullSizeUrl": "img/relaxing/article/cozySpots/fullSize/livingroom.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/review"
+        },
+        {
+          "page": "ro/trails/summary"
+        }
+      ]
+    }
+  ]
+}

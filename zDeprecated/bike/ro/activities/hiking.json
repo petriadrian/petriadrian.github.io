@@ -1,0 +1,186 @@
+{
+  "presentation": {
+    "title": "Atracții și trasee",
+    "headline": "Descoperă Roșia Montană",
+    "description": "<b>Trasee pe zone</b> (de la galeriile romane și centrul istoric până pe vârful munților). <br><b>Trasee tematice</b> (evoluția minieră, protestele sau viața rurală). <br>Se pot <b>rezerva ghizi</b>.",
+    "fullWidthImg": "img/activities/hiking/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/hiking/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/activities/hiking",
+    "textOnMouseOver": "Vezi traseele...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Descoperă Roșia Montană. Atracții și trasee",
+    "description": "Trasee pe zone (de la galeriile romane și centrul istoric până pe vârful mmasivelor din zonă) și trasee tematice (evoluția minieră, protestele din Roșia Montană sau viața rurală). Puteți rezerva trasee ghidate, cazare, biciclete sau campare în Rosia Montana, Alba, Munții Apuseni, Transilvania, Romania.",
+    "displayOnShareImg": "img/activities/hiking/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "",
+      "sectionId": "details",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Aici găsești <b>traseele și atracțiile</b> din Roșia Montană, zonă cu peisaje impresionante datorită munților, văilor și lacurilor ce o înconjoară dar și cu o bogata încărcătură istorică datorată clădirilor de patrimoniu și zonelor miniere construite de civilizațiile care au venit aici pentru a extrage aur. Traseele de mai jos conțin imagini, descriere, atracții turistice și <b>hărți online</b> cu date <b>GPS</b> astfel că pot fi accesate de pe orice smartphone în timpul drumeției. <br> Pictogramele din dreptul fiecărui traseu semnifică: <i class='fa fa-lg fa-blind'></i> - traseu de <b>drumeție</b> | <i class='fa fa-lg fa-bicycle'></i> - traseu de <b>bicicletă</b> | <i class='fa fa-lg fa-car'></i> - traseul de <b>mașină</b>"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trasee locale",
+      "sectionId": "trailsOnAreas",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Aceste trasee conțin atracțiile din comuna Roșia Montană."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/activities/trails/historicCenter"
+        },
+        {
+          "page": "ro/activities/trails/romanGalleries"
+        },
+        {
+          "page": "ro/activities/trails/carnic"
+        },
+        {
+          "page": "ro/activities/trails/letySulei"
+        },
+        {
+          "page": "ro/activities/trails/tarina"
+        },
+        {
+          "page": "ro/activities/trails/fourLakes"
+        },
+        {
+          "page": "ro/activities/trails/vartop"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Împrejurimi",
+      "sectionId": "surroundings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Aceste trasee conțin atracțiile din apropierea Roșiei Montane."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/activities/trails/detunata"
+        },
+        {
+          "page": "ro/activities/trails/geamana"
+        },
+        {
+          "page": "ro/activities/trails/corna"
+        },
+        {
+          "page": "ro/activities/trails/vulcan"
+        },
+        {
+          "page": "ro/activities/trails/daffodilMeadow"
+        },
+        {
+          "page": "ro/activities/trails/scarisoara"
+        },
+        {
+          "page": "ro/activities/trails/zlatnaPool"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trasee ghidate",
+      "sectionId": "thematicTrails",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Organizăm următoarele trasee tematice ghidate, prin care descoperiți poveștile, trecutul și prezentul Roșiei Montane:"
+        },
+        {
+          "textContent": "<b>Traseul evoluției miniere</b> - începem cu povestea veche a mineritului moștenit din tată în fiu, prin a vizita galeriile Antice realizate de agatârși cu apă și foc, iar apoi galeriile trapeizoidale realizate de daci și romani cu dalta și ciocanul, după care continuăm cu instalațiile pentru procesarea aurului ca șteampurile sau lacurile de acumulare. Terminăm prin a vizita uzinele, iazurile de decantare și carierele de suprafață realizate recent, în perioada comunistă, prin care s-au ras munți și dealuri, iar satul Geamăna a fost acoperit cu deșeuri miniere."
+        },
+        {
+          "textContent": "<b>Traseul protestelor miniere</b> - trecem prin zonele unde au avut loc proteste pentru sau împotriva proiectului de minerit propus de firma canadiană în 2007 și care dorea să transforme întreg satul într-o imensă carieră de aur. Vă povestim ce s-a întâmplat și care ar fi fost efectele implementării acestui proiect în zonă. La final vom urmări la Casa Petri câteva filmulețe cu protestele masive de stradă din 2014, organizate în țară și în străinătate, împotriva acestui proiect."
+        },
+        {
+          "seeAlso": [
+            {
+              "text": "Rezervările pentru aceste trasee ghidate se fac aici...",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#reservations",
+              "openInNewTab": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "",
+      "sectionId": "justToDisplayALine",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/activities/trails/topAttractions"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/packages/summary"
+        },
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/relaxing"
+        }
+      ]
+    }
+  ]
+}

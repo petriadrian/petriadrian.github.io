@@ -1,0 +1,215 @@
+{
+  "presentation": {
+    "title": "Corna",
+    "headline": "Drumul carierei de cupru - Corna",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <b>~25km</b>",
+    "description": "Coborâș pe serpentinele vechiului drum al carierei de cupru Rosia Poieni, cu întoarcere prin satul Seliște.",
+    "fullWidthImg": "img/trails/corna/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/corna/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/trails/corna",
+    "textOnMouseOver": "vezi traseul...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Corna. Traseu bicicletă Roșia Montană",
+    "description": "Coborâș pe serpentinele vechiului drum al carierei de cupru Rosia Poieni, cu întoarcere prin satul Seliște. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "displayOnShareImg": "img/trails/corna/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Acesta este traseul copilăriei noastre. <i>Ne luam bicicletele și urcam pe la Tăul Mare până ce ajungeam la drumul Carierei de Cupru Rosia Poieni. De aici ne plăcea să ne dăm drumul la vale cu cea mai mare viteză spre satul Corna și orașul Abrud de unde ne cumpăram înghețată și mai trândăveam prin Centrul Vechi. Apoi ne luam inima în dinți pentru că urma partea grea a traseului: urcușul pe un drum de țară spre casă, prin satul Seliște. Pe drum e și Tăul Tapului în apele căruia ne aruncam să ne răcorim puțin. De aici mai e puțin până acasă.</i> Vă provocăm și pe voi să parcurgeți traseul și să gustați din plăcerile copilăriei noastre. În zona Gura Cornei puteți să luați masa (recomandăm restaurantul Laguna sau Detunata). Acest traseu este pentru biciclete de munte.",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJc1wCQWDMTkcR4k7C7fXZvWE|place_id:ChIJKYpFTlfMTkcRe8HEyvHBE70|place_id:ChIJB5Fu9y3MTkcRnQ6Q90AjcSI|place_id:ChIJjwvQferNTkcRrWEa7dBF04k|place_id:ChIJd5zxAenNTkcRaPviE9EZQ9o|place_id:ChIJK5Ftn7vNTkcRahMZfmk5Keg|place_id:ChIJZySRY5rNTkcRz9qr4SO--a4|place_id:ChIJMcYyfAfNTkcRMZeC6fyMAIo",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~25km"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~6h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "<i class='fa fa-line-chart'></i> greu"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Atracții",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "bigLake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Drumul Carierei de Cupru",
+          "textContent": "Drumul era asfaltat și folosit pentru a ajunge la Cariera de Cupru Rosia Poieni, dar acum s-a deteriorat și este puțin circulat, ceea ce il face numai bun pentru un traseu de MTB.",
+          "images": [
+            {
+              "text": "<b>Drumul fostei cariere de cupru</b> - vă va coborî spre Abrud pe marginea versantului cu priveliște spre valea Cornii.",
+              "thumbnailUrl": "img/trails/attractions/cornaRoad/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/cornaRoad/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>Serpentinele de lângă satul Corna</b> - Vă puteți aventura și prin sat pentru a vizita cele două biserici sau Tăul Cartuș.",
+              "thumbnailUrl": "img/trails/attractions/cornaRoad/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/cornaRoad/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Abrud",
+          "textContent": "Pentru a ajunge la drumul de țară care vă va urca prin satul Seliște înapoi spre Roșia va trebui să treceți și prin Abrud. Dacă timpul vă va permite, puteți vizita și centrul vechi din zona Bisericii Catolice.",
+          "seeAlso": [
+            {
+              "text": "Mai multe detalii aici...",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://www.primaria-abrud.ro/index.php/ro/orasul/item/98-pagini-de-istorie",
+              "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "<b>Abrud</b> - Centrul Istoric - Biserica Romano Catolică",
+              "thumbnailUrl": "img/trails/attractions/abrud/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/abrud/fullSize/1.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Seliște - Tăul Țapului",
+          "textContent": "Pentru a vă întoarce în Roșia urmați drumul de țară prin satul Seliște și pe la Tăul Țapului. ",
+          "images": [
+            {
+              "text": "<b>Drumul prin Seliște</b> - ",
+              "thumbnailUrl": "img/trails/attractions/selisteRoad/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/selisteRoad/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>Drumul pe la Tăul Țapului</b> - ",
+              "thumbnailUrl": "img/trails/attractions/selisteRoad/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/selisteRoad/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Spre Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/8.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/8.jpg"
+            },
+            {
+              "text": "La Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/7.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/7.jpg"
+            },
+            {
+              "text": "Între Vârful Sulei și Tăul Mare",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/trails/geamana"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

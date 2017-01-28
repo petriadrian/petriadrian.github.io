@@ -1,0 +1,218 @@
+{
+  "presentation": {
+    "title": "Tăurile",
+    "headline": "Traseul tăurilor din Roșia Montană",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <b>~15km</b><br>",
+    "description": "Traseu în jurul satului, pe un drum de țară ce leagă patru lacuri: Țarina, Tăul Mare, Corna și Brazi.",
+    "fullWidthImg": "img/trails/fourLakes/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/fourLakes/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/trails/fourLakes",
+    "textOnMouseOver": "vezi traseul...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Traseul tăurilor din Roșia Montană",
+    "description": "Traseu în jurul satului, pe un drum de țară ce leagă patru lacuri (Țarina, Tăul Mare, Corna și Brazi) și două culmi montane (Rotundu și Șulei). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "displayOnShareImg": "img/trails/fourLakes/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Pornim de la Casa Petri spre Tăul Țarinii și Stația Meteo de pe Vârful Rotundu, cel mai înalt punct de pe traseu. În stânga observăm Tăul Mare, următoarea destinație spre care ne îndreptăm. De aici urcăm pe masivul Lety și Sulei unde facem un popas pentru a ne bucura de priveliște și ne întoarcem spre Centrul Istoric pe la Tăul Corna, Piatra Corbului și Tăul Brazi. Traseul se face pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-download'></i> descarcă <b>datele GPS</b>",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.bikemap.net/en/route/3045395-4-tauri/#/z14/46.30072,23.14141/terrain",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> vezi <b>diferența de nivel</b>",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.bikemap.net/en/route/3045395-4-tauri/#/z14/46.30072,23.14141/terrain",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.bikemap.net/en/route/3045395-4-tauri/widget/?width=640&amp;extended=1&amp;distance_markers=1&amp;height=480&amp;unit=metric' border='0' frameborder='0' marginheight='0' marginwidth='0' scrolling='no'",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~15km"
+              },
+              {
+                "textOnMouseOver": "durata pe jos",
+                "text": "<i class='fa fa-blind'></i> ~6h"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "<i class='fa fa-line-chart'></i> mediu"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Atracții",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "tariniLake"
+            },
+            {
+              "id": "rotunduPeak"
+            },
+            {
+              "id": "bigLake"
+            },
+            {
+              "id": "letySulei"
+            },
+            {
+              "id": "cornaLake"
+            },
+            {
+              "id": "braziLake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Spre Tăul Țarinii",
+              "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/5.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/5.jpg"
+            },
+            {
+              "text": "Tăul Țarinii",
+              "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/3.jpg"
+            },
+            {
+              "text": "La intrarea în pădurea de brazi - zona cu zmeuriș.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/4.jpg"
+            },
+            {
+              "text": "Vârful Rotundu.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/6.jpg"
+            },
+            {
+              "text": "Între Vârful Sulei și Tăul Mare",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/3.jpg"
+            },
+            {
+              "text": "Prieveliștea de Luni dimineața.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/6.jpg"
+            },
+            {
+              "text": "Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/5.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/5.jpg"
+            },
+            {
+              "text": "Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/10.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/10.jpg"
+            },
+            {
+              "text": "Spre Vârfurile Lety și Șulei.",
+              "thumbnailUrl": "img/trails/attractions/letySulei/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/letySulei/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/trails/vartop"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

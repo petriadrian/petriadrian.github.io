@@ -1,0 +1,171 @@
+{
+  "presentation": {
+    "title": "Top 10 attractions",
+    "headline": "Top 10 attractions to visit in Roșia Montană",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <b>~15km</b>",
+    "description": "The trail of the main attractions: Historic Center, lakes, the Roman galleries.",
+    "fullWidthImg": "img/trails/topAttractions/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/topAttractions/presentation/smallBoxImg.jpg"
+  },
+  "metaData": {
+    "title": "Top 10 attractions to visit in Rosia Montana",
+    "description": "The trail of the main attractions from Roșia Montană (the Historic Center, the lakes, the Roman galleries, heritage monuments). See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "displayOnShareImg": "img/trails/topAttractions/presentation/displayOnShareImg.jpg"
+  },
+  "url": {
+    "link": "en/trails/topAttractions",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": false
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Have you arrived in Rosia Montana or you plan for a short visit? You can make this trail with <b>the main</b> objectives from here. Start from Casa Petri which is situated in the old Historic Center and visit each touristic objective.",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJH-Ab5-DMTkcRbU8_Bz1R63o|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJeb9NLN7MTkcRNg6SoGpHwIw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw",
+            "list": [
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~15km"
+              },
+              {
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-blind'></i> ~6h"
+              },
+              {
+                "textOnMouseOver": "difficulty",
+                "text": "<i class='fa fa-line-chart'></i> easy"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "romanGalleries"
+            },
+            {
+              "id": "romanCatholicChurch"
+            },
+            {
+              "id": "unitarianChurch"
+            },
+            {
+              "id": "braziLake"
+            },
+            {
+              "id": "carnicSfinx"
+            },
+            {
+              "id": "ravenStone"
+            },
+            {
+              "id": "szekeyHouse"
+            },
+            {
+              "id": "vaidoaiaGalleries"
+            },
+            {
+              "id": "berg"
+            },
+            {
+              "id": "limestoneSculptures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.",
+          "images": [
+            {
+              "text": "The tower of the Romano Catholic church.",
+              "thumbnailUrl": "img/trails/attractions/churches/romanCatholicChurch/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/churches/romanCatholicChurch/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/tarina"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

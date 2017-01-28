@@ -1,0 +1,222 @@
+{
+  "presentation": {
+    "title": "Pagina Principală",
+    "headline": "Încă te mai întrebi: 'De ce să vizitez Roșia Montană?'",
+    "description": "pe acest site găsești cazare și trasee spre atracțiile turistice din zonă",
+    "fullWidthImg": "img/homePage/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/homePage/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/home",
+    "textOnMouseOver": "homepage",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Roșia Montană | cazare | trasee | biciclete | drumeții",
+    "description": "Cazare într-o casă renovată, de patrimoniu din Centrul Istoric. Trasee de drumeție sau bicicletă spre galerii romane, zone miniere, clădiri de patrimoniu, lacuri și munții din zonă. Rezervă biciclete sau trasee ghidate. Încheie ziua în hamac răsfoind o carte din biblioteca noastră. Roșia Montana, jud. Alba, Munții Apuseni, Transilvania, Romania",
+    "displayOnShareImg": "img/homePage/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": false
+  },
+  "sections": [
+    {
+      "type": "linkToOtherPages",
+      "carousel": {
+        "timeInterval": "7000",
+        "slides": [
+          {
+            "page": "ro/trails/letySulei"
+          },
+          {
+            "page": "ro/trails/romanGalleries"
+          },
+          {
+            "page": "ro/trails/historicCenter"
+          },
+          {
+            "page": "ro/trails/tarina"
+          },
+          {
+            "page": "ro/trails/geamana"
+          },
+          {
+            "page": "ro/trails/carnic"
+          }
+        ]
+      }
+    },
+    {
+      "type": "title",
+      "text": "Ce fac la Roșia Montană?",
+      "addLinkInPageHeadline": false,
+      "sectionId": "whyVisitRosia"
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>1. Descoperă un 'peisaj cultural unic' - zona protejată Roșia Montană</b> <br>Lucrări miniere realizate încă din Antichitate (galerii, șteampuri, lacuri artificiale) și centrul istoric cu clădiri de patrimoniu construite de civilizațiile venite de-a lungul timpului pentru a extrage aur (școli cu predare în diverse limbi, biserici de diferite culte sau locuințele aurarilor) pot fi vizitate prin traseele:"
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/trails/historicCenter"
+        },
+        {
+          "page": "ro/trails/romanGalleries"
+        },
+        {
+          "page": "ro/trails/letySulei"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "",
+      "addLinkInPageHeadline": false,
+      "sectionId": "ourStory"
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>2. Descoperă atracțiile naturale din zonă - accesibile și cu bicicleta</b><br>Avem împrejurimi superbe! Drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni. Vă recomandăm să parcurgeți traseele de mai jos cu <b>bicileta</b> (puteți închiria una din Roșia)."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/trails/vartop"
+        },
+        {
+          "page": "ro/trails/detunata"
+        },
+        {
+          "page": "ro/trails/fourLakes"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "",
+      "addLinkInPageHeadline": false,
+      "sectionId": "ourStory"
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>3. Vezi ce impact ar avea o nouă exploatare minieră și cum arată cele existente</b> <br> În anul 2013 au avut loc proteste masive de stradă împotriva începeri unei noi exploatări de aur de către o firmă canadiană. Vizitează satul ce urma să fie acoperit de un lac de cianură - traseul 'Corna' și unele dintre cele mai mari exploatări de suprafață din Europa: Roșia Poieni - traseul 'Geamăna' și Cetate - traseul 'Cârnic'."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/trails/corna"
+        },
+        {
+          "page": "ro/trails/geamana"
+        },
+        {
+          "page": "ro/trails/carnic"
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>Descoperă și alte atracții din zona noastră.</b>",
+          "seeAlso": [
+            {
+              "text": "Vezi aici mai multe trasee de drumeție sau ciclism...",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/trails/summary",
+              "openInNewTab": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-home'></i> Cazare, trasee ghidate, biciclete",
+      "addLinkInPageHeadline": false,
+      "sectionId": "casaPetri"
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Ne dorim să ai o experiență unică și autentică în Roșia Montană, de aceea oferim cazare în centrul istoric și te punem în contact cu localnici ce oferă trasee ghidate, închirieri de biciclete sau mâncare tradițională."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "text": "",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/packages/summary"
+        },
+        {
+          "page": "ro/review"
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar'></i> Evenimente",
+      "sectionId": "events",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Aici găsești activități și evenimente ce au loc în Roșia Montana sau în zonă."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/events/hayDays"
+        },
+        {
+          "page": "ro/events/marathon"
+        },
+        {
+          "page": "ro/events/monumentsRestorations"
+        },
+        {
+          "page": "ro/events/steamTrain"
+        },
+        {
+          "page": "ro/trails/daffodilMeadow"
+        },
+        {
+          "page": "ro/events/firstMai"
+        },
+        {
+          "page": "ro/events/souvenirShop"
+        }
+      ]
+    }
+  ]
+}

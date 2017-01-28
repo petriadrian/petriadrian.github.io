@@ -1,0 +1,83 @@
+{
+  "logo": {
+    "text": "Casa Petri Roșia Montană",
+    "imgUrlBigColor": "img/common/logo.png",
+    "imgUrlSmallWhite": "img/common/logo_white.png",
+    "url": {
+      "link": "ro/home",
+      "textOnMouseOver": "întoarcete la pagina principală..."
+    }
+  },
+  "topText": {
+    "text": "descoperă <b>Roșia Montană</b>",
+    "url": {
+      "link": "ro/home",
+      "textOnMouseOver": "vezi mai mult...",
+      "openInNewTab": false
+    }
+  },
+  "regularButtons": [
+    {
+      "text": "<i class='fa fa-lg fa-map-signs'></i> Trasee și atracții",
+      "url": {
+        "link": "ro/trails/summary",
+        "textOnMouseOver": "atracții și trasee de drumeție sau ciclism",
+        "openInNewTab": false
+      }
+    },
+    {
+      "text": "<i class='fa fa-lg fa-bed'></i> Cazare și rezervări",
+      "url": {
+        "link": "ro/accommodation",
+        "textOnMouseOver": "vezi interiorul și rezervări ...",
+        "openInNewTab": false
+      }
+    }
+  ],
+  "importantButtons": [
+    {
+      "text": "Pachete și vouchere",
+      "url": {
+        "link": "ro/packages/summary",
+        "textOnMouseOver": "vouchere (cazare+activități)",
+        "openInNewTab": false
+      }
+    }
+  ],
+  "iconButtons": [
+    {
+      "text": "<i class='fa fa-lg fa-facebook'></i>",
+      "url": {
+        "link": "https://www.facebook.com/casapetrirosiamontana",
+        "textOnMouseOver": "urmărește-ne pe facebook",
+        "openInNewTab": true
+      }
+    },
+    {
+      "text": "<i class='fa fa-lg fa-tripadvisor'></i>",
+      "url": {
+        "link": "https://www.tripadvisor.com/Hotel_Review-g9998203-d9871602-Reviews-Casa_Petri_Rosia_Montana-Rosia_Montana_Alba_County_Central_Romania_Transylvania.html#REVIEWS",
+        "textOnMouseOver": "tripAdvisor reviews",
+        "openInNewTab": true
+      }
+    },
+    {
+      "text": "<i class='fa fa-lg fa-map-marker'></i>",
+      "url": {
+        "link": "https://www.google.ro/maps/dir//Casa+Petri,+DC146+334,+Ro%C8%99ia+Montan%C4%83+517615/@46.4076261,22.8131462,9z/data=!4m13!1m4!3m3!1s0x474ecce046c99d41:0xc76f83a95070630c!2sCasa+Petri!3b1!4m7!1m0!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754?hl=ro",
+        "textOnMouseOver": "cum ajungi la noi?",
+        "openInNewTab": true
+      }
+    }
+  ],
+  "languageButtons": [
+    {
+      "text": "EN",
+      "languageCode": "en",
+      "url": {
+        "textOnMouseOver": "switch to english",
+        "openInNewTab": false
+      }
+    }
+  ]
+}

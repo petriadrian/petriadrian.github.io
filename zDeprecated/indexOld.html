@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+          content="An vintage accommodation up in the Apuseni mountains. See hiking and biking routes from this area and plan your next trip"/>
+    <link rel="shortcut icon" type="image/x-icon" href="img/common/favicon.ico"/>
+    <title>Casa Petri Rosia Montana</title>
+    <!-- CSS -->
+    <link type="text/css" rel="stylesheet"
+          href="http://fonts.googleapis.com/css?family=Merienda|Open+Sans&subset=latin,latin-ext">
+    <link type="text/css" rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="css/casaPetri.css">
+    <!-- JAVASCRIPT -->
+    <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/casaPetri.js"></script>
+</head>
+
+<body onload="scrollToAnchor()">
+
+<!-- HEADER -->
+<header id="headerLayout">
+    <script>
+        htmlContentLoader('common/headerAndFooter/headerLayout.html', 'headerLayout');
+    </script>
+</header>
+
+<div class="container">
+    <!-- CAROUSEL -->
+    <section class="carousel row">
+        <div id="mainCarousel" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 carousel slide" data-ride="carousel"
+             data-interval="6000">
+            <ol class="carousel-indicators">
+                <li data-target="#mainCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#mainCarousel" data-slide-to="1"></li>
+                <li data-target="#mainCarousel" data-slide-to="2"></li>
+                <li data-target="#mainCarousel" data-slide-to="3"></li>
+                <li data-target="#mainCarousel" data-slide-to="4"></li>
+            </ol>
+            <div id="mainCarouselLayout" class="carousel-inner">
+                <script>
+                    dynamicContentLoader('carousel.htm', 'homepage/mainCarousel.json', 'mainCarouselLayout', 'carouselTemplateId');
+                </script>
+            </div>
+            <a class="carousel-control left" href="#mainCarousel" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+            </a> <a class="carousel-control right" href="#mainCarousel" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+        </div>
+    </section>
+
+    <!-- FIRST SECTION -->
+    <section>
+        <div id="firstSectionHeadline" class="row">
+            <script>
+                dynamicContentLoader('_pageSectionTitles.htm', 'homepage/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');
+            </script>
+        </div>
+        <div id="firstSectionContent" class="row">
+            <script>
+                loadContentWithSpecificIds('_pageAdvertiseBox.tmpl.htm', 'common/pagesAdvertiseBox.json', 'homePage/ourOfferBoxes.json', 'firstSectionContent', 'pageAdvertiserBoxTemplateId');
+            </script>
+        </div>
+
+        <div id="facilitiesAdvertise" class="row">
+            <script>
+                dynamicContentLoader('_pageAdvertise.htm', 'accommodationfacilities/pageStructure.json', 'facilitiesAdvertise', 'pageAdvertiseTemplateId');
+            </script>
+        </div>
+    </section>
+
+    <!-- SECOND SECTION -->
+    <section>
+        <div id="secondSectionHeadline" class="row">
+            <script>
+                dynamicContentLoader('_pageSectionTitles.htm', 'homepage/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');
+            </script>
+        </div>
+        <div id="secondSectionContent" class="row">
+            <script>
+                loadContentWithSpecificIds('_pageAdvertiseBox.tmpl.htm', 'common/pagesAdvertiseBox.json', 'homePage/activitiesBoxes.json', 'secondSectionContent', 'pageAdvertiserBoxTemplateId');
+            </script>
+        </div>
+        <div id="topAttractionsAdvertise">
+            <script>
+                dynamicContentLoader('_pageAdvertise.htm', 'activities/trails/topAttractions/pageStructure.json', 'topAttractionsAdvertise', 'pageAdvertiseTemplateId');
+            </script>
+        </div>
+    </section>
+
+    <!-- THIRD SECTION -->
+    <section>
+        <div id="thirdSectionHeadline">
+            <script>
+                dynamicContentLoader('_pageSectionTitles.htm', 'homepage/pageStructure.json', 'thirdSectionHeadline', 'thirdSectionTitleTemplateId');
+            </script>
+        </div>
+        <div id="thirdSectionContent">
+            <script>
+                loadContentWithSpecificIds('_pageAdvertiseBox.tmpl.htm', 'common/pagesAdvertiseBox.json', 'homePage/recommendationsBoxes.json', 'thirdSectionContent', 'pageAdvertiserBoxTemplateId');
+            </script>
+        </div>
+    </section>
+
+</div>
+
+<!-- FOOTER -->
+<footer id="footerLayout">
+    <script>
+        htmlContentLoader('common/headerAndFooter/footerLayout.html', 'footerLayout');
+    </script>
+</footer>
+
+</body>
+</html>

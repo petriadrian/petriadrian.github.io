@@ -1,0 +1,14 @@
+{
+  "presentation": {
+    "title": "Souvenirs",
+    "headline": "",
+    "description": "Buy traditional products, made by the locals of Roșia Montană",
+    "fullWidthImg": "img/events/souvenirShop/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/events/souvenirShop/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "http://www.madeinrosiamontana.ro",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": true
+  }
+}

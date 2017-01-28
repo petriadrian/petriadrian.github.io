@@ -1,0 +1,19 @@
+{
+  "presentation": {
+    "title": "Ciclism",
+    "headline": "Trasee de bicicletă în Roșia Montană",
+    "description": "<b>Trasee de MTB</b> pe drumuri de țară printre culmi montane, lacuri și foste zone miniere. <br><b>Trasee pe asfalt</b>, de cursieră, spre obiectivele din zonă. <br>Se pot <b>rezerva biciclete sau ghizi</b>.",
+    "fullWidthImg": "img/packages/summary/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/packages/summary/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "textOnMouseOver": "Vezi mai mult...",
+    "link": "ro/trails/summary",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Trasee de bicicletă în Roșia Montană",
+    "description": "Trasee de MTB pe drumuri de țară printre culmi montane, lacuri și foste zone miniere sau trasee pe asfalt, de cursieră, spre obiectivele turistice din zonă. Rezervări biciclete și tururi ghidate pe bicicletă pentru a afla mai multe despre Roșia Montana, Munții Apuseni, Transilvania, Romania.",
+    "displayOnShareImg": "img/packages/summary/presentation/displayOnShareImg.jpg"
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "presentation": {
+    "title": "Vârtop",
+    "headline": "Raspberries meadow - Vârtop trail",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <b>~20km</b>",
+    "description": "Quiet and relaxing. The pasture lands, the sunset villages (Piatra Albă - Vârtop) and the raspberries meadow.",
+    "fullWidthImg": "img/trails/vartop/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/vartop/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/trails/vartop",
+    "textOnMouseOver": "see the trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Raspberries meadow - Vârtop trail",
+    "description": "The unpaved road along the pasture lands, the sunset villages (Piatra Albă - Vârtop) and the raspberries meadow is pefect for an easy and relaxing bike ride. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "displayOnShareImg": "img/trails/vartop/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Start from Casa Petri and head to the Limestone Sculptures from the Orlea area and then to pasture lands where the locals leave their cattle to graze. From here you will have to go down in the valley at the Carpiniș Regional Center. Then you will have to climb back along the Vârtop and Gârda-Bărbulești villages. On this section of the trail you will find at the end of summer areas with raspberries, wild strawberries and blackberries. Continue the trail to 'Izvorul Rotundu' (drinking fountain) and return back home along the Țarinii lake. The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-info-circle'></i> see the shorter version of the trail (~11km)",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.google.com/maps/dir/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615,+Romania/Limestone+Sculptures,+DC147,+Ro%C8%99ia+Montan%C4%83,+Romania/B%C4%83lmo%C8%99e%C8%99ti,+Alba+County,+Romania/G%C3%A2rda-B%C4%83rbule%C8%99ti,+Alba+County,+Romania/T%C4%83ul+%C8%9Aarinii,+Romania/Casa+Petri,+Ro%C8%99ia+Montan%C4%83,+Romania/@46.3159314,23.0927403,14z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x474ecd18f7143d2b:0x3c28cea5fbc21b20!2m2!1d23.1183431!2d46.3089531!1m5!1m1!1s0x474ecd14e876a36f:0x84ad3de12f376330!2m2!1d23.104802!2d46.3104798!1m5!1m1!1s0x474ecd363313fb29:0xa9afba825a545f5a!2m2!1d23.1175904!2d46.3254468!1m5!1m1!1s0x474ecd247983fa01:0x2a7cbd6966533f77!2m2!1d23.1239666!2d46.3150817!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!3e2?hl=en-US",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.bikemap.net/en/route/3808631-vartop-rosia-montana/",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.bikemap.net/en/route/3808631-vartop-rosia-montana/",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw|place_id:ChIJkx2wHkPNTkcRPM_ZjLSGEjw|place_id:ChIJOQJaR53STkcRMpzQXDCDQAo|place_id:ChIJ022Lg5DSTkcRlX7VPdssTgo|place_id:ChIJ2c3bt1vNTkcRrzPgF8eV5eE|place_id:ChIJKfsTMzbNTkcRWl9UWoK6r6k|place_id:ChIJZ-TCfijNTkcRQiATb5BDZMI|place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo",
+            "list": [
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~20km"
+              },
+              {
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-blind'></i> ~6h"
+              },
+              {
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
+              },
+              {
+                "textOnMouseOver": "elevation gain",
+                "text": "<i class='fa fa-arrows-v'></i> ~730m"
+              },
+              {
+                "textOnMouseOver": "drinking fountain",
+                "text": "<i class='fa fa-tint'></i> Izvorul Vârtop , Izvorul Rotundu"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "limestoneSculptures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Islaz",
+          "textContent": "THe trail along the pasture lands (Islaz). Here are the village fields where the cattle are grazing.",
+          "images": [
+            {
+              "text": "The pasture lands",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/9.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/9.jpg"
+            },
+            {
+              "text": "The pasture lands",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/15.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/15.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Gârda-Bărbulești",
+          "textContent": "The trail along the Gârda-Bărbulești village.",
+          "images": [
+            {
+              "text": "Gârda-Bărbulești",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/5.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/5.jpg"
+            },
+            {
+              "text": "Gârda-Bărbulești",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/1.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Vârtop",
+          "textContent": "The trail along the Vârtop village.",
+          "images": [
+            {
+              "text": "Vârtop Orthodox Church.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/17.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/17.jpg"
+            },
+            {
+              "text": "Vârtop",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/8.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/8.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Raspberry meadow",
+          "textContent": "On your road from to Gârda will pass by the raspberry meadows. If is the end of summer we suggest to make a stop here.",
+          "images": [
+            {
+              "text": "Raspberry meadow",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/12.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/12.jpg"
+            },
+            {
+              "text": "Raspberry meadow",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "tariniLake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.",
+          "images": [
+            {
+              "text": "Around Limestone Sculptures. Orlea area.",
+              "thumbnailUrl": "img/trails/attractions/orlea/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/orlea/fullSize/1.jpg"
+            },
+            {
+              "text": "Islaz - the pasture lands",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/2.jpg"
+            },
+            {
+              "text": "The water spring from Vârtop.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/6.jpg"
+            },
+            {
+              "text": "Hay meadow",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/14.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/14.jpg"
+            },
+            {
+              "text": "To Cărpiniș",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/4.jpg"
+            },
+            {
+              "text": "To Cărpiniș",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/20.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/20.jpg"
+            },
+            {
+              "text": "Pine forest",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/19.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/19.jpg"
+            },
+            {
+              "text": "Vârtop",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/7.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/7.jpg"
+            },
+            {
+              "text": "Dumitru - Vârtop farm",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/21.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/21.jpg"
+            },
+            {
+              "text": "To Gârda-Bărbulești village.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/10.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/10.jpg"
+            },
+            {
+              "text": "To the sky",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/16.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/16.jpg"
+            },
+            {
+              "text": "The raspberry area.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/13.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/13.jpg"
+            },
+            {
+              "text": "Wild strawberries.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/11.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/11.jpg"
+            },
+            {
+              "text": "The blackberry area. They ripe in october.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/18.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/18.jpg"
+            },
+            {
+              "text": "To 'Izvorul Rotundu' - drinking fountain.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/9.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/9.jpg"
+            },
+            {
+              "text": "On the trail.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/6.jpg"
+            },
+            {
+              "text": "Tăul Țarinii (lake)",
+              "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/corna"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

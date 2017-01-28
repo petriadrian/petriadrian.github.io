@@ -1,0 +1,19 @@
+{
+  "presentation": {
+    "title": "Biking",
+    "headline": "Bike trails in Rosia Montana",
+    "description": "<b>MTB trails</b> on unpaved roads along mountain peaks, lakes and mining area. <br><b>Asphalted trails</b> for touring bikes towards touristic sights. <br><b>Rent bikes or guided tours<b>",
+    "fullWidthImg": "img/packages/summary/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/packages/summary/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "textOnMouseOver": "See more...",
+    "link": "en/trails/summary",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Bike trails in Rosia Montana",
+    "description": "MTB trails on unpaved roads along mountain peaks, lakes, villages or unused mining areas. Asphalted trails for touring bikes, towards touristic sights. Rent bikes or guided tours on bikes to find out more about Rosia Montana, Apuseni Mountains, Transylvania, Romania.",
+    "displayOnShareImg": "img/packages/summary/presentation/displayOnShareImg.jpg"
+  }
+}

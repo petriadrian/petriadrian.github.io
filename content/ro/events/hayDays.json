@@ -1,0 +1,234 @@
+{
+  "presentation": {
+    "title": "Adunatul fânului",
+    "headline": "Adunatul fânului cu fermierii din Apuseni",
+    "description": "<b>| Iul-Sept |</b> Conectează-te la natură și la viața moților din Apuseni luând parte la strânsul fânului pentru iernat. Descoperă tradiția străveche împreună cu fermierii de aici.",
+    "fullWidthImg": "img/events/hayDays/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/events/hayDays/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/events/hayDays",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Adunatul fânului cu fermierii din Apuseni",
+    "description": "Conectează-te la natură și la viața moților luând parte la strânsul fânului pentru iernat, ridicarea căpițelor și mulsul vacilor. Descoperă tradiția străveche din Apuseni împreună cu fermierii din Rosia Montana, Transylvania în perioada 28-31 Iulie. Detalii aici..",
+    "displayOnShareImg": "img/events/hayDays/presentation/displayOnShareImg_ro.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-info-circle'></i> Detalii",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "De pe la jumatatea verii până la începutul toamnei moții se ocupă cu ridicarea căpițelor și strânsul fânului care va fi folosit pe parcursul iernii ca hrană pentru animale. De obicei la strânsul fânului sau la polog cum îi zicem noi de pe aici, se facea o clacă (se adunau vecinii, neamurile) își luau uneltele pregătite de cu seară (greble, furci) și porneau spre terenul cu pricina. Mulți dintre aceștia s-au mutat de aici odata ce firma canadiană de minerit a început să cumpere propietati sau datorită plecării tinerilor spre oraș. De aceea fermierilor rămași le-ar prinde bine o mână de ajutor, iar pentru tine va fi o experiență unică și relaxantă deoarece vei învăța un meșteșug tradițional, te vei conecta la natură și la acest obicei străvechi păstrat în Apuseni. Seara o să participăm la mulsul vacilor și ne vom ospăta din bucatele oferite de gazdă drept răsplată. Într-una din zile vom organiza un tur ghidat al localității pentru a afla mai multe despre zonă și obiceiuri.",
+          "images": [
+            {
+              "text": "Fânul uscat se greblează și se adună în mici brazde pentru a fi mai ușor de transportat.",
+              "thumbnailUrl": "img/events/hayDays/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/events/hayDays/article/fullSize/1.jpg"
+            },
+            {
+              "text": "Brazdele se adună cu caii și este dus în locurile mai stabile unde se fac clăile.",
+              "thumbnailUrl": "img/events/hayDays/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/events/hayDays/article/fullSize/2.jpg"
+            },
+            {
+              "text": "Odată ce claia e gata, cel mai voinic se va urca pe ea pentru a-i pune o coroniță de fân în vârf.",
+              "thumbnailUrl": "img/events/hayDays/article/thumbnail/3.jpg",
+              "fullSizeUrl": "img/events/hayDays/article/fullSize/3.jpg"
+            },
+            {
+              "text": "Astfel se formează cât mai multe clăi.",
+              "thumbnailUrl": "img/events/hayDays/article/thumbnail/4.jpg",
+              "fullSizeUrl": "img/events/hayDays/article/fullSize/4.jpg"
+            },
+            {
+              "text": "Strânsul fânului e distractiv și educativ pentru cei mici.",
+              "thumbnailUrl": "img/events/hayDays/article/thumbnail/5.jpg",
+              "fullSizeUrl": "img/events/hayDays/article/fullSize/5.jpg"
+            },
+            {
+              "text": "Seara participăm la mulsul vacilor.",
+              "thumbnailUrl": "img/events/hayDays/article/thumbnail/8.jpg",
+              "fullSizeUrl": "img/events/hayDays/article/fullSize/8.jpg"
+            },
+            {
+              "text": "Câmpul pregătit de cosit.",
+              "thumbnailUrl": "img/events/hayDays/article/thumbnail/6.jpg",
+              "fullSizeUrl": "img/events/hayDays/article/fullSize/6.jpg"
+            },
+            {
+              "text": "Între timp, văcuțele pasc pe ogor cât e vara de lungă, iar la iarnă se vor hrăni cu fân.",
+              "thumbnailUrl": "img/events/hayDays/article/thumbnail/7.jpg",
+              "fullSizeUrl": "img/events/hayDays/article/fullSize/7.jpg"
+            },
+            {
+              "text": "Într-una din zile vom organiza un traseu ghidat localitatea cu obiceurile și istoria ei printr-un traseu ghidat.",
+              "thumbnailUrl": "img/events/common/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/events/common/article/fullSize/2.jpg"
+            },
+            {
+              "text": "Cazarea se face în camere private cu baie și acces bucătărie.",
+              "thumbnailUrl": "img/events/common/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/events/common/article/fullSize/1.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar'></i> Program",
+      "sectionId": "schedule",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Vă așteptăm la strânsul fânului la Roșia Montană."
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>În prima zi</b> - sosirea, ne cunoaștem, vedem terenul, împărțim activitățile de la fân. <br><b>Următoarele zile</b> - adunatul fânului pe câmp, mulsul vacilor iar seara ne ospătăm la fermă drept răsplată <br><b>Ultima zi</b> - traseu ghidat al localității."
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "*programul se poate modifica în funcție de vreme."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar-check-o'></i> Rezervări",
+      "sectionId": "bookings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Pentru a organiza cât mai bine, vă rugăm să faceți o rezervare cât mai din timp. Cazarea se face în camere private cu baie și acces la bucătărie la prețul de 45lei/persoană/noapte."
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "sendEmailTitle": "hayDayEventBooking",
+      "beforeSubmitText": "Rezervarea va fi efectuată doar la primirea unui <b>email de confirmare!</b>",
+      "submitButtonText": "Trimite rezervarea",
+      "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
+      "errorMessage": "EROARE! Contactați-ne prin email sau telefon (vedeți partea de jos a paginii)",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "Email",
+          "required": true
+        },
+        {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeClass": "fa fa-phone fa-fw",
+          "placeholder": "Telefon",
+          "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "placeholder": "Perioda",
+          "required": true
+        },
+        {
+          "type": "number",
+          "name": "numberOfPersons",
+          "iconFortAwesomeClass": "fa fa-male fa-fw",
+          "placeholder": "Număr de persoane",
+          "required": true
+        },
+        {
+          "type": "checkBoxes",
+          "checkBoxes": [
+            {
+              "name": "otherPeriod",
+              "text": "contactați-mă telefonic pentru a stabili altă perioadă"
+            },
+            {
+              "name": "voucherGift",
+              "text": "doresc să ofer excursia cadou. Trimiteți-mi un voucher."
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Alte întrebări? Scrie-ne aici...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "Importanța aceastei activități?",
+      "sectionId": "whyImportant",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "'Hay meadows provide an immense range of benefits to farming communities and wider society. They create some of Europe’s most spectacular scenery and cultural landscapes. Simply to watch this natural, environmental and cultural heritage disappear before our eyes is, surely, not an option” said the Prince of Wales at the European Parliament, Brussels, 2012. Bellow you can see the video were Prince Charles speaks about the importance of hay meadows.",
+          "iframe": {
+            "src": "https://www.youtube.com/embed/aGhHtbF6zKk"
+          }
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "seeAlso",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/events/steamTrain"
+        },
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/events/steamTrain"
+        }
+      ]
+    }
+  ]
+}

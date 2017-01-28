@@ -1,0 +1,14 @@
+{
+  "presentation": {
+    "title": "Marathon",
+    "headline": "",
+    "description": "<b>| July |</b> Marathon, Semi Marathon, kids marathon. The countryside roads become running tracks.",
+    "fullWidthImg": "img/events/marathon/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/events/marathon/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "http://www.rosiamontanamarathon.ro",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": true
+  }
+}

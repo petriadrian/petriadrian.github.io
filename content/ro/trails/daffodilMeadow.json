@@ -1,0 +1,151 @@
+{
+  "presentation": {
+    "title": "Poiana cu narcise",
+    "headline": "Traseul spre Poiana cu Narcise",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <i class='fa fa-car'></i> <b>~39km</b>",
+    "description": "<b>| Mai |</b> O pătura albă de narcise și un miros plăcut pun stapanire pe Poiana Negrileasa.",
+    "fullWidthImg": "img/trails/daffodilMeadow/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/daffodilMeadow/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/trails/daffodilMeadow",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Poiana cu Narcise. Trasee de bicicletă Roșia Montană",
+    "description": "O pătura albă și un miros plăcut acoperă în Mai poiana cu narcise Negrileasa, Bucium. Vezi traseul prin Munții Apuseni și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "displayOnShareImg": "img/trails/daffodilMeadow/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Narcisele înfloresc în luna mai și țin toată primăvara. Anual, în Duminica cea mai apropiată de 20 Mai aici are loc sărbătoare narciselor în care localnicii vând bunătăți făcute la ei în gospodărie iar seara se lasă cu petreceri. Chiar dacă nu e luna Mai, drumul până aici e superb și merită făcut indiferent de perioadă. Traseul arătat pe harta de mai jos este pentru biciclete de asfalt sau mașini/moto deoarece e asfaltat (mai puțin ultimii 3km pe care recomandăm să îi faceți pe jos întrucât peisajele sunt de poveste). <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b>",
+          "seeAlso": [
+            {
+              "text": "Vezi aici și <b>traseul de MTB sau drumeție</b> (e mai scurt și pe drum de țară)...",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.google.com/maps/dir/Casa+Petri,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615,+Romania/Poiana+cu+Narcise+de+la+Negrileasa,+Valea+Negrilesii,+Romania/@46.2676681,23.1488071,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x474eca1cedae3ebd:0xc2a91ad65c1f15d6!2m2!1d23.2129428!2d46.2248948!3e2?hl=en-US",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJvT6u7RzKTkcR1hUfXNYaqcI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~39km"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
+              },
+              {
+                "textOnMouseOver": "durată cu mașina",
+                "text": "<i class='fa fa-car'></i> ~1h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "<i class='fa fa-line-chart'></i> greu"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Poiana",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "O excursie la rezervatia naturală Negrileasa în perioada înfloriri narciselor...  e ceva ce nu ve-ți uita niciodată. Când închizi ochii și încerci să îți amintești de Negrileasa, prima dată o să încerci sa îți amintești mirosul narciselor de acolo. O sa îți dai seama că e imposibil. Trebuie sa te reîntorci la Negrileasa pentru a trăi din nou această experiență, să vezi acel deal alb, să simți acel miros, să te bucuri de acestă poiană din Apuseni.",
+          "seeAlso": [
+            {
+              "text": "Mai multe detalii aici...",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://www.muntii-apuseni.eu/news.php?readmore=7",
+              "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "<b>Poiana cu Narcise</b> - Nu culegeți multe narcise! Odată rupte se ofilesc destul de rapid și își pierd mirosul ... magia lor are efect doar aici, în mediul lor natural. În schimb faceți multe poze cu ele :)",
+              "thumbnailUrl": "img/trails/daffodilMeadow/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/daffodilMeadow/article/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>Poiana cu Narcise</b> - Zona este înconjurată de culmi montane și păduri de conifere. De ai timp poți să te mai aventurezi prin împrejurări",
+              "thumbnailUrl": "img/trails/daffodilMeadow/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/daffodilMeadow/article/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/trails/detunata"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

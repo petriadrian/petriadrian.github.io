@@ -1,0 +1,226 @@
+{
+  "presentation": {
+    "title": "Camping",
+    "headline": "Sleep under the stars? Camping area",
+    "description": "Safe camping, in our yard with mountain view, hammocks, gazebo, bathroom, kitchen and dinning area access. <br><b>Book camping</b>",
+    "fullWidthImg": "img/accommodation/camping/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/accommodation/camping/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/accommodation/camping",
+    "textOnMouseOver": "See the camping spots...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Camping at Casa Petri Rosia Montana",
+    "description": "Safe camping, in our yard with mountain view, bathroom, kitchen, dinning area, gazebo and hammocks. See also the hiking or bike trails to the attractions of our area. Rent bikes and guided tours to discover more about the roman galleries and mining industry from Rosia Montana, Alba, Apuseni Mountains, Transylvania - Romania.",
+    "displayOnShareImg": "img/accommodation/camping/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-chevron-circle-up'></i> Camping area",
+      "sectionId": "campingArea",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with bathroom, kitchen, dinning area, wifi, gazebo and hammocks.</b>"
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "",
+          "images": [
+            {
+              "text": "<b>Camping area</b> - yard",
+              "thumbnailUrl": "img/accommodation/article/camping/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/article/camping/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>Camping area - bathroom</b> -  Heating with wood boiler",
+              "thumbnailUrl": "img/accommodation/article/camping/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/article/camping/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar-check-o'></i> Bookings",
+      "sectionId": "reservations",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Book camping places, bikes or guided tours. In order to have everything set please make an early reservation. We know that you are not visiting our area just to meet us, but also to see the surroundings, that's why a part from our income will be donated to those who take care of the heritage buildings from Roșia Montană or to some local initiatives. For larger groups or longer periods we can offer discounts. <b>The booking will be confirmed by email.</b>"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "sendEmailTitle": "campingReservation",
+      "submitButtonText": "Send the booking",
+      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+      "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "Email",
+          "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "placeholder": "Select period",
+          "required": true
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "name": "tentType",
+          "required": true,
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Select tent type and price",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ add tent",
+            "removeButtonText": "- remove tent",
+            "minOccurs": 1,
+            "maxOccurs": 4
+          },
+          "inputs": [
+            {
+              "selectOptions": [
+                {
+                  "text": "2 persons tent - 12€ /night"
+                },
+                {
+                  "text": "3 persons tent - 15€ /night"
+                },
+                {
+                  "text": "4 persons tent - 20€ /night"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "selectBox",
+          "name": "bikes",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-bicycle fa-fw",
+          "placeholder": "Book bikes",
+          "selectOptions": [
+            {
+              "text": "1 bike - 12€/day"
+            },
+            {
+              "text": "2 bikes - 20€/day"
+            },
+            {
+              "text": "3 bikes - 30€/day"
+            }
+          ]
+        },
+        {
+          "type": "checkBoxes",
+          "title": "<b>I wish:</b>",
+          "checkBoxes": [
+            {
+              "name": "guidedTours",
+              "text": "<b>guided tours</b> - on arrival you will configure the trails and the price with our guide."
+            },
+            {
+              "name": "chatWithLocals",
+              "text": "have a chat with the locals about the past and the present of Rosia Montana"
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Write here which guided tours you will like to make, or if you want to eat at the farm, or other details...",
+          "rows": 3,
+          "maxChars": 350,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/relaxing"
+      }
+    },
+    {
+      "type": "title",
+      "text": "Facilities",
+      "sectionId": "facilities",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "facilities",
+          "ids": [
+            {
+              "id": "freeWifi"
+            },
+            {
+              "id": "food"
+            },
+            {
+              "id": "boardGames"
+            },
+            {
+              "id": "emergencies"
+            },
+            {
+              "id": "parking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "seeAlso",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/review"
+        },
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/activities/hiking"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "presentation": {
+    "title": "Țarina",
+    "headline": "The rural life - Țarina trail",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~10km</b>",
+    "description": "Visit Țarina, mountain lakes, Vaidoaia Gallery and enjoy the view upon the village from the Rotundu peak (at the Weather Station).",
+    "fullWidthImg": "img/trails/tarina/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/tarina/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/trails/tarina",
+    "textOnMouseOver": "see the trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Țarina trail | Hiking | biking | Rosia Montana",
+    "description": "Visit Țarina, mountain lakes, Vaidoaia Gallery and enjoy the view upon the village from the Rotundu peak (at the Weather Station). See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "displayOnShareImg": "img/trails/tarina/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "A trail along our favorite area, Țarina lands, where you will see some of the most spectacular landscapes. Țarina is pretty close to the Historic Center and here are the farmlands of the locals where they keep their animals or vegetable crops. The trail will take you to Țarina Lake and then to the Țarina (on the top of Rosia Montana) where you will have a spectacular view. Will return to the Casa Petri along the 'Tăul Mare' lake, Văidoaia Gallery and a very special old house (Casa Szekely). The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJeb9NLN7MTkcRNg6SoGpHwIw",
+            "list": [
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~10km"
+              },
+              {
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-blind'></i> ~4h"
+              },
+              {
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~3h"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "berg"
+            },
+            {
+              "id": "tariniLake"
+            },
+            {
+              "id": "rotunduPeak"
+            },
+            {
+              "id": "bigLake"
+            },
+            {
+              "id": "szekeyHouse"
+            },
+            {
+              "id": "vaidoaiaGalleries"
+            },
+            {
+              "id": "sicilianStreet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.",
+          "images": [
+            {
+              "text": "Tăul Țarinii.",
+              "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/3.jpg"
+            },
+            {
+              "text": "Țarina - cattle's land.",
+              "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/4.jpg"
+            },
+            {
+              "text": "To the Rotundu Peak - the entrace in the pine forest.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/4.jpg"
+            },
+            {
+              "text": "On the trail",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/6.jpg"
+            },
+            {
+              "text": "Tăul Mare view from Rotundu Peak.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/7.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/7.jpg"
+            },
+            {
+              "text": "Rotundu Peak",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/10.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/10.jpg"
+            },
+            {
+              "text": "Roșia Montana village view from Rotundu Peak.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/8.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/8.jpg"
+            },
+            {
+              "text": "On the trail....",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/4.jpg"
+            },
+            {
+              "text": "Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/9.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/9.jpg"
+            },
+            {
+              "text": "Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/taul-mare-turisti.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/taul-mare-turisti.jpg"
+            },
+            {
+              "text": "Văidoaia Galleries.",
+              "thumbnailUrl": "img/trails/attractions/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/vaidoaiaGalleries/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/detunata"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

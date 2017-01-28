@@ -1,0 +1,226 @@
+{
+  "presentation": {
+    "title": "Țarina",
+    "headline": "Viața rurală - traseul Țarina",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~10km</b>",
+    "description": "Vizităm Tăul Țarina, Tăul Mare, Galeria Văidoaia și Stația Meteo de pe Vârful Rotundu ce oferă o priveliște asupra întregului ținut.",
+    "fullWidthImg": "img/trails/tarina/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/tarina/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/trails/tarina",
+    "textOnMouseOver": "vezi traseul...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Traseul Țarina | drumeții | ciclism | Rosia Montana",
+    "description": "Vizităm Tăul Țarina, Tăul Mare, Galeria Văidoaia și Stația Meteo de pe Vârful Rotundu ce oferă o priveliște asupra întregului ținut. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "displayOnShareImg": "img/trails/tarina/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Acesta este unul dintre cele mai pitorești trasee care te vor plimba prin locul nostru preferat - Țarina. Aici sunt proprietățile pe care roșienii le dețin aproape de centrul comunei, unde își cresc animalele sau culturile de legume. Traseul vă va duce pe la Tăul Țarinii și apoi până la Stația Meteo de unde vă promitem o priveliște nemaiîntâlnită. Veți coborî pe la Tăul Mare, iar înainte de a intra în centru istoric mai puteți face un popas la Galeria Văidoaia și la o casă veche cu totul specială - 'Casa Szekely'. Traseul se face pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-download'></i> descarcă <b>datele GPS</b>",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> vezi <b>diferența de nivel</b>",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJeb9NLN7MTkcRNg6SoGpHwIw",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~10km"
+              },
+              {
+                "textOnMouseOver": "durata pe jos",
+                "text": "<i class='fa fa-blind'></i> ~4h"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~3h"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Atracții",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "berg"
+            },
+            {
+              "id": "tariniLake"
+            },
+            {
+              "id": "rotunduPeak"
+            },
+            {
+              "id": "bigLake"
+            },
+            {
+              "id": "szekeyHouse"
+            },
+            {
+              "id": "vaidoaiaGalleries"
+            },
+            {
+              "id": "sicilianStreet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Tăul Țarinii.",
+              "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/3.jpg"
+            },
+            {
+              "text": "Țarina - locul cu pășuni.",
+              "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/4.jpg"
+            },
+            {
+              "text": "Spre vârful Rotundu - intrarea în pădurea de brazi.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/4.jpg"
+            },
+            {
+              "text": "Vârful Rotundu",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/6.jpg"
+            },
+            {
+              "text": "Priveliștea spre Tăul Mare de pe Vârful Rotundu.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/7.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/7.jpg"
+            },
+            {
+              "text": "Vârful Rotundu.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/10.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/10.jpg"
+            },
+            {
+              "text": "Roșia Montana văzută de pe Vârful Rotundu.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/8.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/8.jpg"
+            },
+            {
+              "text": "Pe traseu...",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/4.jpg"
+            },
+            {
+              "text": "Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/9.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/9.jpg"
+            },
+            {
+              "text": "Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/taul-mare-turisti.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/taul-mare-turisti.jpg"
+            },
+            {
+              "text": "Galeria Văidoaia.",
+              "thumbnailUrl": "img/trails/attractions/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/vaidoaiaGalleries/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/trails/detunata"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

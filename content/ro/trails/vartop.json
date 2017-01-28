@@ -1,0 +1,334 @@
+{
+  "presentation": {
+    "title": "Vârtop",
+    "headline": "Poiana cu zmeură - Traseul Vârtop",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <b>~20km</b>",
+    "description": "Zona cu pășuni, satele liniștite dinspre apus (Piatra Albă - Vârtop) și poiana cu zmeură.",
+    "fullWidthImg": "img/trails/vartop/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/vartop/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/trails/vartop",
+    "textOnMouseOver": "vezi traseul...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Poiana cu zmeură - Traseul Vârtop",
+    "description": "Drumul de țară ce leagă Roșia Montană de zona cu pășuni (islaz), satele dinspre apus (Piatra Alba - Vârtop) și poiana cu zmeură este ideal pentru o plimbare ușoară pe bicicletă, la munte. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervări cazare, biciclete, ghizi, campare.",
+    "displayOnShareImg": "img/trails/vartop/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "De la Casa Petri se pleacă spre zona Orlea unde se pot vizita Sculpturile de Calcar. Continuăm spre locul unde localnicii își lasă vitele la păscut (islaz) iar apoi se coboră prin zona Piatra Albă la Centrul regional din Carpeniș. Traseul se continuă prin satul Vârtop și Gârda-Bărbulești, porțiune unde se găsesc izvoare și zone cu zmeură, fragi și mure (sunt coapte la sfârșitul verii). Din Gârda se mai urcă puțin până la Izvorul Rotundu iar apoi se coboară spre Casa Petri pe la Tăul Țarinii. Traseul este pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-info-circle'></i> vezi varianta mai scurtă a traseului (~11km)",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.google.com/maps/dir/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615,+Romania/Limestone+Sculptures,+DC147,+Ro%C8%99ia+Montan%C4%83,+Romania/B%C4%83lmo%C8%99e%C8%99ti,+Alba+County,+Romania/G%C3%A2rda-B%C4%83rbule%C8%99ti,+Alba+County,+Romania/T%C4%83ul+%C8%9Aarinii,+Romania/Casa+Petri,+Ro%C8%99ia+Montan%C4%83,+Romania/@46.3159314,23.0927403,14z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x474ecd18f7143d2b:0x3c28cea5fbc21b20!2m2!1d23.1183431!2d46.3089531!1m5!1m1!1s0x474ecd14e876a36f:0x84ad3de12f376330!2m2!1d23.104802!2d46.3104798!1m5!1m1!1s0x474ecd363313fb29:0xa9afba825a545f5a!2m2!1d23.1175904!2d46.3254468!1m5!1m1!1s0x474ecd247983fa01:0x2a7cbd6966533f77!2m2!1d23.1239666!2d46.3150817!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!3e2?hl=en-US",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-download'></i> descarcă <b>datele GPS</b>",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.bikemap.net/en/route/3808631-vartop-rosia-montana/",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> vezi <b>diferența de nivel</b>",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.bikemap.net/en/route/3808631-vartop-rosia-montana/",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw|place_id:ChIJkx2wHkPNTkcRPM_ZjLSGEjw|place_id:ChIJOQJaR53STkcRMpzQXDCDQAo|place_id:ChIJ022Lg5DSTkcRlX7VPdssTgo|place_id:ChIJ2c3bt1vNTkcRrzPgF8eV5eE|place_id:ChIJKfsTMzbNTkcRWl9UWoK6r6k|place_id:ChIJZ-TCfijNTkcRQiATb5BDZMI|place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~20km"
+              },
+              {
+                "textOnMouseOver": "durata pe jos",
+                "text": "<i class='fa fa-blind'></i> ~6h"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
+              },
+              {
+                "textOnMouseOver": "diferența de nivel",
+                "text": "<i class='fa fa-arrows-v'></i> ~730m"
+              },
+              {
+                "textOnMouseOver": "fântână cu apă de băut",
+                "text": "<i class='fa fa-tint'></i> Izvorul Vârtop , Izvorul Rotundu"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Atracții",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "limestoneSculptures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Islaz",
+          "textContent": "Traseul prin zona cu pășuni - islaz.",
+          "images": [
+            {
+              "text": "Locul comunal cu pășuni",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/9.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/9.jpg"
+            },
+            {
+              "text": "Islaz",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/15.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/15.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Vârtop",
+          "textContent": "Traseul prin zona satului Vârtop.",
+          "images": [
+            {
+              "text": "Biserica din Vârtop",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/17.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/17.jpg"
+            },
+            {
+              "text": "Vârtop",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/8.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/8.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Gârda-Bărbulești",
+          "textContent": "Traseul prin zona satului Gârda-Bărbulești.",
+          "images": [
+            {
+              "text": "Gârda-Bărbulești",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/5.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/5.jpg"
+            },
+            {
+              "text": "Gârda-Bărbulești",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/1.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Poiana cu Zmeură",
+          "textContent": "Drumul spre Gârda va trece prin poienile cu zmeură. Acestea sunt coapte la sfârșitul lunii August.",
+          "images": [
+            {
+              "text": "Poiana cu Zmeură.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/12.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/12.jpg"
+            },
+            {
+              "text": "Poiana cu Zmeură.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "tariniLake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Spre Sculpturile de calcar. Zona Orlea.",
+              "thumbnailUrl": "img/trails/attractions/orlea/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/orlea/fullSize/1.jpg"
+            },
+            {
+              "text": "Islaz",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/2.jpg"
+            },
+            {
+              "text": "Izvorul din Vârtop.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/6.jpg"
+            },
+            {
+              "text": "Câmp cu flori",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/14.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/14.jpg"
+            },
+            {
+              "text": "Spre Cărpiniș",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/4.jpg"
+            },
+            {
+              "text": "Spre Cărpiniș",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/20.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/20.jpg"
+            },
+            {
+              "text": "Pădurea de brazi",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/19.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/19.jpg"
+            },
+            {
+              "text": "Spre Vârtop",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/7.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/7.jpg"
+            },
+            {
+              "text": "Dumitru - ferma din Vârtop",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/21.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/21.jpg"
+            },
+            {
+              "text": "Spre Gârda-Bărbulești.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/10.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/10.jpg"
+            },
+            {
+              "text": "Spre nori",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/16.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/16.jpg"
+            },
+            {
+              "text": "Intrare în poiana cu zmeură.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/13.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/13.jpg"
+            },
+            {
+              "text": "Frăguțe.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/11.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/11.jpg"
+            },
+            {
+              "text": "Zona cu mure. Sunt coapte în Octombrie.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/18.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/18.jpg"
+            },
+            {
+              "text": "Spre Izvorul Rotundu.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/9.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/9.jpg"
+            },
+            {
+              "text": "Pe traseu.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/6.jpg"
+            },
+            {
+              "text": "Tăul Țarinii",
+              "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/trails/corna"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

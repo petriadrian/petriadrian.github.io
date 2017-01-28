@@ -1,0 +1,172 @@
+{
+  "presentation": {
+    "title": "Scărișoara Glacier",
+    "headline": "The trail to the 'Scărișoara' glacier cave",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <i class='fa fa-car'></i> <b>~51km</b>",
+    "description": "A trail along the Arieș river and Apuseni Mountains, to one of the largest underground glacier in the world, Scărișoara.",
+    "fullWidthImg": "img/trails/scarisoara/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/scarisoara/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/trails/scarisoara",
+    "textOnMouseOver": "see the trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Scărișoara Glacier. Bike trails Rosia Montana",
+    "description": "A trail along the Arieș river and Apuseni Mountains, to one of the largest underground glacier in the world, Scărișoara. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "displayOnShareImg": "img/trails/scarisoara/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Start from Casa Petri and head towards Câmpeni, the capital of Moților Land. From here continue the road along the Arieș river, so whenever you want you can have a break and refresh with cold water from the river or to eat at a guest houses from the area. Go along the Albac village and turn right in Gârda village, on a narrow road that will take you up on the mountains to the Scărișoara Glacier. The trail is on asphalted roads and it can be made by car/moto or touring bikes. <b>The below indications represents one way length and time.</b>",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJX0JNIW_RSEcR1vLt5txsNTw&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJR3EQGOAsSUcR5LmrbHY10WY",
+            "list": [
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~51km"
+              },
+              {
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
+              },
+              {
+                "textOnMouseOver": "duration by car",
+                "text": "<i class='fa fa-car'></i> ~1h"
+              },
+              {
+                "textOnMouseOver": "difficulty",
+                "text": "<i class='fa fa-line-chart'></i> heavy"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "The road to Scărișoara",
+          "textContent": "The road takes you along some traditional villages of 'Apuseni' Mountains in 'Moților' Land. Make as many stops as you like and enjoy the area, enjoy the smell of pine trees and the cold mountain water.",
+          "seeAlso": [
+            {
+              "text": "See here a video with the trail..",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.youtube.com/watch?v=2FEThHycyWo",
+              "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "<b>The road to Scărișoara</b> - ",
+              "thumbnailUrl": "img/trails/attractions/scarisoaraRoad/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/scarisoaraRoad/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>The road to Scărișoara</b> - ",
+              "thumbnailUrl": "img/trails/attractions/scarisoaraRoad/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/scarisoaraRoad/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "The Scărișoara Glacier",
+          "textContent": "'This is the first cave in Romania who was declared a protected natural monument (in 1938). The cave has 700m length and the most important fact is that it hosts the largest underground block of ice (glacier) in the world.'",
+          "seeAlso": [
+            {
+              "text": "Text source and more details can be found here...",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.ghiduri-turistice.info/ghid-turistic-turist-in-romania--pestera-ghetarul-de-la-scarisoara--galerie-foto",
+              "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "<b>The entrance in the Scărișoara Glacier</b> - ",
+              "thumbnailUrl": "img/trails/attractions/scarisoara/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/scarisoara/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>The Scărișoara Glacier</b> - blocul de gheață în formă de rechin",
+              "thumbnailUrl": "img/trails/attractions/scarisoara/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/scarisoara/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/zlatnaPool"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

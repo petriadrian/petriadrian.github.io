@@ -1,0 +1,172 @@
+{
+  "presentation": {
+    "title": "Ghețarul Scărișoara",
+    "headline": "Traseul spre Ghețarul Scărișoara",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <i class='fa fa-car'></i> <b>~51km</b>",
+    "description": "Traversăm Țara Moților, pe malul râului Arieș, până la unul dintre cele mai mari ghețare subterane din lume.",
+    "fullWidthImg": "img/trails/scarisoara/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/scarisoara/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/trails/scarisoara",
+    "textOnMouseOver": "vezi traseul...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Ghețarul Scărișoara. Trasee de bicicletă Roșia Montană",
+    "description": "Un drum pe malul râului Arieș, prin Țara Moților, Munții Apuseni, spre unul din cele mai mari ghețare subterane din lume, Scărișoara. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "displayOnShareImg": "img/trails/scarisoara/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Pornim de la Casa Petri și o luăm spre capitala Țării Moților - orașul Câmpeni. Ținem de aici drumul de pe malul râului Arieș unde ne mai putem opri pentru a ne revigora cu apă rece de munte sau să luăm masa pe la vreo pensiune. Trecem de Albac și ajungem în Gârda unde facem dreapta. De aici drumul se îngustează și devine și mai frumus întrucât urcăm pe versantul muntelui până la Ghețarul Scărișoara. Traseul este pe drum asfaltat și se poate face cu mașina/motocicleta sau cu biciclete de asfalt. <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b>",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJX0JNIW_RSEcR1vLt5txsNTw&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJR3EQGOAsSUcR5LmrbHY10WY",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~51km"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
+              },
+              {
+                "textOnMouseOver": "durata cu mașina",
+                "text": "<i class='fa fa-car'></i> ~1h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "<i class='fa fa-line-chart'></i> greu"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Atracții",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Drumul spre Scărișoara",
+          "textContent": "Drumul vă va purta pe malul râului Arieș prin Țara Moților cu satele specifice din Munții Apuseni. Faceți cât mai multe popasuri și bucurați-vă de zonă, de mirosul de brazi și apa rece de munte.",
+          "seeAlso": [
+            {
+              "text": "Un video cu traseul găsiți aici...",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.youtube.com/watch?v=2FEThHycyWo",
+              "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "<b>Drumul spre Ghețarul Scărișoara</b> - ",
+              "thumbnailUrl": "img/trails/attractions/scarisoaraRoad/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/scarisoaraRoad/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>Drumul spre Ghețarul Scărișoara</b> - ",
+              "thumbnailUrl": "img/trails/attractions/scarisoaraRoad/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/scarisoaraRoad/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Ghețarul Scărișoara",
+          "textContent": "'Aceasta este prima pestera din Romania declarata monument al naturii, in 1938. Pestera se afla la o altitudine de 1165 m, si are o lungime de peste 700 m. Ceea ce este foarte important de retinut este ca pestera gazduieste cel mai mare bloc de gheata (ghetar) subteran din lume.'",
+          "seeAlso": [
+            {
+              "text": "Sursa și mai multe detalii găsiți aici...",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://www.ghiduri-turistice.info/ghid-turistic-turist-in-romania--pestera-ghetarul-de-la-scarisoara--galerie-foto",
+              "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "<b>Intrarea în ghețarul Scărișoara</b>",
+              "thumbnailUrl": "img/trails/attractions/scarisoara/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/scarisoara/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>Ghețarul Scărișoara</b> - blocul de gheață în formă de rechin",
+              "thumbnailUrl": "img/trails/attractions/scarisoara/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/scarisoara/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/trails/zlatnaPool"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

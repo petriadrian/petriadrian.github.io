@@ -1,0 +1,387 @@
+{
+  "presentation": {
+    "title": "Accommodation",
+    "headline": "Morning coffee at Roșia Montană?",
+    "description": "<b>Rooms, camping, bookings!</b><br>Our house is a heritage building, recently restored, in the historic center of Roșia Montană. See images and more...",
+    "fullWidthImg": "img/accommodation/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/accommodation/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/accommodation",
+    "textOnMouseOver": "See the rooms...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Accommodation at Casa Petri Rosia Montana",
+    "description": "Stay in a heritage house from the Historic Center of Roșia Montana, recently renovated with bathrooms and kitchen access. See also the hiking and bike trails to discover our area: roman galleries, gold mining industry, heritage buildings, mountains, lakes and many more. Rosia Montana, Alba, Apuseni Mountains, Transylvania - Romania.",
+    "displayOnShareImg": "img/accommodation/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bed'></i> Rooms",
+      "sectionId": "rooms",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "We are located in the historic center of Rosia Montana 331. The building was a bank, medical center, cinema and then it was bought by our grandparents who work in mining industry, and used for living. It's a heritage building, so we preserved the painting, the wooden floor, the windows, the heating with terracotta stoves, but we also added new bathrooms and kitchen. Te rooms have separate entries connected by a yard with hammocks, green grass and a nice view to the Cânic massif."
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Books apartment",
+          "textContent": "Has one meter wide walls made of rocks, a closet filled with books, two bunk beds and an expandable couch. Is at the ground floor and has private entrance. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom  - <i class='fa fa-cutlery'></i> private kitchenette - <i class='fa fa-book'></i> library",
+          "images": [
+            {
+              "text": "Books apartment - We transformed a cupboard into a library with old books, guides about Rosia Montana and board games.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/1.jpg"
+            },
+            {
+              "text": "Books apartment -  In the showcase are old photos from Roșia, crystal clusters rocks and old objects used in the household.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/2.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/2.jpg"
+            },
+            {
+              "text": "Books apartment - bathroom heated with electric boiler",
+              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Little house apartment",
+          "textContent": "The garden house has one room with two beds, bathroom, kitchen and private entrance. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fa fa-cutlery'></i> private kitchen - <i class='fa fa-book'></i> library",
+          "images": [
+            {
+              "text": "Little house apartment - the beds can be joined",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/1.jpg"
+            },
+            {
+              "text": "Little house apartment - the library contains maps, books and guides about Roșia Montană",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/2.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/2.jpg"
+            },
+            {
+              "text": "Little house apartment - the entrance in the private bathroom and kitchen are directly from the room. The heating is done by a terracotta stove on woods.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/3.jpg"
+            },
+            {
+              "text": "Little house apartment - kitchen (fridge, microwave, hob, sink with hot and cold water, dishes and cutlery)",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/kitchen.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/kitchen.jpg"
+            },
+            {
+              "text": "Little house apartment - bathroom with electric boiler.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/6.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/6.jpg"
+            },
+            {
+              "text": "Little house apartment - the outside - private entrance.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/7.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/7.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "The Upstairs apartment",
+          "textContent": "It is located at the first floor, has private entrance and the access is made through a hallway with stairs and many small windows called 'târnaț' (specific to our area). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fa fa-cutlery'></i> private kitchenette - <i class='fa fa-book'></i> library",
+          "images": [
+            {
+              "text": "The Upstairs apartment - the double bed can be separated. The painting was made in 1960 and is very well preserved",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/room.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/room.jpg"
+            },
+            {
+              "text": "The Upstairs apartment - a relaxing area with a chic coffee table and many places with old books.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/coffeeTable.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/coffeeTable.jpg"
+            },
+            {
+              "text": "The Upstairs apartment - we transformed an old door into a library.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/doorBook.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/doorBook.jpg"
+            },
+            {
+              "text": "The Upstairs apartment - places with old books, vinyls and newspapers and magazines about Rosia Montana.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/booksPlaces.jpg"
+            },
+            {
+              "text": "The Upstairs apartment - bathroom heated with electric boiler.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/bathroom.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/bathroom.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-home'></i> Outside",
+      "sectionId": "outside",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Photos from <b>our yard</b> or around the house.",
+          "images": [
+            {
+              "text": "Our yard - We have some hammocks to rest after a long hike, read, enjoy the Cârnic view or surf on the internet (there is wifi too).",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/hammock.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/hammock.jpg"
+            },
+            {
+              "text": "Our yard - The pavilion is the perfect place for chatting, drinking 'țuica' or to eat before going out for a hike.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/garden.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/garden.jpg"
+            },
+            {
+              "text": "Our yard - We have a film projector, so we can watch images and movies about Roșia Montana.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+            },
+            {
+              "text": "Casa Petri - view from the street.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/house.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/house.jpg"
+            },
+            {
+              "text": "Beside the house is a playground for children.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/childrenPark.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/childrenPark.jpg"
+            },
+            {
+              "text": "Visit us also on winter! Beside the house we have a perfect spot for sleighing.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/sleighing.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/sleighing.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-chevron-up'></i> Camping",
+      "sectionId": "camping",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Because we also love camping, we prepared a small camping place in our yard, for maximum 4 tents, with bathroom, kitchen, dinning area, gazebo, hammocks, free wifi and electricity.",
+          "images": [
+            {
+              "text": "Camping area fro the yard",
+              "thumbnailUrl": "img/accommodation/article/camping/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/article/camping/fullSize/1.jpg"
+            },
+            {
+              "text": "Camping area fro the yard",
+              "thumbnailUrl": "img/accommodation/article/camping/thumbnail/2.jpg",
+              "fullSizeUrl": "img/accommodation/article/camping/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-cutlery'></i> Food",
+      "sectionId": "food",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Each apartment has a small kitchen and we also have a barbecue in the garden where you can cook. Our reccomandation is to eat at the locals who offers homemade meals - specify in the bellow bookings form and we will send you more details. Beside the house are 3 grocery stores (~5min away) - ",
+          "seeAlso": [
+            {
+              "text": "see here how to reach them from Casa Petri...",
+              "textOnMouseOver": "Click here",
+              "link": "https://www.google.ro/maps/dir/Emiliana+Shop,+DC146,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Bereczky+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Mixt+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615/@46.3064009,23.1286362,17z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x474ecce0f07e87bf:0xc1e5f1730ebc127c!2m2!1d23.1317125!2d46.3060228!1m5!1m1!1s0x474ecce0563eefe1:0x44635688d438a223!2m2!1d23.1308247!2d46.30597!1m5!1m1!1s0x474ecce04e3e997b:0x14730c483b204593!2m2!1d23.1300147!2d46.3061442!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.1299373!2d46.3065974!3e2?hl=en",
+              "openInNewTab": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar-check-o'></i> Bookings",
+      "sectionId": "bookings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "We want to have everything set for your arrival so please make an <b>early</b> reservation. For larger groups or longer periods we can offer discounts."
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "sendEmailTitle": "reservation",
+      "beforeSubmitText": "The booking will be valid only when a <b>confirmation email</b> will be received!",
+      "submitButtonText": "Send the booking",
+      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+      "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "Email",
+          "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "placeholder": "Period",
+          "required": true
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "name": "room",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Book rooms - see type and price",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ add room",
+            "removeButtonText": "- remove room",
+            "minOccurs": 1,
+            "maxOccurs": 4
+          },
+          "inputs": [
+            {
+              "selectOptions": [
+                {
+                  "text": "a 1 person room - 16€/night"
+                },
+                {
+                  "text": "a 2 persons room - 22€/night"
+                },
+                {
+                  "text": "a 3 persons room - 35€/night"
+                },
+                {
+                  "text": "a 4 persons room - 40€/night"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "selectBox",
+          "name": "camping",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-chevron-up fa-fw",
+          "placeholder": "Book camping - see type and price",
+          "selectOptions": [
+            {
+              "text": "2 persons camping - 10€/night"
+            },
+            {
+              "text": "3 persons camping - 15€/night"
+            },
+            {
+              "text": "4 persons camping - 18€/night"
+            },
+            {
+              "text": "5 persons camping - 20€/night"
+            },
+            {
+              "text": "6 persons camping - 24€/night"
+            },
+            {
+              "text": "7 persons camping - 28€/night"
+            },
+            {
+              "text": "8 persons camping - 30€/night"
+            }
+          ]
+        },
+        {
+          "type": "checkBoxes",
+          "title": "Send me on e-mail more info about:",
+          "checkBoxes": [
+            {
+              "name": "guidedTours",
+              "text": "<i class='fa fa-fw fa-blind'></i> | <b>guided trails</b> (what do you want to visit with a guide? fill the 'Other details' box)"
+            },
+            {
+              "name": "rentBikes",
+              "text": "<i class='fa fa-fw fa-bicycle'></i> | <b>rent bikes</b> (how many bikes on how many days? fill the 'Other details' box)"
+            },
+            {
+              "name": "foodInfo",
+              "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>places to eat</b> (vegetarian or other preferences? fill the 'Other details' box)"
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Other details? Write here...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "seeAlso",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/review"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

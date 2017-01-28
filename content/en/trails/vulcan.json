@@ -1,0 +1,143 @@
+{
+  "presentation": {
+    "title": "Vulcan",
+    "headline": "The trail to the Vulcan Mountain",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <i class='fa fa-car'></i> <b>~21km</b>",
+    "description": "Perhaps due to eruption of this volcano we have a rich mineral resources area. See the trail.",
+    "fullWidthImg": "img/trails/vulcan/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/vulcan/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/trails/vulcan",
+    "textOnMouseOver": "see the trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "The Vulcan Mountain. Bike trails Rosia Montana",
+    "description": "Perhaps due to eruption of this volcano we have a rich mineral resources area. See the trail along the Transylvania Mountains and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "displayOnShareImg": "img/trails/vulcan/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "In the picture above you can see how the Vulcan massif looks from the 'Cârnic' mountain (Rosia Montana). Perhaps due to eruption of this volcano we have now a rich mineral resources area. The road is quite spacial because you will go along the Abrud mountains through a pine forest on an asphalted road, until the Vulcan village. To get from here on the top of the Vulcan mountain you’ll have to climb on a unpaved road. <b>The below indications represents one way length and time.</b>",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJzU_RaFLQTkcRJzSmd-Hq-ek&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
+            "list": [
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~21km"
+              },
+              {
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~2h"
+              },
+              {
+                "textOnMouseOver": "duration by car",
+                "text": "<i class='fa fa-car'></i> ~1h"
+              },
+              {
+                "textOnMouseOver": "difficulty",
+                "text": "<i class='fa fa-line-chart'></i> medium"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Vulcan",
+          "textContent": "'Vulcan' is a massif that dominates the surroundings - above all the neighboring mountains, consisting of a forested limestone plateau. It is surrounded almost entirely by high walls (~150m tall) and is a protected area. The walls are a paradise for escalation or climbing, with sticky and solid rocks.'",
+          "seeAlso": [
+            {
+              "text": "Text source and more details can be found here...",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.amunteanu.go.ro/buces_vulcan.htm",
+              "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "<b>The road to Vulcan</b>",
+              "thumbnailUrl": "img/trails/attractions/vulcan/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/vulcan/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>Vulcan mountain</b> - The Raven Wall",
+              "thumbnailUrl": "img/trails/attractions/vulcan/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/vulcan/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/scarisoara"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

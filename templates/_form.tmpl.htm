@@ -1,0 +1,112 @@
+<button ng-if="!!section.hideAreaUnderButton" class="btn btn-large btn-primary topBottomMargins"
+        onclick="toggleSection(this)" ng-bind-html="section.hideAreaUnderButton | trustHtml">
+</button>
+
+<div style="clear:both"></div>
+
+<div ng-if="!!section.title" class="articleTitle">
+    <h3><span ng-bind-html="section.title | trustHtml"></span></h3>
+</div>
+<form role="form" ng-class="{'areaToBeHided': section.hideAreaUnderButton}" name="form"
+      ng-submit="form.$valid && sendEmailFromForm()" class="col-md-10 col-lg-9">
+    <div data-ng-repeat="field in section.fields" class="input-group">
+        <span ng-if="!!field.iconFortAwesomeClass" class="input-group-addon">
+            <i ng-class="field.iconFortAwesomeClass"></i>
+        </span>
+        <input ng-if="field.type == 'text'"
+               type="text" class="form-control"
+               name="{{field.name}}"
+               ng-model="formObj[field.name]"
+               maxlength="{{field.maxChars}}"
+               placeholder="{{field.placeholder}}"
+               ng-required="field.required"/>
+        <input ng-if="field.type == 'number'"
+               ng-model="formObj[field.name]"
+               type="number" class="form-control"
+               name="{{field.name}}"
+               min="1" max="{{field.maxLimit}}"
+               placeholder="{{field.placeholder}}"
+               ng-required="field.required"/>
+        <textarea ng-if="field.type == 'textarea'" class="form-control"
+                  ng-model="formObj[field.name]"
+                  placeholder="{{field.placeholder}}"
+                  rows="{{field.rows}}"
+                  maxlength="{{field.maxChars}}"
+                  name="{{field.name}}"
+                  ng-required="field.required"></textarea>
+        <span ng-if="field.type == 'daterange'">
+                <input type="text"
+                       ng-model="formObj[field.name]"
+                       name="daterange"
+                       class="form-control"
+                       placeholder="{{field.placeholder}}"
+                       ng-required="field.required"/>
+                <script type="text/javascript">
+                    $(function () {
+                        $('input[name="daterange"]').daterangepicker();
+                    });
+                </script>
+            </span>
+        <input ng-if="field.type == 'phone'"
+               type="tel" class="form-control"
+               name="{{field.name}}"
+               ng-model="formObj[field.name]"
+               placeholder="{{field.placeholder}}"
+               ng-required="field.required"/>
+        <input ng-if="field.type == 'email'"
+               type="email" class="form-control"
+               name="{{field.name}}"
+               ng-model="formObj[field.name]"
+               placeholder="{{field.placeholder}}"
+               ng-required="field.required"/>
+
+        <select ng-if="field.type == 'selectBox'" class="form-control" ng-required="field.required"
+                name="{{field.name}}" ng-model="formObj[field.name]">
+            <option disabled selected style='display:none;' ng-bind-html="field.placeholder | trustHtml"></option>
+            <option ng-repeat="option in field.selectOptions" value="{{option.text}}">{{option.text}}</option>
+        </select>
+
+        <div ng-if="field.type == 'selectBoxAllowDuplicates'" class="textAlignLeft">
+            <select data-ng-repeat="input in field.inputs" class="form-control"
+                    ng-required="field.required"
+                    name="{{field.name}}"
+                    ng-model="formObj[field.name+$index]">
+                <option disabled selected style='display:none;' ng-bind-html="field.placeholder | trustHtml"></option>
+                <option ng-repeat="option in input.selectOptions" value="{{option.text}}">{{option.text}}</option>
+            </select>
+            <span ng-show="field.inputs.length < field.allowToDuplicateSettings.maxOccurs"
+                  class="textAlignLeft btn btn-default"
+                  ng-click="addNewField(field.inputs, field.inputs[0])"
+                  ng-bind="field.allowToDuplicateSettings.addButtonText"></span>
+            <span ng-show="field.inputs.length > field.allowToDuplicateSettings.minOccurs"
+                  class="textAlignLeft btn btn-warning"
+                  ng-click="removeLastField(field.inputs)"
+                  ng-bind="field.allowToDuplicateSettings.removeButtonText"></span>
+        </div>
+
+        <div ng-if="field.type == 'checkBoxes'" class="textAlignLeft">
+            <p ng-bind-html="field.title | trustHtml"></p>
+
+            <div ng-repeat="checkBox in field.checkBoxes" class="checkbox">
+                <label>
+                    <input type="checkbox" name="{{checkBox.name}}" ng-model="formObj[checkBox.name]" value="true"/>
+                    <span ng-bind-html="checkBox.text | trustHtml"></span>
+                </label>
+            </div>
+        </div>
+    </div>
+
+    <p ng-if="section.beforeSubmitText" ng-bind-html="section.beforeSubmitText | trustHtml"></p>
+    <br>
+
+    <button type="submit" class="btn btn-primary">
+        {{section.submitButtonText}}
+        <span class="spinner" ng-show="formLoading"><i class="fa fa-spinner fa-pulse"></i></span>
+    </button>
+    <div ng-class="{'visibility-hidden': !showResponse, 'alert-success': messageType == 'success', 'alert-danger': messageType == 'error'}"
+         class="alert" role="alert">
+        {{responseMessage}}
+    </div>
+</form>
+
+<div style="clear:both"></div>

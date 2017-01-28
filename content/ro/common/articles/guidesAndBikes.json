@@ -1,0 +1,32 @@
+[
+  {
+    "id": "details",
+    "hideAreaUnderButton": "Rezervă trasee ghidate + <i class='fa fa-bicycle'></i> + <i class='fa fa-bed'></i> &nbsp&nbsp<i class='fa fa-caret-down'></i>",
+    "textContent": "Cu fiecare grup discutăm despre trasee, dar pentru a afla mai multe despre zonă, obiceiuri, istorie sau industria minieră din Roșia Montană vă recomandăm să le parcurgeți însoțiți de un ghid.",
+    "seeAlso": [
+      {
+        "text": "Rezervările de biciclete, cazare, campare sau tururi ghidate cu bicicleta ori pe jos se pot face aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "ro/accommodation#bookings",
+        "openInNewTab": false
+      }
+    ],
+    "images": [
+      {
+        "text": "<b>Tururi ghidate</b> - descoperă zona însoțiți de un ghid care să vă povestească despre atracțiile întâlnite pe traseu.",
+        "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/1.jpg",
+        "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/1.jpg"
+      },
+      {
+        "text": "<b>Rezervă biciclete sau trasee ghidate pe bicicletă</b> - mtb sau asfalt.",
+        "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/2.jpg",
+        "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/2.jpg"
+      },
+      {
+        "text": "<b>Povești cu localnici</b> - foști angajați în minerit sau oameni ce au ales să rămână aici și să lupte împotriva proiectului care amenița să transforme satul într-o uriașă exploatare minieră.",
+        "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/3.jpg",
+        "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/3.jpg"
+      }
+    ]
+  }
+]

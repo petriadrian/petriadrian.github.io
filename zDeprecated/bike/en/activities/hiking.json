@@ -1,0 +1,156 @@
+{
+  "presentation": {
+    "title": "Hiking",
+    "headline": "Hiking trails in Rosia Montana",
+    "description": "<b>Trails on areas</b> (from historic center and roman galleries up to the mountains). <br><b>Thematic trails</b> (mining evolution, the protests, rural life). <br><b>Guided tours</b> can be also booked.",
+    "fullWidthImg": "img/activities/hiking/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/hiking/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/activities/hiking",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Hiking trails in Rosia Montana",
+    "description": "Trails on areas (from historic center and roman galleries up to the top of the mountains). Thematic trails (mining evolution, the protests, rural life). You can also book guided tours, rooms, bikes, camping in Rosia Montana, Alba, Apuseni Mountains, Transylvania, Romania.",
+    "displayOnShareImg": "img/activities/hiking/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-info-circle'></i> Details",
+      "sectionId": "details",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Roșia Montana is surrounded by mountains, lakes, heritage buildings, ancient galleries and mining areas, so if you come here, don't visit just the museum and the central market, because the area has much more to offer. Check the trails below and find the ones you like, based on the touristic attractions you would like to see. Each trail has <b>online maps</b>, some has <b>GPS</b> data, so you can zoom in, see them in satellite mode or access them from any device during your journey."
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trails on areas",
+      "sectionId": "trailsOnAreas",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "These trails are divided by Rosia Montana areas, around the Casa Petri house. If you wish they can be grouped to obtain longer trails (The 'Historic Center' with 'Cârnic' or 'Țarina' with 'Lety and Sulei'), but we will tell you more when arrive."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/activities/trails/historicCenter"
+        },
+        {
+          "page": "en/activities/trails/romanGalleries"
+        },
+        {
+          "page": "en/activities/trails/carnic"
+        },
+        {
+          "page": "en/activities/trails/letySulei"
+        },
+        {
+          "page": "en/activities/trails/tarina"
+        },
+        {
+          "page": "en/activities/trails/detunata"
+        },
+        {
+          "page": "en/activities/trails/geamana"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Thematic trails",
+      "sectionId": "thematicTrails",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "We organize the following guided thematic trails, to discover more about the stories, the past and the present of Rosia Montana:"
+        },
+        {
+          "textContent": "<b>The mining evolution trail</b> - will start with the old mining story of Rosia Montana by visiting the Antic galleries made by Agathyrsi with fire and water, then we will continue with the rectangular galleries made by romans with the chisel and hammers and will see the installations made for processing the golden ore like the stamps mills and the man made lakes. We finish by visiting the mining plants, wasting ponds and open pits made recently by the the communist, which shaved the mountains and covered the Geamana village with mining wastes."
+        },
+        {
+          "textContent": "<b>The mining protests trail</b> - we go along the areas where protests were held for or against the gold mining project proposed by the Canadian company in 2007, that wanted to transform the village in a big open pit. We will discuss about what happened there and what would have been the consequences of implementing such a project in the area. In the end we will watch at Casa Petri some movies with the streets protests from 2014, organized in the country and abroad, against this project.",
+          "seeAlso": [
+            {
+              "text": " <br><br> The bookings for this guided trails can be made from here...",
+              "textOnMouseOver": "Click here...",
+              "link": "en/accommodation#reservations",
+              "openInNewTab": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "",
+      "sectionId": "justToDisplayALine",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/activities/trails/topAttractions"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/packages/summary"
+        },
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/relaxing"
+        }
+      ]
+    }
+  ]
+}

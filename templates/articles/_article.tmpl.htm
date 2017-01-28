@@ -1,0 +1,52 @@
+<button ng-if="!!article.hideAreaUnderButton" class="btn btn-large btn-primary topBottomMargins"
+        onclick="toggleSection(this)" ng-bind-html="article.hideAreaUnderButton | trustHtml">
+</button>
+<div style="clear:both"></div>
+
+<article ng-class="{'areaToBeHided': article.hideAreaUnderButton}" class="defaultArticle anchorParent">
+    <span id="{{article.id}}" class="anchor"></span>
+    <header ng-if="!!article.title" class="articleTitle">
+        <h3><span ng-bind-html="article.title | trustHtml"></span></h3>
+    </header>
+    <section class="defaultArticleText">
+        <span ng-if="!!article.textContent" ng-bind-html="article.textContent | trustHtml"></span>
+        <span ng-if="!!article.seeAlso"
+              ng-repeat="seeAlsoItem in article.seeAlso">
+                    <a href="{{seeAlsoItem.link}}"
+                       target="{{seeAlsoItem.openInNewTab ? '_blank' : '_self'}}"
+                       title="{{seeAlsoItem.textOnMouseOver}}" class="lookLikeLink"
+                       ng-bind-html="seeAlsoItem.text | trustHtml"></a>
+        </span>
+    </section>
+    <section ng-if="!!article.images">
+        <a rel="fancybox" ng-repeat="image in article.images" title="{{image.text}}"
+           class="fancybox"
+           target="_self"
+           ng-href="{{image.fullSizeUrl}}">
+            <figure class="photoAlbum defaultClickStyle">
+                <img ng-src="{{image.thumbnailUrl | trustUrl}}" alt="{{image.title}}">
+                <figcaption ng-bind-html="image.text | trustHtml"></figcaption>
+            </figure>
+        </a>
+    </section>
+    <section ng-if="!!article.iframe">
+        <div class="trailIndicators">
+            <p ng-if="!!article.iframe.list"
+               ng-repeat="item in article.iframe.list"
+               title="{{item.textOnMouseOver}}"
+               ng-bind-html="item.text | trustHtml"></p>
+        </div>
+
+        <script type="text/javascript" src="/scripts/enableIframeEventsOnClick.js"></script>
+        <div id="enableIframeEventsOnClick">
+            <iframe style="pointer-events: none;"
+                    class="iframe"
+                    frameborder="0"
+                    ng-src="{{article.iframe.src | trustUrl}}"
+                    allowfullscreen></iframe>
+        </div>
+
+    </section>
+</article>
+
+

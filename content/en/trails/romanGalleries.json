@@ -1,0 +1,167 @@
+{
+  "presentation": {
+    "title": "Roman Galleries - Orlea",
+    "headline": "The Roman Galleries - Orlea trail",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~5km</b>",
+    "description": "Visit the Roman Galleries from Mining Museum to see the gold diggings and others attractions of the Orlea area (churches and the Limestone Sculptures).",
+    "fullWidthImg": "img/trails/romanGalleries/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/romanGalleries/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/trails/romanGalleries",
+    "textOnMouseOver": "see the trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "The Roman Galleries of Rosia Montana - Orlea trail",
+    "description": "Visit the Roman Galleries from Mining Museum to see the gold diggings and others attractions of the Orlea area (churches and the Limestone Sculptures). See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "displayOnShareImg": "img/trails/romanGalleries/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "The trail to the Roman Galleries from the 'ROSIAMIN' Mining Museum. The road from Casa Petri to the Museum is asphalted, and the second part of the trail (from the museum to the churches and sculptures) is on a unpaved road, so is perfect for walking or mountain bikes. The time given beside the map includes the visit at the museum.",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJLRYf_xrNTkcRVs2TeQDpAj4|place_id:ChIJ-0OGVhDNTkcRThLcLvAEoLQ|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw",
+            "list": [
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~5km"
+              },
+              {
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-blind'></i> ~3h"
+              },
+              {
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~2h"
+              },
+              {
+                "textOnMouseOver": "difficulty",
+                "text": "<i class='fa fa-line-chart'></i> easy"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "romanGalleries"
+            },
+            {
+              "id": "orthodoxChurch"
+            },
+            {
+              "id": "grecoCatholicChurch"
+            },
+            {
+              "id": "limestoneSculptures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.",
+          "images": [
+            {
+              "text": "Greek Catholic Church.",
+              "thumbnailUrl": "img/trails/attractions/orlea/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/orlea/fullSize/2.jpg"
+            },
+            {
+              "text": "Mining Museum - stamp mills.",
+              "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/steampuri.jpg",
+              "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/steampuri.jpg"
+            },
+            {
+              "text": "Mining Museum - Find out how was gold processed and see the old mining installations.",
+              "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/tarina"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

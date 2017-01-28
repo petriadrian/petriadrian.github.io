@@ -1,0 +1,24 @@
+<div class="row presentationBox">
+    <p ng-if="!!section.text" ng-bind-html="section.text | trustHtml"></p>
+
+    <div ng-repeat="presentationBox in section.detailBoxes"
+         ng-init="otherPagePath=presentationBox.page"
+         class="col-xs-8 col-sm-6 col-md-4 col-lg-3 defaultClickStyle displayOnCenter">
+        <a ng-controller='GetOtherPageContentCtrl'
+           href="{{otherPageContent.url.link}}"
+           target="{{otherPageContent.url.openInNewTab ? '_blank' : '_self'}}">
+            <img alt="{{otherPageContent.title}}"
+                 ng-src="{{otherPageContent.presentation.smallBoxImg}}"
+                 title="{{otherPageContent.url.textOnMouseOver}}"
+                 class="detailBoxImg">
+
+            <div class="caption" title="{{otherPageContent.url.textOnMouseOver}}">
+                <h3 ng-bind-html="otherPageContent.presentation.title | trustHtml"></h3>
+                <p ng-if="otherPageContent.presentation.descriptionTitle"
+                   ng-bind-html="otherPageContent.presentation.descriptionTitle | trustHtml"></p>
+                <p ng-bind-html="otherPageContent.presentation.description | trustHtml"></p>
+            </div>
+        </a>
+    </div>
+</div>
+<div style="clear:both"></div>

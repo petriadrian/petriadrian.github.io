@@ -1,0 +1,215 @@
+{
+  "presentation": {
+    "title": "Corna",
+    "headline": "The copper mine road - Corna",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <b>~25km</b>",
+    "description": "Ride along the old road of the cooper mine Rosia Poieni and climb back along Seliste village.",
+    "fullWidthImg": "img/trails/corna/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/corna/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/trails/corna",
+    "textOnMouseOver": "see the trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Corna. Bike trails Rosia Montana",
+    "description": "Ride along the old road of the cooper mine Rosia Poieni and climb back on an unpaved road along Seliste village. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "displayOnShareImg": "img/trails/corna/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "This is the route of our childhood. <i>We used to take our bikes and go towards the 'Taul Mare' Lake, until we meet the road which leads to the Copper Open Pit Rosia Poieni. From here we enjoy to let go downhill with the highest speed along the Corna village until we reached Abrud. We had a break here, buy an ice cream and rest a little in the Historic Center. Then the hard part of the trail starts: going uphill back home on a unpaved road along the Selişte village. On our way we stopped to the Țapului Lake to swim and refresh a little. From here we were almost home.</i> We challenge you also to follow this trail and taste the pleasures of our childhood. In 'Gura Corna' you can dine (we recommend 'Laguna' restaurant or 'Detunata'). This is a tail for mountain bikes.",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJc1wCQWDMTkcR4k7C7fXZvWE|place_id:ChIJKYpFTlfMTkcRe8HEyvHBE70|place_id:ChIJB5Fu9y3MTkcRnQ6Q90AjcSI|place_id:ChIJjwvQferNTkcRrWEa7dBF04k|place_id:ChIJd5zxAenNTkcRaPviE9EZQ9o|place_id:ChIJK5Ftn7vNTkcRahMZfmk5Keg|place_id:ChIJZySRY5rNTkcRz9qr4SO--a4|place_id:ChIJMcYyfAfNTkcRMZeC6fyMAIo",
+            "list": [
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~25km"
+              },
+              {
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~6h"
+              },
+              {
+                "textOnMouseOver": "difficulty",
+                "text": "<i class='fa fa-line-chart'></i> heavy"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "bigLake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "The 'Corna' village road",
+          "textContent": "The road was asphalted in the past and used to reach the Cooper Open Pit. Now, there is almost no traffic, so it's perfect to go downhill by bike",
+          "images": [
+            {
+              "text": "<b>The road to the Cooper mine</b> - will take you to 'Abrud' on the edge of the 'Piciorului' hill, with a spectacular overlooking to the 'Corna' valey.",
+              "thumbnailUrl": "img/trails/attractions/cornaRoad/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/cornaRoad/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>The road along 'Corna' village</b> - in the back you can see the Corna road. You can also have a break in the village to visit the 2 churches or the 'Cartusi' Lake",
+              "thumbnailUrl": "img/trails/attractions/cornaRoad/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/cornaRoad/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Abrud",
+          "textContent": "From 'Abrud' you’re going to reach the unpaved road that will climb you to 'Selişte' and then Rosia Montana. If you have time you can quickly visit the Historic Center of Abrud (the Catholic Church area). A good piece, of the Transylvania history has been written here.",
+          "seeAlso": [
+            {
+              "text": "Find out more(RO)...",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.primaria-abrud.ro/index.php/ro/orasul/item/98-pagini-de-istorie",
+              "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "<b>Abrud</b> - the Historic Center - the Catholic Church",
+              "thumbnailUrl": "img/trails/attractions/abrud/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/abrud/fullSize/1.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Seliște - 'Țapului' Lake",
+          "textContent": "From Abrud go uphill until you get above the town on the 'Baisului' hill and the continue on the unpaved road along the 'Seliste' village and 'Țapului' lake. Have a break because Rosia Montana is pretty close from here.",
+          "images": [
+            {
+              "text": "<b>The road along 'Seliște' village</b> - ",
+              "thumbnailUrl": "img/trails/attractions/selisteRoad/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/selisteRoad/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>'Țapului' lake</b> - ",
+              "thumbnailUrl": "img/trails/attractions/selisteRoad/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/selisteRoad/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.,",
+          "images": [
+            {
+              "text": "Towards Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/8.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/8.jpg"
+            },
+            {
+              "text": "At Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/7.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/7.jpg"
+            },
+            {
+              "text": "Between Sulei Peak and Tăul Mare",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/geamana"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

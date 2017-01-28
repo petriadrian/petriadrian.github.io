@@ -1,0 +1,210 @@
+{
+  "presentation": {
+    "title": "Cârnic",
+    "headline": "Traseu pe muntele de aur - Cârnic",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <b>~8km</b>",
+    "description": "Urcăm pe la tăurile Brazi și Anghel până pe muntele Cârnic la Sfinx și la Piatra Corbului iar apoi coborâm prin Cariera Cetate.",
+    "fullWidthImg": "img/trails/carnic/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/carnic/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/trails/carnic",
+    "textOnMouseOver": "vezi traseul...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Traseu pe muntele de aur - Cârnic",
+    "description": "Urcăm pe la Tăul Brazi și Anghel până pe muntele Cârnic la Sfinx și la Piatra Corbului iar apoi coborâm prin Cariera Cetate. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "displayOnShareImg": "img/trails/carnic/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Odată ajunși în curtea Casei Petri o să observați priveliștea spre masivul Cârnic, un munte ce adapostește multe tone de aur dar si galerii romane unice în lume. Pe vârful lui o să observați o stâncă în formă de cal, cu o cruce desupra, numită Sfinxul sau 'Căluțul', care reprezintă obiectivul acestui traseu. Pornim spre Tăul Brazi și Platoul Cârnic, iar apoi urcăm prin pădurea de conifere până pe vârful masivului la Piatra Corbului și la Sfinx și coborâm pe la Piatra Despicată și prin Cariera Cetate. Traseul se face pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-download'></i> descarcă <b>datele GPS</b>",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> vezi <b>diferența de nivel</b>",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk|place_id:ChIJLeeOVuXMTkcRu5naWkNpv9k|place_id:ChIJAavGOvvMTkcRq189TY8w7Us|place_id:ChIJQ-Yfu_zMTkcRytPpBV-ZsFM|place_id:ChIJIZFsev3MTkcRgPGXF8Plk4Y",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~8km"
+              },
+              {
+                "textOnMouseOver": "durata pe jos",
+                "text": "<i class='fa fa-blind'></i> ~3h"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~2h"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Atracții",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "sicilianStreet"
+            },
+            {
+              "id": "braziLake"
+            },
+            {
+              "id": "carnicPlateau"
+            },
+            {
+              "id": "carnicSfinx"
+            },
+            {
+              "id": "ravenStone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Spre cariera de aur Cetate",
+              "thumbnailUrl": "img/trails/attractions/carnic/cetatePit/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/cetatePit/fullSize/1.jpg"
+            },
+            {
+              "text": "Piatra Despicată - este o arie naturală protejată, unică din punct de vedere geologic pentru că tipul de rocă din care este formată nu mai este întâlnit în zonă. Legenda locală spune că un căpcăun ar fi scăpat-o în timp ce o purta în ghiare peste Munții Apuseni.",
+              "thumbnailUrl": "img/trails/attractions/carnic/piatraDespicata/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/piatraDespicata/fullSize/1.jpg"
+            },
+            {
+              "text": "Galeriile romane Cârnic",
+              "thumbnailUrl": "img/trails/attractions/carnic/galleries/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/galleries/fullSize/1.jpg"
+            },
+            {
+              "text": "Galeriile aurifere făcute cu apă și foc - Cârnic",
+              "thumbnailUrl": "img/trails/attractions/carnic/galleries/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/galleries/fullSize/2.jpg"
+            },
+            {
+              "text": "Spre Sfinx.",
+              "thumbnailUrl": "img/trails/attractions/carnic/sphinx/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/sphinx/fullSize/3.jpg"
+            },
+            {
+              "text": "Piatra Corbului - vedere de jos.",
+              "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/piatraCorbului.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/piatraCorbului.jpg"
+            },
+            {
+              "text": "Priveliștea de pe Piatra Corbului - apus de iarnă.",
+              "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/winter.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/winter.jpg"
+            },
+            {
+              "text": "Platoul Cârnic",
+              "thumbnailUrl": "img/trails/attractions/carnic/carnicPlateau/thumbnail/5.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/carnicPlateau/fullSize/5.jpg"
+            },
+            {
+              "text": "Cel mai bun loc de a urmări apusul - Platoul Cârnic",
+              "thumbnailUrl": "img/trails/attractions/carnic/carnicPlateau/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/carnicPlateau/fullSize/4.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/trails/romanGalleries"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+          content="An vintage accommodation up in the Apuseni mountains. See hiking and biking routes from this area and plan your next trip"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/img/common/favicon.ico"/>
+    <title>Casa Petri Rosia Montana</title>
+    <!-- CSS -->
+    <link type="text/css" rel="stylesheet"
+          href="http://fonts.googleapis.com/css?family=Merienda|Open+Sans&subset=latin,latin-ext">
+    <link type="text/css" rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="/casaPetri/css/casaPetri.css">
+    <!-- JAVASCRIPT -->
+    <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.js"></script>
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/casaPetri/js/casaPetri.js"></script>
+    <!-- PHOTO ALBUM -->
+    <link href="/casaPetri/css/photoAlbumSlider/jquery.fancybox.css" rel="stylesheet">
+    <script type="text/javascript" src="/casaPetri/js/photoAlbumSlider/jquery.fancybox.js"></script>
+    <script type="text/javascript" src="/casaPetri/js/photoAlbumSlider/jquery.mousewheel-3.0.6.pack.js"></script>
+</head>
+
+<body onload="scrollToAnchor()">
+
+<!-- HEADER -->
+<header id="headerLayout">
+    <script>
+        htmlContentLoader('common/headerAndFooter/headerLayout.html', 'headerLayout');
+    </script>
+</header>
+
+<div class="container">
+
+    <!-- INTRO -->
+    <section id="pageHeaderAdvertise">
+        <script>
+            dynamicContentLoader('_pageIntro.tmpl.htm', 'activities/trails/historicCenter/pageStructure.json', 'pageHeaderAdvertise', 'pageIntroTemplateId');
+        </script>
+    </section>
+
+    <!-- FIRST SECTION -->
+    <section id="firstSection">
+        <div id="firstSectionHeadline">
+            <script>
+                dynamicContentLoader('_pageSectionTitles.htm', 'activities/trails/historicCenter/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');
+            </script>
+        </div>
+        <div id="firstSectionContent">
+            <script>
+                dynamicContentLoader('_articlesWithImages.tmpl.htm', 'activities/trails/historicCenter/trailDetails.json', 'firstSectionContent', 'articleWithTextImgIframeTemplateId');
+            </script>
+        </div>
+    </section>
+
+    <!-- SECOND SECTION -->
+    <section>
+        <div id="secondSectionHeadline">
+            <script>
+                dynamicContentLoader('_pageSectionTitles.htm', 'activities/trails/historicCenter/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');
+            </script>
+        </div>
+        <div id="secondSectionContent">
+            <script>
+                loadContentWithSpecificIds('_articlesWithImages.tmpl.htm', 'activities/trails/attractions.json', 'activities/trails/historicCenter/trailAttractions.json', 'secondSectionContent', 'articleWithTextImgIframeTemplateId');
+            </script>
+        </div>
+    </section>
+
+    <!-- SEE ALSO -->
+    <section id="seeAlsoLayout">
+        <div id="seeAlsoSectionHeadline">
+            <script>
+                dynamicContentLoader('_pageSectionTitles.htm', 'activities/trails/historicCenter/pageStructure.json', 'seeAlsoSectionHeadline', 'seeAlsoSectionTitleTemplateId');
+            </script>
+        </div>
+        <div id="seeAlsoSectionContent">
+            <script>
+                loadContentWithSpecificIds('_pageAdvertiseBox.tmpl.htm', 'common/pagesAdvertiseBox.json', 'activities/trails/historicCenter/seeAlsoBoxes.json', 'seeAlsoSectionContent', 'pageAdvertiserBoxTemplateId');
+            </script>
+        </div>
+    </section>
+
+</div>
+
+<!-- FOOTER -->
+<footer id="footerLayout">
+    <script>
+        htmlContentLoader('common/headerAndFooter/footerLayout.html', 'footerLayout');
+    </script>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,167 @@
+{
+  "presentation": {
+    "title": "Zlatna Pool",
+    "headline": "Zlatna pool. Bike trail",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <i class='fa fa-car'></i> <b>~39km</b>",
+    "description": "A trail for touring bikes on the 'Dealul Mare' massif, to the Zlatna Pool. You'll climb and will be all sweaty, but the destination is invigorating.",
+    "fullWidthImg": "img/trails/zlatnaPool/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/zlatnaPool/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/trails/zlatnaPool",
+    "textOnMouseOver": "see the trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Zlatna Pool. Bike trails Rosia Montana",
+    "description": "A trail for touring bikes on the 'Dealul Mare' massif, to the Zlatna Pool. You'll climb and will be all sweaty, but the destination is invigorating. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "displayOnShareImg": "img/trails/zlatnaPool/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "The trail to 'Zlatna' - an old mining town where they are trying to encourage tourism. The good thing is that they succeed to do something. The proof is this luxurious public pool and the pedestrian alley next to it. But, to reach the 'revitalizing' pool, you'll have to pedal up on the 'Dealul Mare' hill, through beech and coniferous forests. The more exhausted you are when you reach Zlatna, the better the bath will be :) . You can visit also here what was left from the mining industrial plant. The trail is on asphalted roads and it can be made by car/moto or touring bikes. <b>The below indications represents one way length and time.</b>",
+          "seeAlso": [
+            {
+              "text": " More details about the swimming pool and others touristic objectives in Zlatna can be found here...",
+              "textOnMouseOver": "Click here...",
+              "link": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJ_QzUS1O4TkcR3bMlNuiXfbU&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJjSih12DITkcRIS4ADNOMR1s",
+            "list": [
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~39km"
+              },
+              {
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~3h"
+              },
+              {
+                "textOnMouseOver": "duration by car",
+                "text": "<i class='fa fa-car'></i> ~1h"
+              },
+              {
+                "textOnMouseOver": "difficulty",
+                "text": "<i class='fa fa-line-chart'></i> medium"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Dealul Mare",
+          "textContent": "The road along 'Dealul Mare' is wonderful, and it worth climbing it up. It's nice to pedal through the cold shadow of the beech forest, where you will find many resting points.",
+          "images": [
+            {
+              "text": "<b>The road along the forest</b>",
+              "thumbnailUrl": "img/trails/attractions/bigHillRoad/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/bigHillRoad/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>The 'Izvorul Ampoiului' Castle</b> - once you will meet this Castle you're almost there...",
+              "thumbnailUrl": "img/trails/attractions/bigHillRoad/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/bigHillRoad/fullSize/2.jpg"
+            }
+          ]
+        },
+        {
+          "text": "<b>The 'Zlatna' pool",
+          "textContent": "'Zlatna Sport Center has top facilities. It has outdoor swimming pools for adults and children, with heated water, a SPA resort, tennis court and football fields. The entrance fees is cheap (~6 euros).",
+          "seeAlso": [
+            {
+              "text": "More details about the swimming pool and others touristic attractions from Zlatna can be found here.",
+              "textOnMouseOver": "Click here...",
+              "link": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
+              "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "<b>The swimming pool</b>",
+              "thumbnailUrl": "img/trails/attractions/zlatnaPool/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/zlatnaPool/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>The swimming pool</b>",
+              "thumbnailUrl": "img/trails/attractions/zlatnaPool/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/zlatnaPool/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/daffodilMeadow"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

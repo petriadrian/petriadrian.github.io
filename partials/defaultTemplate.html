@@ -1,0 +1,24 @@
+<div class="container">
+    <!-- PAGE HEADLINE-->
+    <div ng-if="pageContent.config.showPageHeadline"
+         ng-include="'templates/_pageHeadline.tmpl.htm'"></div>
+    <!-- SECTIONS-->
+    <section ng-repeat="section in pageContent.sections" class="row">
+        <!-- TITLE -->
+        <div ng-if="section.type == 'title'"
+             ng-include="'templates/_sectionTitle.tmpl.htm'"></div>
+        <!-- PRESENTATION OF OTHER PAGES -->
+        <div ng-if="section.type == 'linkToOtherPages'"
+             ng-include="'templates/aadvertise/_presentationManagement.tmpl.htm'"></div>
+        <!--ARTICLES-->
+        <div ng-if="section.type == 'articles'"
+             ng-include="'templates/articles/_articlesManagement.tmpl.htm'"></div>
+        <!--FORM-->
+        <div ng-if="section.type == 'form'">
+            <section-form data-section="section"></section-form>
+        </div>
+        <!--SOCIAL-->
+        <div ng-if="section.type == 'socialButtons'"
+             ng-include="'templates/_social.tmpl.htm'"></div>
+    </section>
+</div>

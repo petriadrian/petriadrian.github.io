@@ -1,0 +1,14 @@
+{
+  "presentation": {
+    "title": "Restoration",
+    "headline": "",
+    "description": "<b>| July - Sept |</b> Get involved and discover traditional craftsmanship in the ARA camps or donate for heritage building restoration.",
+    "fullWidthImg": "img/events/monumentsRestorations/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/events/monumentsRestorations/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "http://www.adoptaocasa.ro/en/despre-program",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": true
+  }
+}

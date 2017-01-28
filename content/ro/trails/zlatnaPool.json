@@ -1,0 +1,167 @@
+{
+  "presentation": {
+    "title": "Ștrandul Zlatna",
+    "headline": "Ștrandul Zlatna. Traseu bicicletă",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <i class='fa fa-car'></i> <b>~39km</b>",
+    "description": "Un traseu pentru biciclete de asfalt pe culmea 'Dealul Mare', spre ștrandul Zlatna. O să transpiri la urcarea pe serpentine, dar destinația e răcoritoare.",
+    "fullWidthImg": "img/trails/zlatnaPool/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/zlatnaPool/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/trails/zlatnaPool",
+    "textOnMouseOver": "vezi traseul...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Ștrandul Zlatna. Trasee de bicicletă Roșia Montană",
+    "description": "Un traseu pentru biciclete de asfalt pe culmea 'Dealul Mare', spre ștrandul Zlatna. O să transpiri la urcarea pe serpentine, dar destinația e răcoritoare. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "displayOnShareImg": "img/trails/zlatnaPool/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Ce e cel mai minuant la acest traseu e că o luăm spre un vechi oraș minier 'Zlatna' în care se încercă dezvoltarea turismului. Ce e bine e că au și reușit să facă ceva. Dovezile sunt acest ștrand 'de lux' dotat cu absolut tot ce e necesar și aleea pietonală de lângă el. Dar stați că nu e așa simplu... până acolo trebuie să pedalăm drumul cu serpentine de pe 'Dealul Mare' printre păduri de fagi și conifere. Cu cât mai epuizat ajungi, cu atât va fi baia mai bună. Traseul este pe drum asfaltat și se poate face cu mașina/motocicleta sau cu biciclete de asfalt. <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b>",
+          "seeAlso": [
+            {
+              "text": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici...",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJ_QzUS1O4TkcR3bMlNuiXfbU&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJjSih12DITkcRIS4ADNOMR1s",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~39km"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~3h"
+              },
+              {
+                "textOnMouseOver": "durata cu mașina",
+                "text": "<i class='fa fa-car'></i> ~1h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "<i class='fa fa-line-chart'></i> mediu"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Atracții",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Dealul Mare",
+          "textContent": "Drumul de pe 'Dealul Mare' este unul deosebit de spectaculos. E adevăvărat că o să ai de urcat pe sepentine dar chiar de e vară va fi destul de răcoare pentru că drumul trece prin păduri de fagi și cam la tot pasul ai să întâlnești câte un izvor cu apă rece sau câte un popas cu băncuțe.",
+          "images": [
+            {
+              "text": "<b>Drumul prin pădure</b>",
+              "thumbnailUrl": "img/trails/attractions/bigHillRoad/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/bigHillRoad/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>Castelul din Izvorul Ampoiului</b> - odată ce întâlnești acest castel vei fi destul de aproape de destinație.",
+              "thumbnailUrl": "img/trails/attractions/bigHillRoad/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/bigHillRoad/fullSize/2.jpg"
+            }
+          ]
+        },
+        {
+          "text": "<b>Ștrandul Zlatna",
+          "textContent": "'Zlatna Sport Center este un complex sportiv cu dotări la nivel internațional. Aici găsiți bazine înot (ștrand adulți și copii) în aer liber cu apă încalzita , Centrul SPA, teren tenis zgură și teren fotbal.' Prețurile de intrare sunt mai mult decât acceptabile.",
+          "seeAlso": [
+            {
+              "text": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici...",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
+              "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "<b>Bazinul de înot Zlatna</b>",
+              "thumbnailUrl": "img/trails/attractions/zlatnaPool/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/zlatnaPool/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>Bazinul de înot Zlatna</b> - din câte știm credem că e deschis și noaptea dar aveți grijă pe traseul de întoarcere",
+              "thumbnailUrl": "img/trails/attractions/zlatnaPool/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/zlatnaPool/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/trails/daffodilMeadow"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

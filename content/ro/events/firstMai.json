@@ -1,0 +1,13 @@
+{
+  "presentation": {
+    "title": "1 Mai",
+    "description": "<b>| Mai |</b> Sunetul de chitară, focul de tabără și traseele ghidate sunt deja o tradiție în minivacanța de 1 Mai",
+    "fullWidthImg": "img/events/firstMai/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/events/firstMai/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "https://vizitatirosiamontana.wordpress.com",
+    "textOnMouseOver": "Vezi mai multe detalii...",
+    "openInNewTab": true
+  }
+}

@@ -1,0 +1,16 @@
+<script id="sendFeedbackTemplateId" type="text/x-jQuery-tmpl">
+        <form role="form" class="sendFeedback" onsubmit="">
+            <div class="form-group">
+                <textarea class="form-control" name="feedback" required placeholder="${reviewPlaceholder}"></textarea>
+            </div>
+            {{each reviewUserDataBoxes}}
+                <div class="form-group">
+                    <input type="text" name="${boxPlaceholder}" ${boxRequired} class="form-control" placeholder="${boxPlaceholder}">
+                </div>
+            {{/each}}
+            <button type="submit" class="btn btn-primary">${sendButton}</button>
+        </form>
+
+
+
+</script>

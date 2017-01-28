@@ -1,0 +1,192 @@
+{
+  "presentation": {
+    "title": "Detunata",
+    "headline": "The basalt columns - Detunata trail",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~21km</b>",
+    "description": "A huge massif, like a wall, made of rectangular basalt columns. Also visit 'Tăul Mare' Lake and some specific mountain villages.",
+    "fullWidthImg": "img/trails/detunata/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/detunata/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/trails/detunata",
+    "textOnMouseOver": "see the trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Detunata. Hiking or bike trails in Rosia Montana",
+    "description": "A huge massif, like a wall, made of rectangular basalt columns. Also visit 'Tăul Mare' Lake and some traditional villages. See the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping. Apuseni Mountains, Transylvania, Romania",
+    "displayOnShareImg": "img/trails/detunata/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "The trail starts from the Historic Center, from Casa Petri and heads to 'Tăul Mare' lake where you can freshen up a bit with the cold mountain water. From here continue towards the villages 'Muntari' and 'Poiana' through a typical landscape of 'Moților' Land, dotted with haystacks and pastures and where you can see herds of sheep or cows grazing. The walk continues until you come across a mountain ridge formed of some tall columns of basalt as in the picture above. Looks a bit scary ... isn’t it? A path will take you up on top of the ridge and the fear will disappear when you'll see the view from here. On return, right before arriving in Rosia Montana have a break on the Șulei Peak, the perfect spot to watch the sunset over the village. The trail is fully marked by the Salvamont team, is on unpaved roads and is perfect for hiking or mountain bikes. The last 500 meters (the climbing on Detunata peak) is on a narrow path that is not accessible for bicycles. <b>The below indications represents the length and time for two way.</b>",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJv_3GPwvLTkcRDy5ru-eVXWI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJ6e_SmJXMTkcRoxSvt__dGSs|place_id:ChIJ2dfWrJnMTkcR1o8Ofr5fmo4|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs",
+            "list": [
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~21km"
+              },
+              {
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-blind'></i> ~6h"
+              },
+              {
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "bigLake"
+            },
+            {
+              "id": "muntariPoiana"
+            },
+            {
+              "id": "detunata"
+            },
+            {
+              "id": "letySulei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.",
+          "images": [
+            {
+              "text": "Towards Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/8.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/8.jpg"
+            },
+            {
+              "text": "At Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/5.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/5.jpg"
+            },
+            {
+              "text": "Between Sulei Peak and Tăul Mare",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/4.jpg"
+            },
+            {
+              "text": "The road to Poiana village.",
+              "thumbnailUrl": "img/trails/attractions/muntariPoiana/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/muntariPoiana/fullSize/3.jpg"
+            },
+            {
+              "text": "The trail sign meet on the road.",
+              "thumbnailUrl": "img/trails/attractions/muntariPoiana/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/muntariPoiana/fullSize/4.jpg"
+            },
+            {
+              "text": "The view to Corna Valley.",
+              "thumbnailUrl": "img/trails/attractions/muntariPoiana/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/muntariPoiana/fullSize/6.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/corna"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

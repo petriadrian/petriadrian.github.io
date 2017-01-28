@@ -1,0 +1,239 @@
+{
+  "presentation": {
+    "title": "Geamăna",
+    "headline": "Cariera de Cupru și satul scufundat - traseul Geamăna",
+    "descriptionTitle": "<i class='fa fa-blind'></i><b>~18km</b> | <i class='fa fa-bicycle'></i> <i class='fa fa-car'></i> <b>~57km</b>",
+    "description": "Care este prețul metalelor? Vezi cariera de suprafață Rosia Poinei și satul scufundat în iazul de decantare Geamăna.",
+    "fullWidthImg": "img/trails/geamana/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/geamana/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/trails/geamana",
+    "textOnMouseOver": "vezi traseul...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Traseul spre Cariera de Cupru și Geamăna",
+    "description": "Care este prețul metalelor? Vizitează cariera de suprafață Rosia Poinei și satul scufundat în steril Geamana. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "displayOnShareImg": "img/trails/geamana/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Cum arată o exploatare minieră de mare anvergură și care sunt efectele ei? Să pornim la drum... Din Centrul Istoric al Roșiei Montane urcăm spre Tăul Mare până ajungem la cariera de cupru. O zonă deșertică, un munte ras, defrișări și utilaje abandonate - aici e Cariera 'Roșia Poieni'. Pornim apoi prin satele Muntari, Poiana și Vința până la iazul de decantare 'Geamăna'. De aici o luăm la vale pe lângă barajul lacului și ajungem la Mănăstirea Lupșa. Alături găsiți și un <b>restaurant</b> destul de bun. De la mănăstire până la Casa Petri (prin Bistra și Carpeniș) drumul este asfaltat. Drumul de la Cariera de Cupru la Geamăna e destul de lung (puteți să vă întoarceți la Casa Petri și să ajungeți la Geamăna cu mașina pe un drum asfaltat).",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-blind'></i> vezi <b>trseul de drumeție</b> spre Geamăna <b>~18km</b> dus-întors...",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.strava.com/routes/7382241",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-car'></i> vezi <b>traseul de mașină</b> spre Geamăna <b>~59km</b> dus-întors...",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.google.ro/maps/dir/Casa+Petri,+DC146,+Ro%C8%99ia+Montan%C4%83/M%C4%83n%C4%83stirea+Lup%C8%99a,+M%C4%83n%C4%83stire,+Jude%C8%9Bul+Alba/Geam%C4%83na/@46.3434513,23.066633,12.11z/data=!4m20!4m19!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x47493248b8024575:0x28aa0ec6176c4a5a!2m2!1d23.1732673!2d46.3752202!1m5!1m1!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!2m2!1d23.2042788!2d46.3299984!3e0?hl=ro",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-compress'></i> vezi varianta acestui traseu cu <b>Detunata</b> ~67km dus-întors...",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.google.com/maps/dir/Casa+Petri/T%C4%83ul+Mare/Cariera+Ro%C5%9Fia+Poieni,+Drum+exploatare/Muntari,+Romania/Detunata+Goal%C4%83,+Rom%C3%A2nia/Vin%C8%9Ba,+Romania/Geam%C4%83na,+Romania/M%C4%83n%C4%83stirea+Lup%C8%99a,+DN75,+Romania/Bistra,+Romania/Casa+Petri/@46.3292853,23.0747018,12z/data=!3m1!4b1!4m62!4m61!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x474eccdb6ec7fe37:0xe4b1c3880d788b47!2m2!1d23.1445582!2d46.3111615!1m5!1m1!1s0x474eccb3ec5c7175:0xdd01d090859427e3!2m2!1d23.1743158!2d46.311439!1m5!1m1!1s0x474ecc9598d2efe9:0x2b19ddffb7af14a3!2m2!1d23.1583425!2d46.301267!1m5!1m1!1s0x474ecb0b3fc6fdbf:0x625d95e7bb6b2e0f!2m2!1d23.1967854!2d46.2772531!1m5!1m1!1s0x474934cb79d95a47:0x7a1012da63e3e0be!2m2!1d23.2291875!2d46.308224!1m5!1m1!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!2m2!1d23.2042788!2d46.3299984!1m5!1m1!1s0x47493248b8024575:0x28aa0ec6176c4a5a!2m2!1d23.1743418!2d46.3760986!1m5!1m1!1s0x47492d9b18e3ecd1:0x355b50d54b86ba19!2m2!1d23.1021078!2d46.3787007!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!3e2?hl=en-US",
+              "openInNewTab": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b><i class='fa fa-bicycle'></i></b> vezi <b>traseul de bicicletă</b> spre Geamăna pe harta de mai jos.",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-download'></i> descarcă <b>datele GPS</b> ale acestuia",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.bikemap.net/en/route/3695477-rosia-montana-geamana/#/z12/46.31705,23.17531/terrain",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> vezi <b>diferența de nivel</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.bikemap.net/en/route/3695477-rosia-montana-geamana/#/z12/46.31705,23.17531/terrain",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJdXFc7LPMTkcR4yeUhZDQAd0|place_id:ChIJ6e_SmJXMTkcRoxSvt__dGSs|place_id:ChIJ2dfWrJnMTkcR1o8Ofr5fmo4|place_id:ChIJR1rZecs0SUcRvuDjY9oSEHo|place_id:ChIJf4f-WF4zSUcRil3SxT4-Oog|place_id:ChIJdUUCuEgySUcRWkpsF8YOqig|place_id:ChIJ0ezjGJstSUcRGbqGS9VQWzU|place_id:ChIJOWAXOJfSTkcRsgZcW1MmHTE",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~57km"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~8h"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Atracții",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "bigLake"
+            },
+            {
+              "id": "copperPit"
+            },
+            {
+              "id": "muntariPoiana"
+            },
+            {
+              "id": "geamana"
+            },
+            {
+              "id": "lupsa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Cariera de Cupru - traseu ghidat cu un grup din Germania.",
+              "thumbnailUrl": "img/trails/attractions/copperPit/thumbnail/rosiaPoieniTourists.jpg",
+              "fullSizeUrl": "img/trails/attractions/copperPit/fullSize/rosiaPoieniTourists.jpg"
+            },
+            {
+              "text": "Cariera de Cupru - traseu ghidat cu un grup din Taiwan si Mumbai.",
+              "thumbnailUrl": "img/trails/attractions/copperPit/thumbnail/rosiaPoieniTourists2.jpg",
+              "fullSizeUrl": "img/trails/attractions/copperPit/fullSize/rosiaPoieniTourists2.jpg"
+            },
+            {
+              "text": "Geamăna văzută din apropierea satului Muntari.",
+              "thumbnailUrl": "img/trails/attractions/lakes/geamana/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/6.jpg"
+            },
+            {
+              "text": "Drumul spre satul Poiana",
+              "thumbnailUrl": "img/trails/attractions/muntariPoiana/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/muntariPoiana/fullSize/3.jpg"
+            },
+            {
+              "text": "Dacă a plouat e posibil să întâlniți porțiuni cu noroi.",
+              "thumbnailUrl": "img/trails/attractions/muntariPoiana/thumbnail/5.jpg",
+              "fullSizeUrl": "img/trails/attractions/muntariPoiana/fullSize/5.jpg"
+            },
+            {
+              "text": "Pe drumul spre Geamăna.",
+              "thumbnailUrl": "img/trails/attractions/lakes/geamana/thumbnail/5.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/5.jpg"
+            },
+            {
+              "text": "Geamăna",
+              "thumbnailUrl": "img/trails/attractions/lakes/geamana/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/4.jpg"
+            },
+            {
+              "text": "Geamăna - traseu ghidat pe bicilete cu un grup din Cluj",
+              "thumbnailUrl": "img/trails/attractions/lakes/geamana/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/3.jpg"
+            },
+            {
+              "text": "Vechea mănăstire Lupșa - 1421",
+              "thumbnailUrl": "img/trails/attractions/churches/lupsa/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/churches/lupsa/fullSize/3.jpg"
+            },
+            {
+              "text": "Fortificația din jurul mănăstirii Lupșa",
+              "thumbnailUrl": "img/trails/attractions/churches/lupsa/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/churches/lupsa/fullSize/4.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/trails/tarina"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/trails/summary"
+        },
+        {
+          "page": "ro/packages/summary"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<script id="pageAdvertiserBoxTemplateId" type="text/x-jQuery-tmpl">
+    <div class="col-xs-8 col-sm-6 col-md-4 col-lg-3 carousel slide displayOnCenter advertiseBox defaultClickStyle" data-ride="carousel" data-interval="${carouselTimeInterval}" onclick="${destinationPageLink}">
+
+        <div class="carousel-inner">
+            {{each(i, slide) carouselImages}}
+                <div class="item ${(i==0)?"active":""}" title="${title}">
+                    <img src="${slide.carouseldisplayOnShareImg}" alt="${title}">
+                </div>
+            {{/each}}
+        </div>
+        <div class="caption">
+            <h3>${title}</h3>
+            <p>{{html details}}</p>
+        </div>
+    </div>
+
+
+
+</script>

@@ -1,0 +1,219 @@
+{
+  "presentation": {
+    "title": "Historic Center",
+    "headline": "The Historic Center trail of Rosia Montana",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <b>~5km</b>",
+    "description": "Churches, heritage buildings and village paths. Discover the Historic Center of the oldest certified settlement from Romania - Rosia Montana.",
+    "fullWidthImg": "img/trails/historicCenter/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/historicCenter/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/trails/historicCenter",
+    "textOnMouseOver": "see the trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "The Historic Center trail of Rosia Montana",
+    "description": "Churches, heritage buildings and village paths. Discover the Historic Center of the oldest certified settlement from Romania - Rosia Montana. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "displayOnShareImg": "img/trails/historicCenter/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "An easy trail through the Historic Center of the oldest documented settlement from Romania - Rosia Montana(131 AD) that has many heritage buildings. Some of them were abandoned or bought by the canadian mining company, but they had various roles in the community life(the goldsmith houses, workshops, old schools and churches), that will make you fell like traveling back in time. Start the trail from Casa Petri, which is also a heritage building and take it slow on the village streets to reach each objective. The trail is on paved roads and we recommend to make it by foot.",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJe_e0kuDMTkcR-fKFm93NuXI|place_id:ChIJOfC97ODMTkcRecLGM1rVOA0|place_id:ChIJH-Ab5-DMTkcRbU8_Bz1R63o|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJr6tpbuDMTkcR27lOgSAucgs|place_id:ChIJOd6ybODMTkcRp27SJIXkarw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw",
+            "list": [
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~5km"
+              },
+              {
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-blind'></i> ~3h"
+              },
+              {
+                "textOnMouseOver": "difficulty",
+                "text": "<i class='fa fa-line-chart'></i> easy"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "romanCatholicChurch"
+            },
+            {
+              "id": "sicilianStreet"
+            },
+            {
+              "id": "unitarianChurch"
+            },
+            {
+              "id": "carnicPlateau"
+            },
+            {
+              "id": "szekeyHouse"
+            },
+            {
+              "id": "berg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.",
+          "images": [
+            {
+              "text": "The tower of the Romano Catholic church.",
+              "thumbnailUrl": "img/trails/attractions/churches/romanCatholicChurch/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/churches/romanCatholicChurch/fullSize/3.jpg"
+            },
+            {
+              "text": "'Sicilian' Street",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/3.jpg"
+            },
+            {
+              "text": "Unitarian Church",
+              "thumbnailUrl": "img/trails/attractions/churches/unitarianChurch/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/churches/unitarianChurch/fullSize/3.jpg"
+            },
+            {
+              "text": "Unitarian Church inside.",
+              "thumbnailUrl": "img/trails/attractions/churches/unitarianChurch/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/churches/unitarianChurch/fullSize/4.jpg"
+            },
+            {
+              "text": "The Old Casino building - ornaments.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/6.jpg"
+            },
+            {
+              "text": "The goldsmith houses - heritage buildings.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/5.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/5.jpg"
+            },
+            {
+              "text": "The old center churches.",
+              "thumbnailUrl": "img/trails/attractions/churches/unitarianChurch/thumbnail/biserici.jpg",
+              "fullSizeUrl": "img/trails/attractions/churches/unitarianChurch/fullSize/biserici.jpg"
+            },
+            {
+              "text": "The mining sign - on the facade of some heritage buildings from the historical center.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/8.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/8.jpg"
+            },
+            {
+              "text": "The historic center churches.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/4.jpg"
+            },
+            {
+              "text": "The heritage buildings ornaments.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/10.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/10.jpg"
+            },
+            {
+              "text": "Rosia Montana",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/7.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/7.jpg"
+            },
+            {
+              "text": "The Calvinist and Unitarian church.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/9.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/9.jpg"
+            },
+            {
+              "text": "Platoul Cârnic",
+              "thumbnailUrl": "img/trails/attractions/carnic/carnicPlateau/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/carnicPlateau/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/carnic"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/trails/summary"
+        },
+        {
+          "page": "en/packages/summary"
+        }
+      ]
+    }
+  ]
+}

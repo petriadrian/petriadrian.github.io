@@ -1,0 +1,32 @@
+[
+  {
+    "id": "details",
+    "hideAreaUnderButton": "Book guided tours + <i class='fa fa-bicycle'></i> + <i class='fa fa-bed'></i> &nbsp&nbsp<i class='fa fa-caret-down'></i>",
+    "textContent": "With each group we discuss about the trails, but to discover more about the area, the habits, the history or the mining industry of Rosia Montana we recommend to book a guide.",
+    "seeAlso": [
+      {
+        "text": "The bookings for accommodation, camping, bikes or guided tours (by bike or walk) can be made from here...",
+        "textOnMouseOver": "Click here...",
+        "link": "en/accommodation#bookings",
+        "openInNewTab": false
+      }
+    ],
+    "images": [
+      {
+        "text": "<b>Guided tours</b> - discover the area with a guide who can tell you more about the attractions you meet on the trail.",
+        "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/1.jpg",
+        "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/1.jpg"
+      },
+      {
+        "text": "<b>Book a bike or bike tours</b> - mtb or asphalt.",
+        "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/2.jpg",
+        "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/2.jpg"
+      },
+      {
+        "text": "<b>Chat with the locals at Casa Petri</b> - locals who worked in the mining industry or who chose to stay here and fight against the gold project in 2014.",
+        "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/3.jpg",
+        "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/3.jpg"
+      }
+    ]
+  }
+]

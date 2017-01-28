@@ -1,0 +1,55 @@
+<header ng-controller="HeaderCtrl">
+
+    <!-- top bar -->
+    <div class="container hidden-sm hidden-xs headerTopBar">
+        <div class="row">
+            <div ng-include="'partials/header/subParts/logoBigColor.html'"></div>
+            <ul class="nav navbar-nav pull-left">
+                <li><a href="{{headerContent.topText.url.link}}"
+                       title="{{headerContent.topText.url.textOnMouseOver}}"
+                       data-toggle="collapse"
+                       target="_self"
+                       data-target=".navbar-collapse.in"
+                       ng-bind-html="headerContent.topText.text | trustHtml"></a>
+                </li>
+            </ul>
+            <div ng-include="'partials/header/subParts/languageBar.html'"></div>
+            <div ng-include="'partials/header/subParts/iconsBar.html'"></div>
+        </div>
+    </div>
+
+    <!-- bottom bar -->
+    <nav class="navbar navbar-default headerBottomBar" role="navigation">
+        <div class="container">
+            <div class="row">
+                <div class="navbar-header">
+                    <div ng-include="'partials/header/subParts/toggleNavigationButton.html'"></div>
+                    <div class="hidden-lg hidden-md" ng-include="'partials/header/subParts/logoSmallWhite.html'"></div>
+                </div>
+                <div class="collapse navbar-collapse">
+                    <div ng-include="'partials/header/subParts/regularButtonsBar.html'"></div>
+                    <div class="hidden-lg hidden-md" ng-include="'partials/header/subParts/languageBar.html'"></div>
+                    <div ng-include="'partials/header/subParts/importantButtonsBar.html'"></div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- show on scroll bar-->
+    <nav id="stickHeaderBarOnTheTop" style="display: none" class="navbar navbar-default headerScrollBar" role="navigation">
+        <div class="container">
+            <div class="row">
+                <div class="navbar-header">
+                    <div ng-include="'partials/header/subParts/toggleNavigationButton.html'"></div>
+                    <div ng-include="'partials/header/subParts/logoSmallWhite.html'"></div>
+                </div>
+                <div class="collapse navbar-collapse">
+                    <div ng-include="'partials/header/subParts/regularButtonsBar.html'"></div>
+                    <div ng-include="'partials/header/subParts/languageBar.html'"></div>
+                    <div ng-include="'partials/header/subParts/importantButtonsBar.html'"></div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+</header>

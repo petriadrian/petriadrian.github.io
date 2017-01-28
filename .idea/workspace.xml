@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="006279bb-7d29-445a-9c9c-36749ab5906d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="5b8bd276-a3a9-498c-aecc-c7109a0946e8" name="dfsd" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/camping/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/camping/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/camping/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/camping/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/outside/fullSize/childrenPark.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/outside/fullSize/garden.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/outside/fullSize/gardenMovie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/outside/fullSize/hammock.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/outside/fullSize/house.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/outside/fullSize/sleighing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/outside/thumbnail/childrenPark.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/outside/thumbnail/garden.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/outside/thumbnail/gardenMovie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/outside/thumbnail/hammock.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/outside/thumbnail/house.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/outside/thumbnail/sleighing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room1/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room1/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room1/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room1/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room1/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room1/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room2/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room2/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room2/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room2/fullSize/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room2/fullSize/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room2/fullSize/kitchen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room2/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room2/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room2/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room2/thumbnail/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room2/thumbnail/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room2/thumbnail/kitchen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room3/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room3/fullSize/bathroom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room3/fullSize/booksPlaces.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room3/fullSize/coffeeTable.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room3/fullSize/doorBook.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room3/fullSize/hallway.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room3/fullSize/room.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room3/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room3/thumbnail/bathroom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room3/thumbnail/booksPlaces.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room3/thumbnail/coffeeTable.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room3/thumbnail/doorBook.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room3/thumbnail/hallway.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/article/rooms/room3/thumbnail/room.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/accommodation/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/common/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/common/guidesAndBikes/article/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/common/guidesAndBikes/article/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/common/guidesAndBikes/article/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/common/guidesAndBikes/article/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/common/guidesAndBikes/article/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/common/guidesAndBikes/article/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/common/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/common/logo_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/common/logo_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/common/article/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/common/article/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/common/article/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/common/article/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/deprecated/festival/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/deprecated/festival/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/deprecated/festival/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/deprecated/scoutsOng/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/deprecated/scoutsOng/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/deprecated/scoutsOng/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/firstMai/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/firstMai/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/firstMai/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/fullSize/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/fullSize/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/fullSize/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/fullSize/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/thumbnail/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/thumbnail/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/thumbnail/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/article/thumbnail/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/presentation/displayOnShareImg_en.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/presentation/displayOnShareImg_ro.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/hayDays/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/marathon/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/marathon/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/marathon/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/monumentsRestorations/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/monumentsRestorations/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/monumentsRestorations/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/souvenirShop/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/souvenirShop/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/souvenirShop/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/steamTrain/article/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/steamTrain/article/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/steamTrain/article/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/steamTrain/article/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/steamTrain/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/steamTrain/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/events/steamTrain/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/homePage/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/homePage/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/common/article/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/common/article/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/common/article/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/common/article/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/common/article/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/common/article/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/common/article/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/common/article/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/summary/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/summary/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/summary/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/weekend/article/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/weekend/article/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/weekend/article/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/weekend/article/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/weekend/article/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/weekend/article/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/weekend/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/weekend/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/weekend/presentation/photshop.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/packages/weekend/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/15a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/15b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/15a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/15b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/article/reviewer/thumbnail/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reviews/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/abrud/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/abrud/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/bigHillRoad/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/bigHillRoad/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/bigHillRoad/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/bigHillRoad/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/carnicPlateau/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/carnicPlateau/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/carnicPlateau/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/carnicPlateau/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/carnicPlateau/fullSize/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/carnicPlateau/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/carnicPlateau/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/carnicPlateau/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/carnicPlateau/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/carnicPlateau/thumbnail/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/cetatePit/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/cetatePit/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/galleries/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/galleries/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/galleries/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/galleries/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/piatraDespicata/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/piatraDespicata/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/ravenStone/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/ravenStone/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/ravenStone/fullSize/piatraCorbului.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/ravenStone/fullSize/winter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/ravenStone/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/ravenStone/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/ravenStone/thumbnail/piatraCorbului.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/ravenStone/thumbnail/winter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/sphinx/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/sphinx/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/sphinx/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/sphinx/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/sphinx/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/carnic/sphinx/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/grecoCatholicChurch/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/grecoCatholicChurch/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/grecoCatholicChurch/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/grecoCatholicChurch/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/lupsa/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/lupsa/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/lupsa/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/lupsa/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/lupsa/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/lupsa/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/lupsa/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/lupsa/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/orthodoxChurch/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/orthodoxChurch/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/orthodoxChurch/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/orthodoxChurch/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/romanCatholicChurch/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/romanCatholicChurch/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/romanCatholicChurch/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/romanCatholicChurch/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/romanCatholicChurch/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/romanCatholicChurch/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/unitarianChurch/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/unitarianChurch/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/unitarianChurch/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/unitarianChurch/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/unitarianChurch/fullSize/biserici.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/unitarianChurch/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/unitarianChurch/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/unitarianChurch/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/unitarianChurch/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/churches/unitarianChurch/thumbnail/biserici.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/copperPit/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/copperPit/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/copperPit/fullSize/rosiaPoieniTourists.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/copperPit/fullSize/rosiaPoieniTourists2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/copperPit/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/copperPit/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/copperPit/thumbnail/rosiaPoieniTourists.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/copperPit/thumbnail/rosiaPoieniTourists2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/cornaRoad/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/cornaRoad/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/cornaRoad/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/cornaRoad/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/detunata/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/detunata/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/detunata/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/detunata/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/fullSize/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/fullSize/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/fullSize/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/fullSize/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/fullSize/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/fullSize/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/fullSize/taul-mare-turisti.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/thumbnail/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/thumbnail/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/thumbnail/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/thumbnail/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/thumbnail/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/thumbnail/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/bigLake/thumbnail/taul-mare-turisti.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/braziLake/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/braziLake/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/braziLake/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/braziLake/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/cornaLake/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/cornaLake/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/cornaLake/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/cornaLake/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/geamana/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/geamana/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/geamana/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/geamana/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/geamana/fullSize/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/geamana/fullSize/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/geamana/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/geamana/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/geamana/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/geamana/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/geamana/thumbnail/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/geamana/thumbnail/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/tariniLake/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/tariniLake/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/tariniLake/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/tariniLake/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/tariniLake/fullSize/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/tariniLake/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/tariniLake/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/tariniLake/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/tariniLake/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/lakes/tariniLake/thumbnail/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/letySulei/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/letySulei/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/letySulei/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/letySulei/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/letySulei/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/letySulei/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/letySulei/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/letySulei/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/muntariPoiana/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/muntariPoiana/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/muntariPoiana/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/muntariPoiana/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/muntariPoiana/fullSize/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/muntariPoiana/fullSize/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/muntariPoiana/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/muntariPoiana/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/muntariPoiana/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/muntariPoiana/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/muntariPoiana/thumbnail/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/muntariPoiana/thumbnail/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/orlea/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/orlea/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/orlea/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/orlea/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/panoramicBench/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/panoramicBench/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/panoramicBench/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/panoramicBench/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/romanGalleries/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/romanGalleries/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/romanGalleries/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/romanGalleries/fullSize/steampuri.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/romanGalleries/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/romanGalleries/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/romanGalleries/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/romanGalleries/thumbnail/steampuri.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/fullSize/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/fullSize/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/fullSize/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/fullSize/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/fullSize/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/fullSize/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/thumbnail/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/thumbnail/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/thumbnail/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/thumbnail/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/thumbnail/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/rotunduPeak/thumbnail/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/scarisoara/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/scarisoara/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/scarisoara/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/scarisoara/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/scarisoaraRoad/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/scarisoaraRoad/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/scarisoaraRoad/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/scarisoaraRoad/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sculpture/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sculpture/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sculpture/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sculpture/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/selisteRoad/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/selisteRoad/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/selisteRoad/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/selisteRoad/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/fullSize/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/fullSize/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/fullSize/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/fullSize/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/fullSize/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/fullSize/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/thumbnail/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/thumbnail/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/thumbnail/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/thumbnail/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/thumbnail/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/sicilianStreet/thumbnail/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/szekeyHouse/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/szekeyHouse/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/szekeyHouse/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/szekeyHouse/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vaidoaiaGalleries/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vaidoaiaGalleries/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vaidoaiaGalleries/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vaidoaiaGalleries/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vaidoaiaGalleries/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vaidoaiaGalleries/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vaidoaiaGalleries/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vaidoaiaGalleries/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/fullSize/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vartop/thumbnail/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vulcan/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vulcan/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vulcan/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/vulcan/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/zlatnaPool/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/zlatnaPool/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/zlatnaPool/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/attractions/zlatnaPool/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/carnic/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/carnic/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/carnic/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/corna/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/corna/presentation/displayOnShareImg_casa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/corna/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/corna/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/daffodilMeadow/article/fullSize/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/daffodilMeadow/article/fullSize/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/daffodilMeadow/article/thumbnail/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/daffodilMeadow/article/thumbnail/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/daffodilMeadow/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/daffodilMeadow/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/daffodilMeadow/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/detunata/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/detunata/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/detunata/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/fourLakes/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/fourLakes/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/fourLakes/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/geamana/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/geamana/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/geamana/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/historicCenter/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/historicCenter/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/historicCenter/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/letySulei/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/letySulei/presentation/displayOnShareImg_casa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/letySulei/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/letySulei/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/romanGalleries/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/romanGalleries/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/romanGalleries/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/scarisoara/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/scarisoara/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/scarisoara/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/summary/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/summary/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/summary/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/tarina/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/tarina/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/tarina/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/topAttractions/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/topAttractions/presentation/displayOnShareImg_casa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/topAttractions/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/topAttractions/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/vartop/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/vartop/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/vartop/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/vulcan/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/vulcan/presentation/displayOnShareImg_casa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/vulcan/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/vulcan/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/zlatnaPool/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/zlatnaPool/presentation/displayOnShareImg_casa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/zlatnaPool/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/trails/zlatnaPool/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/demo/1_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/demo/1_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/demo/2_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/demo/2_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/demo/3_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/demo/3_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/demo/4_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/demo/4_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/demo/5_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/demo/5_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/fancybox_loading@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/fancybox_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/fancybox_sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/helpers/fancybox_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/sprite.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/10403264_527741060660687_7901347910996221145_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/10419977_707569542667688_4117181047230530457_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/10474867_707991185958857_8848775746176473781_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/1233390_433733976739649_239433196_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/1888636_695734203851222_4686071536528695911_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/933981_433735410072839_1740862778_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/969062_433731763406537_1745390525_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/Traseu-maraton-2014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/10269522_669821116442531_6852188019831859158_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/10325136_695735357184440_676286747973043996_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/10361415_707991325958843_9012353170662581588_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/10363948_707569962667646_5679561777943454799_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/10387694_707847999306509_6314016440176722988_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/10402827_707991029292206_3574521699949656630_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/10408941_707569636001012_1945783267903887563_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/10419397_707848945973081_8945689424606332893_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/10457186_707991169292192_8180044660994392852_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/10458351_707568592667783_3783483913966690893_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/1606893_707847489306560_9176941745100739981_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/bicycle/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/bicycle/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/bicycle/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/bicycle/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/cycling/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/cycling/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/cycling/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/cycling/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/boardGames/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/boardGames/10151985_754360797936955_1046355787145322985_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/boardGames/10173791_754358317937203_7570391008433879082_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/boardGames/10175023_754361427936892_8855182013263488151_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/boardGames/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/boardGames/saboteur_game.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/camping/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/camping/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/camping/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/carousel/oldSquareRosiaMontana.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/film/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/film/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/books/fullSize/booksCloset.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/books/fullSize/booksLadder.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/books/fullSize/booksPlaces.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/books/fullSize/doorBook.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/books/fullSize/lostSuitcase.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/books/thumbnail/booksCloset.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/books/thumbnail/booksLadder.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/books/thumbnail/booksPlaces.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/books/thumbnail/doorBook.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/books/thumbnail/lostSuitcase.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/cozySpots/fullSize/coffeeTable.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/cozySpots/fullSize/hammock.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/cozySpots/fullSize/livingroom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/cozySpots/fullSize/pavilion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/cozySpots/thumbnail/coffeeTable.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/cozySpots/thumbnail/hammock.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/cozySpots/thumbnail/livingroom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/article/cozySpots/thumbnail/pavilion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/presentation/displayOnShareImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/presentation/fullWidthImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/img/relaxing/presentation/smallBoxImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/romtb/10294970_695734820517827_2080830396189057691_o.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/romtb/10348686_707569962667646_5679561777943454799_o.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/romtb/10355701_812134615544513_6065074708276535500_o.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/romtb/10380416_812134688877839_1310738279468500384_o.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/romtb/10387008_812134595544515_2461857480002833446_o.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/romtb/10431251_812135172211124_5205197350090997531_o.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/romtb/10472810_707570612667581_7449686156850119960_o.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/romtb/1400288_812135218877786_3259281634242549439_o.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/romtb/1403007_812134892211152_76924171361802133_o.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/romtb/1467434_927580873999886_6174652823271352261_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/romtb/1491390_695734203851222_4686071536528695911_o.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/romtb/1658263_812134382211203_5409398056553575008_o.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/temporar/10623508_975140449213046_5056318005092693351_o.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/temporar/77618153.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/vizitati-rosia-montana-la-fan-fest-2013-istorie-cultura-natura-peisaje-flora-biodiversitate-traditii-alimente-sanatoase-liniste-turism-ecologic-galerii-romane-vechi-proiect-min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/petriadrian.github.io.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/accommodation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/common/articles/attractions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/common/articles/facilities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/common/articles/guidesAndBikes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/common/articles/reviews.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/common/footer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/common/header.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/events/deprecated/festival.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/events/firstMai.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/events/hayDays.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/events/marathon.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/events/monumentsRestorations.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/events/souvenirShop.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/events/steamTrain.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/home.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/packages/summary.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/review.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/carnic.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/corna.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/daffodilMeadow.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/detunata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/fourLakes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/geamana.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/historicCenter.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/letySulei.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/romanGalleries.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/scarisoara.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/summary.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/tarina.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/topAttractions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/vartop.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/vulcan.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/en/trails/zlatnaPool.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/places_id_google" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/accommodation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/common/articles/attractions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/common/articles/guidesAndBikes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/common/articles/reviews.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/common/footer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/common/header.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/events/deprecated/festival.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/events/firstMai.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/events/hayDays.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/events/marathon.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/events/monumentsRestorations.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/events/scoutsOng.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/events/souvenirShop.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/events/steamTrain.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/home.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/packages/summary.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/packages/weekend.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/review.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/carnic.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/corna.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/daffodilMeadow.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/detunata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/fourLakes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/geamana.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/historicCenter.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/letySulei.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/romanGalleries.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/scarisoara.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/summary.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/tarina.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/topAttractions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/vartop.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/vulcan.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/ro/trails/zlatnaPool.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendors/daterangepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendors/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/send_mail.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/defaultTemplate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/header/headerManagement.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/header/subParts/iconsBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/header/subParts/importantButtonsBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/header/subParts/languageBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/header/subParts/logoBigColor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/header/subParts/logoSmallWhite.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/header/subParts/regularButtonsBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/header/subParts/toggleNavigationButton.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readMe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/enableIframeEventsOnClick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/error_log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/send_mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/demo/ajax.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/demo/iframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/demo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/lib/jquery-1.10.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/lib/jquery-1.9.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/lib/jquery.mousewheel-3.0.6.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/helpers/jquery.fancybox-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/helpers/jquery.fancybox-buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/helpers/jquery.fancybox-media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/helpers/jquery.fancybox-thumbs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/helpers/jquery.fancybox-thumbs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/fancyapps-fancyBox-v2.1.5-0/source/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendors/jquery.mousewheel-3.0.6.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sitemap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/_form.tmpl.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/_pageHeadline.tmpl.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/_sectionTitle.tmpl.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/_social.tmpl.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/aadvertise/_banner.tmpl.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/aadvertise/_carousel.tmpl.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/aadvertise/_detailBoxes.tmpl.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/aadvertise/_presentationManagement.tmpl.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/articles/_article.tmpl.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/articles/_articlesManagement.tmpl.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/en/activities/cycling.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/en/activities/hiking.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/ro/activities/cycling.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/bike/ro/activities/hiking.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/camping/camping.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/camping/en/camping.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/casaPetri.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/crawlersPageGenerator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/indexOld.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/modal/sendMailModal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/accommodation/casaPetri/camping.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/accommodation/casaPetri/facilities.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/accommodation/casaPetri/rooms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/activities/cycling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/activities/hiking.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/activities/trails.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/activities/trails/carnic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/activities/trails/detunata.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/activities/trails/fourLakes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/activities/trails/historicalCenter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/activities/trails/letySulei.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/activities/trails/romanGalleries.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/activities/trails/topAttractions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/activities/trails/weatherStation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/common/librariesImports/dateRangePicker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/common/librariesImports/defaultImports.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/common/librariesImports/photoAlbum.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/recommendations/negrileasa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/recommendations/steamTrain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/pages/review.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/relaxing.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/relaxing/ro/relaxing.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/template/_articlesWithImages.tmpl.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/template/_pageAdvertise.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/template/_pageAdvertiseBox.tmpl.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/template/_pageIntro.tmpl.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/template/_pageSectionTitles.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/template/_sendFeedbackForm.tmpl.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/template/businessCard.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/template/carousel.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/template/listWithIconTitleDetail.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/template/photoAlbumBox.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/template/reviewPreview.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/template/siteHeader/headerMenu.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zDeprecated/template/siteHeader/siteLogo.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="petriadrian.github.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="reviews.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/en/common/articles/reviews.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sitemap.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sitemap.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding>
+                <marker date="1485559434161" expanded="true" signature="2673:2826" ph="..." />
+                <marker date="1485559434161" expanded="true" signature="2766:2794" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="petriadrian.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="petriadrian.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\webStuffs\CasaPetri\proj\petriadrian.github.io" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="petriadrian.github.io" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="006279bb-7d29-445a-9c9c-36749ab5906d" name="Default" comment="" />
+      <changelist id="5b8bd276-a3a9-498c-aecc-c7109a0946e8" name="dfsd" comment="" />
+      <created>1485558956529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1485558956529</updated>
+      <workItem from="1485558957964" duration="1835000" />
+    </task>
+    <task id="LOCAL-00001" summary="dfsd">
+      <created>1485559065468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1485559065468</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dfsd">
+      <created>1485559650926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1485559650926</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1835000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.58615136" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dfsd" />
+    <option name="LAST_COMMIT_MESSAGE" value="dfsd" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/content/en/common/articles/reviews.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/reviews/article/reviewer/fullSize/15a.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding>
+            <marker date="1485559434161" expanded="true" signature="2673:2826" ph="..." />
+            <marker date="1485559434161" expanded="true" signature="2766:2794" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
